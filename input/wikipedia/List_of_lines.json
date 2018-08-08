@@ -1,0 +1,5273 @@
+[
+  {
+    "text": "日本の地域別鉄道路線一覧",
+    "title": "日本の地域別鉄道路線一覧",
+    "line": "日本の地域別鉄道路線一覧 - 地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%88%A5%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本の廃止鉄道路線一覧",
+    "title": "日本の廃止鉄道路線一覧",
+    "line": "日本の廃止鉄道路線一覧 - 廃止された鉄道路線が地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%83%E6%AD%A2%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "IRいしかわ鉄道線",
+    "title": "IRいしかわ鉄道線",
+    "line": "IRいしかわ鉄道線（IRいしかわ鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/IR%E3%81%84%E3%81%97%E3%81%8B%E3%82%8F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "愛知環状鉄道線",
+    "title": "愛知環状鉄道線",
+    "line": "愛知環状鉄道線 （愛知環状鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%92%B0%E7%8A%B6%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "会津線",
+    "title": "会津鉄道会津線",
+    "line": "会津線 （会津鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E9%89%84%E9%81%93%E4%BC%9A%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "会津鬼怒川線",
+    "title": "野岩鉄道会津鬼怒川線",
+    "line": "会津鬼怒川線 （野岩鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B2%A9%E9%89%84%E9%81%93%E4%BC%9A%E6%B4%A5%E9%AC%BC%E6%80%92%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "あいの風とやま鉄道線",
+    "title": "あいの風とやま鉄道線",
+    "line": "あいの風とやま鉄道線（あいの風とやま鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8%E3%81%A8%E3%82%84%E3%81%BE%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "粟生線",
+    "title": "神戸電鉄粟生線",
+    "line": "粟生線 （神戸電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E7%B2%9F%E7%94%9F%E7%B7%9A"
+  },
+  {
+    "text": "青い森鉄道線",
+    "title": "青い森鉄道線",
+    "line": "青い森鉄道線 （青い森鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9D%92%E3%81%84%E6%A3%AE%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "あおなみ線",
+    "title": "名古屋臨海高速鉄道あおなみ線",
+    "line": "あおなみ線 （愛称 : 名古屋臨海高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%81%82%E3%81%8A%E3%81%AA%E3%81%BF%E7%B7%9A"
+  },
+  {
+    "text": "赤崎線",
+    "title": "岩手開発鉄道赤崎線",
+    "line": "赤崎線 （貨物 : 岩手開発鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E9%96%8B%E7%99%BA%E9%89%84%E9%81%93%E8%B5%A4%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "赤迫支線",
+    "title": "長崎電気軌道赤迫支線",
+    "line": "赤迫支線 （長崎電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E8%B5%A4%E8%BF%AB%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "吾妻線",
+    "title": "吾妻線",
+    "line": "吾妻線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%BE%E5%A6%BB%E7%B7%9A"
+  },
+  {
+    "text": "赤羽線",
+    "title": "赤羽線",
+    "line": "赤羽線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E7%B7%9A"
+  },
+  {
+    "text": "秋田新幹線",
+    "title": "秋田新幹線",
+    "line": "秋田新幹線 （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "秋田内陸線",
+    "title": "秋田内陸縦貫鉄道秋田内陸線",
+    "line": "秋田内陸線 （秋田内陸縦貫鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%86%85%E9%99%B8%E7%B8%A6%E8%B2%AB%E9%89%84%E9%81%93%E7%A7%8B%E7%94%B0%E5%86%85%E9%99%B8%E7%B7%9A"
+  },
+  {
+    "text": "あきた♥美人ライン",
+    "title": "秋田内陸縦貫鉄道秋田内陸線",
+    "line": "あきた♥美人ライン （旧愛称 : 秋田内陸縦貫鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%86%85%E9%99%B8%E7%B8%A6%E8%B2%AB%E9%89%84%E9%81%93%E7%A7%8B%E7%94%B0%E5%86%85%E9%99%B8%E7%B7%9A"
+  },
+  {
+    "text": "秋田臨海鉄道線",
+    "title": "秋田臨海鉄道線",
+    "line": "秋田臨海鉄道線 （貨物 : 秋田臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "明知線",
+    "title": "明知鉄道明知線",
+    "line": "明知線 （明知鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%98%8E%E7%9F%A5%E9%89%84%E9%81%93%E6%98%8E%E7%9F%A5%E7%B7%9A"
+  },
+  {
+    "text": "赤穂線",
+    "title": "赤穂線",
+    "line": "赤穂線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%B7%9A"
+  },
+  {
+    "text": "阿佐線",
+    "title": "土佐くろしお鉄道阿佐線",
+    "line": "阿佐線 （土佐くろしお鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E9%89%84%E9%81%93%E9%98%BF%E4%BD%90%E7%B7%9A"
+  },
+  {
+    "text": "浅草線",
+    "title": "都営地下鉄浅草線",
+    "line": "浅草線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%B5%85%E8%8D%89%E7%B7%9A"
+  },
+  {
+    "text": "阿佐東線",
+    "title": "阿佐海岸鉄道阿佐東線",
+    "line": "阿佐東線 （阿佐海岸鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E6%B5%B7%E5%B2%B8%E9%89%84%E9%81%93%E9%98%BF%E4%BD%90%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "浅野川線",
+    "title": "北陸鉄道浅野川線",
+    "line": "浅野川線 （北陸鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E9%89%84%E9%81%93%E6%B5%85%E9%87%8E%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "アストラムライン",
+    "title": "広島高速交通広島新交通1号線",
+    "line": "アストラムライン （愛称 : 広島高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E5%BA%83%E5%B3%B6%E6%96%B0%E4%BA%A4%E9%80%9A1%E5%8F%B7%E7%B7%9A"
+  },
+  {
+    "text": "東田本線",
+    "title": "豊橋鉄道東田本線",
+    "line": "東田本線 （豊橋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%89%84%E9%81%93%E6%9D%B1%E7%94%B0%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "阿蘇高原線",
+    "title": "豊肥本線",
+    "line": "阿蘇高原線 （愛称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%82%A5%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "厚木線",
+    "title": "相鉄厚木線",
+    "line": "厚木線 （貨物 : 相模鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%89%84%E5%8E%9A%E6%9C%A8%E7%B7%9A"
+  },
+  {
+    "text": "渥美線",
+    "title": "豊橋鉄道渥美線",
+    "line": "渥美線 （豊橋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%89%84%E9%81%93%E6%B8%A5%E7%BE%8E%E7%B7%9A"
+  },
+  {
+    "text": "アーバンパークライン",
+    "title": "東武野田線",
+    "line": "アーバンパークライン （愛称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "我孫子支線",
+    "title": "成田線",
+    "line": "我孫子支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "阿武隈急行線",
+    "title": "阿武隈急行線",
+    "line": "阿武隈急行線 （阿武隈急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%AD%A6%E9%9A%88%E6%80%A5%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "網干線",
+    "title": "山陽電気鉄道網干線",
+    "line": "網干線 （山陽電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E7%B6%B2%E5%B9%B2%E7%B7%9A"
+  },
+  {
+    "text": "甘木線",
+    "title": "甘木鉄道甘木線",
+    "line": "甘木線 （甘木鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%94%98%E6%9C%A8%E9%89%84%E9%81%93%E7%94%98%E6%9C%A8%E7%B7%9A"
+  },
+  {
+    "text": "甘木線",
+    "title": "西鉄甘木線",
+    "line": "甘木線 （西日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E7%94%98%E6%9C%A8%E7%B7%9A"
+  },
+  {
+    "text": "あまくさみすみ線",
+    "title": "三角線",
+    "line": "あまくさみすみ線 （愛称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E7%B7%9A"
+  },
+  {
+    "text": "天橋立鋼索鉄道",
+    "title": "天橋立鋼索鉄道",
+    "line": "天橋立鋼索鉄道 （通称 : 丹後海陸交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%A9%8B%E7%AB%8B%E9%8B%BC%E7%B4%A2%E9%89%84%E9%81%93"
+  },
+  {
+    "text": "荒川線",
+    "title": "都電荒川線",
+    "line": "荒川線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%9B%BB%E8%8D%92%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "嵐山線",
+    "title": "阪急嵐山線",
+    "line": "嵐山線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E5%B5%90%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "嵐山本線",
+    "title": "京福電気鉄道嵐山本線",
+    "line": "嵐山本線 （京福電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E5%B5%90%E5%B1%B1%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "左沢線",
+    "title": "左沢線",
+    "line": "左沢線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B7%A6%E6%B2%A2%E7%B7%9A"
+  },
+  {
+    "text": "有馬線",
+    "title": "神戸電鉄有馬線",
+    "line": "有馬線 （神戸電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E6%9C%89%E9%A6%AC%E7%B7%9A"
+  },
+  {
+    "text": "阿波室戸シーサイドライン",
+    "title": "牟岐線",
+    "line": "阿波室戸シーサイドライン （愛称 : 四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%89%9F%E5%B2%90%E7%B7%9A"
+  },
+  {
+    "text": "飯坂線",
+    "title": "福島交通飯坂線",
+    "line": "飯坂線 （福島交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E4%BA%A4%E9%80%9A%E9%A3%AF%E5%9D%82%E7%B7%9A"
+  },
+  {
+    "text": "飯田線",
+    "title": "飯田線",
+    "line": "飯田線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "飯山線",
+    "title": "飯山線",
+    "line": "飯山線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "伊賀線",
+    "title": "伊賀鉄道伊賀線",
+    "line": "伊賀線 （伊賀鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B3%80%E9%89%84%E9%81%93%E4%BC%8A%E8%B3%80%E7%B7%9A"
+  },
+  {
+    "text": "井川線",
+    "title": "大井川鐵道井川線",
+    "line": "井川線 （大井川鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BA%95%E5%B7%9D%E9%90%B5%E9%81%93%E4%BA%95%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "池上線",
+    "title": "東急池上線",
+    "line": "池上線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A"
+  },
+  {
+    "text": "池袋線",
+    "title": "西武池袋線",
+    "line": "池袋線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A"
+  },
+  {
+    "text": "生駒線",
+    "title": "近鉄生駒線",
+    "line": "生駒線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E7%94%9F%E9%A7%92%E7%B7%9A"
+  },
+  {
+    "text": "生駒鋼索線",
+    "title": "近鉄生駒鋼索線",
+    "line": "生駒鋼索線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E7%94%9F%E9%A7%92%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "石川線",
+    "title": "北陸鉄道石川線",
+    "line": "石川線 （北陸鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E9%89%84%E9%81%93%E7%9F%B3%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "石巻線",
+    "title": "石巻線",
+    "line": "石巻線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E7%B7%9A"
+  },
+  {
+    "text": "石山坂本線",
+    "title": "京阪石山坂本線",
+    "line": "石山坂本線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E7%9F%B3%E5%B1%B1%E5%9D%82%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "伊豆急行線",
+    "title": "伊豆急行線",
+    "line": "伊豆急行線 （伊豆急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E6%80%A5%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "いすみ線",
+    "title": "いすみ鉄道いすみ線",
+    "line": "いすみ線 （いすみ鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%99%E3%81%BF%E9%89%84%E9%81%93%E3%81%84%E3%81%99%E3%81%BF%E7%B7%9A"
+  },
+  {
+    "text": "いずみ野線",
+    "title": "相鉄いずみ野線",
+    "line": "いずみ野線 （相模鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%89%84%E3%81%84%E3%81%9A%E3%81%BF%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "伊勢線",
+    "title": "伊勢鉄道伊勢線",
+    "line": "伊勢線 （伊勢鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E9%89%84%E9%81%93%E4%BC%8A%E5%8B%A2%E7%B7%9A"
+  },
+  {
+    "text": "伊勢崎線",
+    "title": "東武伊勢崎線",
+    "line": "伊勢崎線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BC%8A%E5%8B%A2%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "伊田線",
+    "title": "平成筑豊鉄道伊田線",
+    "line": "伊田線 （平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E4%BC%8A%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "伊丹線",
+    "title": "阪急伊丹線",
+    "line": "伊丹線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E4%BC%8A%E4%B8%B9%E7%B7%9A"
+  },
+  {
+    "text": "市橋線",
+    "title": "西濃鉄道市橋線",
+    "line": "市橋線 （貨物 : 西濃鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%BF%83%E9%89%84%E9%81%93%E5%B8%82%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "五日市線",
+    "title": "五日市線",
+    "line": "五日市線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%94%E6%97%A5%E5%B8%82%E7%B7%9A"
+  },
+  {
+    "text": "伊東線",
+    "title": "伊東線",
+    "line": "伊東線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "糸田線",
+    "title": "平成筑豊鉄道糸田線",
+    "line": "糸田線 （平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E7%B3%B8%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "伊奈線",
+    "title": "埼玉新都市交通伊奈線",
+    "line": "伊奈線 （埼玉新都市交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E6%96%B0%E9%83%BD%E5%B8%82%E4%BA%A4%E9%80%9A%E4%BC%8A%E5%A5%88%E7%B7%9A"
+  },
+  {
+    "text": "稲沢線",
+    "title": "稲沢線",
+    "line": "稲沢線 （通称 : 東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E6%B2%A2%E7%B7%9A"
+  },
+  {
+    "text": "犬山線",
+    "title": "名鉄犬山線",
+    "line": "犬山線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%8A%AC%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "犬山モノレール",
+    "title": "名鉄モンキーパークモノレール線",
+    "line": "犬山モノレール （通称 : 名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "伊野線",
+    "title": "とさでん交通伊野線",
+    "line": "伊野線 （とさでん交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%95%E3%81%A7%E3%82%93%E4%BA%A4%E9%80%9A%E4%BC%8A%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "井の頭線",
+    "title": "京王井の頭線",
+    "line": "井の頭線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A"
+  },
+  {
+    "text": "井原線",
+    "title": "井原鉄道井原線",
+    "line": "井原線 （井原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%95%E5%8E%9F%E9%89%84%E9%81%93%E4%BA%95%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "揖斐線",
+    "title": "名鉄揖斐線",
+    "line": "揖斐線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E6%8F%96%E6%96%90%E7%B7%9A"
+  },
+  {
+    "text": "揖斐線",
+    "title": "養老鉄道養老線",
+    "line": "揖斐線 （通称 : 養老鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A4%8A%E8%80%81%E9%89%84%E9%81%93%E9%A4%8A%E8%80%81%E7%B7%9A"
+  },
+  {
+    "text": "指宿枕崎線",
+    "title": "指宿枕崎線",
+    "line": "指宿枕崎線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%8C%87%E5%AE%BF%E6%9E%95%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "今里筋線",
+    "title": "大阪市高速電気軌道今里筋線",
+    "line": "今里筋線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%BB%8A%E9%87%8C%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "今津線",
+    "title": "阪急今津線",
+    "line": "今津線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E4%BB%8A%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "いわて銀河鉄道線",
+    "title": "いわて銀河鉄道線",
+    "line": "いわて銀河鉄道線 （IGRいわて銀河鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%A6%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "因美線",
+    "title": "因美線",
+    "line": "因美線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9B%A0%E7%BE%8E%E7%B7%9A"
+  },
+  {
+    "text": "羽越本線",
+    "title": "羽越本線",
+    "line": "羽越本線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E8%B6%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "上野懸垂線",
+    "title": "東京都交通局上野懸垂線",
+    "line": "上野懸垂線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%E4%B8%8A%E9%87%8E%E6%87%B8%E5%9E%82%E7%B7%9A"
+  },
+  {
+    "text": "上野公園モノレール",
+    "title": "東京都交通局上野懸垂線",
+    "line": "上野公園モノレール （通称 : 東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%E4%B8%8A%E9%87%8E%E6%87%B8%E5%9E%82%E7%B7%9A"
+  },
+  {
+    "text": "上野東京ライン",
+    "title": "上野東京ライン",
+    "line": "上野東京ライン（愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "上野動物園モノレール",
+    "title": "東京都交通局上野懸垂線",
+    "line": "上野動物園モノレール （通称 : 東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%E4%B8%8A%E9%87%8E%E6%87%B8%E5%9E%82%E7%B7%9A"
+  },
+  {
+    "text": "上野モノレール",
+    "title": "東京都交通局上野懸垂線",
+    "line": "上野モノレール （通称 : 東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%E4%B8%8A%E9%87%8E%E6%87%B8%E5%9E%82%E7%B7%9A"
+  },
+  {
+    "text": "上町線",
+    "title": "阪堺電気軌道上町線",
+    "line": "上町線 （阪堺電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%A0%BA%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%B8%8A%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "浮島線",
+    "title": "神奈川臨海鉄道浮島線",
+    "line": "浮島線 （貨物 : 神奈川臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%B5%AE%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "宇治線",
+    "title": "京阪宇治線",
+    "line": "宇治線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E5%AE%87%E6%B2%BB%E7%B7%9A"
+  },
+  {
+    "text": "宇品線",
+    "title": "広島電鉄宇品線",
+    "line": "宇品線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E5%AE%87%E5%93%81%E7%B7%9A"
+  },
+  {
+    "text": "内子線",
+    "title": "内子線",
+    "line": "内子線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%AD%90%E7%B7%9A"
+  },
+  {
+    "text": "内房線",
+    "title": "内房線",
+    "line": "内房線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%86%85%E6%88%BF%E7%B7%9A"
+  },
+  {
+    "text": "宇都宮線",
+    "title": "東武宇都宮線",
+    "line": "宇都宮線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E5%AE%87%E9%83%BD%E5%AE%AE%E7%B7%9A"
+  },
+  {
+    "text": "宇都宮線",
+    "title": "宇都宮線",
+    "line": "宇都宮線 （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E7%B7%9A"
+  },
+  {
+    "text": "内部線",
+    "title": "四日市あすなろう鉄道内部線",
+    "line": "内部線 （四日市あすなろう鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E3%81%82%E3%81%99%E3%81%AA%E3%82%8D%E3%81%86%E9%89%84%E9%81%93%E5%86%85%E9%83%A8%E7%B7%9A"
+  },
+  {
+    "text": "宇野線",
+    "title": "宇野線",
+    "line": "宇野線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "梅田貨物線",
+    "title": "梅田貨物線",
+    "line": "梅田貨物線 （通称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0%E8%B2%A8%E7%89%A9%E7%B7%9A"
+  },
+  {
+    "text": "宇部線",
+    "title": "宇部線",
+    "line": "宇部線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%A8%E7%B7%9A"
+  },
+  {
+    "text": "海芝浦支線",
+    "title": "鶴見線",
+    "line": "海芝浦支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "うみねこレール八戸市内線",
+    "title": "八戸線",
+    "line": "うみねこレール八戸市内線 （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "宇美線",
+    "title": "香椎線",
+    "line": "宇美線 （通称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%A4%8E%E7%B7%9A"
+  },
+  {
+    "text": "海の中道線",
+    "title": "香椎線",
+    "line": "海の中道線 （愛称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%A4%8E%E7%B7%9A"
+  },
+  {
+    "text": "叡山ケーブル",
+    "title": "京福電気鉄道鋼索線",
+    "line": "叡山ケーブル （通称 : 京福電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "叡山本線",
+    "title": "叡山電鉄叡山本線",
+    "line": "叡山本線 （叡山電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8F%A1%E5%B1%B1%E9%9B%BB%E9%89%84%E5%8F%A1%E5%B1%B1%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "駅前線",
+    "title": "とさでん交通桟橋線",
+    "line": "駅前線 （通称 : とさでん交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%95%E3%81%A7%E3%82%93%E4%BA%A4%E9%80%9A%E6%A1%9F%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "駅桟線",
+    "title": "とさでん交通桟橋線",
+    "line": "駅桟線 （通称 : とさでん交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%95%E3%81%A7%E3%82%93%E4%BA%A4%E9%80%9A%E6%A1%9F%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "江差線",
+    "title": "江差線",
+    "line": "江差線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%AE%E7%B7%9A"
+  },
+  {
+    "text": "越後線",
+    "title": "越後線",
+    "line": "越後線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%BE%8C%E7%B7%9A"
+  },
+  {
+    "text": "越中島支線",
+    "title": "越中島支線",
+    "line": "越中島支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E4%B8%AD%E5%B3%B6%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "越美南線",
+    "title": "長良川鉄道越美南線",
+    "line": "越美南線 （長良川鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%89%AF%E5%B7%9D%E9%89%84%E9%81%93%E8%B6%8A%E7%BE%8E%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "越美北線",
+    "title": "越美北線",
+    "line": "越美北線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E7%BE%8E%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "江の島線",
+    "title": "湘南モノレール江の島線",
+    "line": "江の島線 （湘南モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E6%B1%9F%E3%81%AE%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "江ノ島線",
+    "title": "小田急江ノ島線",
+    "line": "江ノ島線 （小田急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E6%80%A5%E6%B1%9F%E3%83%8E%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "江ノ島電鉄線",
+    "title": "江ノ島電鉄線",
+    "line": "江ノ島電鉄線 （江ノ島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84%E7%B7%9A"
+  },
+  {
+    "text": "江波線",
+    "title": "広島電鉄江波線",
+    "line": "江波線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E6%B1%9F%E6%B3%A2%E7%B7%9A"
+  },
+  {
+    "text": "えびの高原線",
+    "title": "えびの高原線",
+    "line": "えびの高原線 （愛称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%B3%E3%81%AE%E9%AB%98%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "奥羽本線",
+    "title": "奥羽本線",
+    "line": "奥羽本線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E7%BE%BD%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "鴨東線",
+    "title": "京阪鴨東線",
+    "line": "鴨東線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E9%B4%A8%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "青梅線",
+    "title": "青梅線",
+    "line": "青梅線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A2%85%E7%B7%9A"
+  },
+  {
+    "text": "大洗鹿島線",
+    "title": "鹿島臨海鉄道大洗鹿島線",
+    "line": "大洗鹿島線 （鹿島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%A4%A7%E6%B4%97%E9%B9%BF%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "大井川本線",
+    "title": "大井川鐵道大井川本線",
+    "line": "大井川本線 （大井川鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BA%95%E5%B7%9D%E9%90%B5%E9%81%93%E5%A4%A7%E4%BA%95%E5%B7%9D%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "大糸線",
+    "title": "大糸線",
+    "line": "大糸線 （東日本旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%B3%B8%E7%B7%9A"
+  },
+  {
+    "text": "大井町線",
+    "title": "東急大井町線",
+    "line": "大井町線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "大浦支線",
+    "title": "長崎電気軌道大浦支線",
+    "line": "大浦支線 （長崎電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%A4%A7%E6%B5%A6%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "大江戸線",
+    "title": "都営地下鉄大江戸線",
+    "line": "大江戸線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "大川支線",
+    "title": "鶴見線",
+    "line": "大川支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "大阪線",
+    "title": "近鉄大阪線",
+    "line": "大阪線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%A4%A7%E9%98%AA%E7%B7%9A"
+  },
+  {
+    "text": "大阪環状線",
+    "title": "大阪環状線",
+    "line": "大阪環状線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E7%92%B0%E7%8A%B6%E7%B7%9A"
+  },
+  {
+    "text": "おおさか東線",
+    "title": "おおさか東線",
+    "line": "おおさか東線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%8A%E3%81%95%E3%81%8B%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "大阪モノレール線",
+    "title": "大阪高速鉄道大阪モノレール線",
+    "line": "大阪モノレール線 （大阪高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E5%A4%A7%E9%98%AA%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "大崎支線",
+    "title": "大崎支線",
+    "line": "大崎支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B4%8E%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "太田線",
+    "title": "東武小泉線",
+    "line": "太田線 （通称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E5%B0%8F%E6%B3%89%E7%B7%9A"
+  },
+  {
+    "text": "大津線",
+    "title": "京阪大津線",
+    "line": "大津線 （総称 : 京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E5%A4%A7%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "大月線",
+    "title": "富士急行線",
+    "line": "大月線 （富士急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "大手町線",
+    "title": "伊予鉄道大手町線",
+    "line": "大手町線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E5%A4%A7%E6%89%8B%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "大船渡線",
+    "title": "大船渡線",
+    "line": "大船渡線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%88%B9%E6%B8%A1%E7%B7%9A"
+  },
+  {
+    "text": "大湊線",
+    "title": "大湊線",
+    "line": "大湊線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E7%B7%9A"
+  },
+  {
+    "text": "大宮線",
+    "title": "東武野田線",
+    "line": "大宮線 （通称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "大村線",
+    "title": "大村線",
+    "line": "大村線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E7%B7%9A"
+  },
+  {
+    "text": "大森線",
+    "title": "函館市電大森線",
+    "line": "大森線 （函館市企業局交通部）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9B%BB%E5%A4%A7%E6%A3%AE%E7%B7%9A"
+  },
+  {
+    "text": "大山ケーブルカー",
+    "title": "大山観光電鉄大山鋼索線",
+    "line": "大山ケーブルカー （通称 : 大山観光電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E8%A6%B3%E5%85%89%E9%9B%BB%E9%89%84%E5%A4%A7%E5%B1%B1%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "大山鋼索線",
+    "title": "大山観光電鉄大山鋼索線",
+    "line": "大山鋼索線 （大山観光電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E8%A6%B3%E5%85%89%E9%9B%BB%E9%89%84%E5%A4%A7%E5%B1%B1%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "大鰐線",
+    "title": "弘南鉄道大鰐線",
+    "line": "大鰐線 （弘南鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%8D%97%E9%89%84%E9%81%93%E5%A4%A7%E9%B0%90%E7%B7%9A"
+  },
+  {
+    "text": "男鹿線",
+    "title": "男鹿線",
+    "line": "男鹿線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%94%B7%E9%B9%BF%E7%B7%9A"
+  },
+  {
+    "text": "男鹿なまはげライン",
+    "title": "男鹿線",
+    "line": "男鹿なまはげライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%94%B7%E9%B9%BF%E7%B7%9A"
+  },
+  {
+    "text": "沖縄都市モノレール線",
+    "title": "沖縄都市モノレール線",
+    "line": "沖縄都市モノレール線 （沖縄都市モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "奥久慈清流ライン",
+    "title": "水郡線",
+    "line": "奥久慈清流ライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%A1%E7%B7%9A"
+  },
+  {
+    "text": "奥の細道最上川ライン",
+    "title": "陸羽西線",
+    "line": "奥の細道最上川ライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "奥の細道湯けむりライン",
+    "title": "陸羽東線",
+    "line": "奥の細道湯けむりライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "越生線",
+    "title": "東武越生線",
+    "line": "越生線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E8%B6%8A%E7%94%9F%E7%B7%9A"
+  },
+  {
+    "text": "押上線",
+    "title": "京成押上線",
+    "line": "押上線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%8A%BC%E4%B8%8A%E7%B7%9A"
+  },
+  {
+    "text": "小田原線",
+    "title": "小田急小田原線",
+    "line": "小田原線 （小田急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E6%80%A5%E5%B0%8F%E7%94%B0%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "男山ケーブル",
+    "title": "京阪鋼索線",
+    "line": "男山ケーブル （通称 : 京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "小野田線",
+    "title": "小野田線",
+    "line": "小野田線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "小浜線",
+    "title": "小浜線",
+    "line": "小浜線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B5%9C%E7%B7%9A"
+  },
+  {
+    "text": "ガーラ湯沢線",
+    "title": "上越線",
+    "line": "ガーラ湯沢線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E7%B7%9A"
+  },
+  {
+    "text": "海岸線",
+    "title": "神戸市営地下鉄海岸線",
+    "line": "海岸線 （神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%B5%B7%E5%B2%B8%E7%B7%9A"
+  },
+  {
+    "text": "海峡線",
+    "title": "海峡線",
+    "line": "海峡線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B3%A1%E7%B7%9A"
+  },
+  {
+    "text": "貝塚線",
+    "title": "西鉄貝塚線",
+    "line": "貝塚線 （西日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E8%B2%9D%E5%A1%9A%E7%B7%9A"
+  },
+  {
+    "text": "ガイドウェイバス志段味線",
+    "title": "名古屋ガイドウェイバスガイドウェイバス志段味線",
+    "line": "ガイドウェイバス志段味線 （名古屋ガイドウェイバス）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%90%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%90%E3%82%B9%E5%BF%97%E6%AE%B5%E5%91%B3%E7%B7%9A"
+  },
+  {
+    "text": "各務原線",
+    "title": "名鉄各務原線",
+    "line": "各務原線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%90%84%E5%8B%99%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "学園都市線",
+    "title": "札沼線",
+    "line": "学園都市線 （愛称 : 北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E6%B2%BC%E7%B7%9A"
+  },
+  {
+    "text": "岳南線",
+    "title": "岳南電車岳南線",
+    "line": "岳南線 （岳南電車）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%B3%E5%8D%97%E9%9B%BB%E8%BB%8A%E5%B2%B3%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "岳南鉄道線",
+    "title": "岳南電車岳南線",
+    "line": "岳南鉄道線 （旧称 : 岳南電車）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%B3%E5%8D%97%E9%9B%BB%E8%BB%8A%E5%B2%B3%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "岳南電車線",
+    "title": "岳南電車岳南線",
+    "line": "岳南電車線 （通称 : 岳南電車）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%B3%E5%8D%97%E9%9B%BB%E8%BB%8A%E5%B2%B3%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "加古川線",
+    "title": "加古川線",
+    "line": "加古川線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "鹿児島本線",
+    "title": "鹿児島本線",
+    "line": "鹿児島本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "傘松ケーブル",
+    "title": "天橋立鋼索鉄道",
+    "line": "傘松ケーブル （通称 : 丹後海陸交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%A9%8B%E7%AB%8B%E9%8B%BC%E7%B4%A2%E9%89%84%E9%81%93"
+  },
+  {
+    "text": "香椎線",
+    "title": "香椎線",
+    "line": "香椎線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%A4%8E%E7%B7%9A"
+  },
+  {
+    "text": "橿原線",
+    "title": "近鉄橿原線",
+    "line": "橿原線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E6%A9%BF%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "鹿島線",
+    "title": "鹿島線",
+    "line": "鹿島線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "鹿島鉄道線",
+    "title": "鹿島鉄道線",
+    "line": "鹿島鉄道線 （鹿島鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "鹿島臨港線",
+    "title": "鹿島臨海鉄道鹿島臨港線",
+    "line": "鹿島臨港線 （鹿島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E9%B9%BF%E5%B3%B6%E8%87%A8%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "加太線",
+    "title": "南海加太線",
+    "line": "加太線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E5%8A%A0%E5%A4%AA%E7%B7%9A"
+  },
+  {
+    "text": "交野線",
+    "title": "京阪交野線",
+    "line": "交野線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E4%BA%A4%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "片町線",
+    "title": "片町線",
+    "line": "片町線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%89%87%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "学研都市線",
+    "title": "片町線",
+    "line": "学研都市線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%89%87%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "勝山永平寺線",
+    "title": "えちぜん鉄道勝山永平寺線",
+    "line": "勝山永平寺線 （えちぜん鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E9%89%84%E9%81%93%E5%8B%9D%E5%B1%B1%E6%B0%B8%E5%B9%B3%E5%AF%BA%E7%B7%9A"
+  },
+  {
+    "text": "金沢シーサイドライン",
+    "title": "横浜シーサイドライン金沢シーサイドライン",
+    "line": "金沢シーサイドライン （横浜シーサイドライン）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%82%B7%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E9%87%91%E6%B2%A2%E3%82%B7%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "金町線",
+    "title": "京成金町線",
+    "line": "金町線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%87%91%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "可部線",
+    "title": "可部線",
+    "line": "可部線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8F%AF%E9%83%A8%E7%B7%9A"
+  },
+  {
+    "text": "釜石線",
+    "title": "釜石線",
+    "line": "釜石線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E7%B7%9A"
+  },
+  {
+    "text": "蒲郡線",
+    "title": "名鉄蒲郡線",
+    "line": "蒲郡線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E8%92%B2%E9%83%A1%E7%B7%9A"
+  },
+  {
+    "text": "上飯田線",
+    "title": "名古屋市営地下鉄上飯田線",
+    "line": "上飯田線 （通称 : 名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%8A%E9%A3%AF%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "上熊本線",
+    "title": "熊本市電上熊本線",
+    "line": "上熊本線 （熊本市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E9%9B%BB%E4%B8%8A%E7%86%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "上高地線",
+    "title": "アルピコ交通上高地線",
+    "line": "上高地線 （アルピコ交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%94%E3%82%B3%E4%BA%A4%E9%80%9A%E4%B8%8A%E9%AB%98%E5%9C%B0%E7%B7%9A"
+  },
+  {
+    "text": "上滝線",
+    "title": "富山地方鉄道上滝線",
+    "line": "上滝線 （富山地方鉄道（鉄道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E4%B8%8A%E6%BB%9D%E7%B7%9A"
+  },
+  {
+    "text": "亀戸線",
+    "title": "東武亀戸線",
+    "line": "亀戸線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BA%80%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "烏丸線",
+    "title": "京都市営地下鉄烏丸線",
+    "line": "烏丸線 （京都市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E7%83%8F%E4%B8%B8%E7%B7%9A"
+  },
+  {
+    "text": "烏山線",
+    "title": "烏山線",
+    "line": "烏山線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "唐津線",
+    "title": "唐津線",
+    "line": "唐津線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "河口湖線",
+    "title": "富士急行線",
+    "line": "河口湖線 （富士急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "川越線",
+    "title": "川越線",
+    "line": "川越線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E7%B7%9A"
+  },
+  {
+    "text": "幹線",
+    "title": "熊本市電幹線",
+    "line": "幹線 （熊本市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E9%9B%BB%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "関西空港線",
+    "title": "関西空港線",
+    "line": "関西空港線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "関西線 (名古屋地区)",
+    "title": "関西線 (名古屋地区)",
+    "line": "関西線 (名古屋地区) （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E7%B7%9A_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9C%B0%E5%8C%BA)"
+  },
+  {
+    "text": "関西本線",
+    "title": "関西本線",
+    "line": "関西本線 （東海旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "関電トンネルトロリーバス",
+    "title": "関電トンネルトロリーバス",
+    "line": "関電トンネルトロリーバス （通称 : 関西電力）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E9%9B%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%88%E3%83%AD%E3%83%AA%E3%83%BC%E3%83%90%E3%82%B9"
+  },
+  {
+    "text": "岩徳線",
+    "title": "岩徳線",
+    "line": "岩徳線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%BE%B3%E7%B7%9A"
+  },
+  {
+    "text": "菊池線",
+    "title": "熊本電気鉄道菊池線",
+    "line": "菊池線 （熊本電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E8%8F%8A%E6%B1%A0%E7%B7%9A"
+  },
+  {
+    "text": "貴志川線",
+    "title": "和歌山電鐵貴志川線",
+    "line": "貴志川線 （和歌山電鐵）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E9%9B%BB%E9%90%B5%E8%B2%B4%E5%BF%97%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "紀州鉄道線",
+    "title": "紀州鉄道線",
+    "line": "紀州鉄道線 （紀州鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B4%80%E5%B7%9E%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "姫新線",
+    "title": "姫新線",
+    "line": "姫新線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E6%96%B0%E7%B7%9A"
+  },
+  {
+    "text": "木次線",
+    "title": "木次線",
+    "line": "木次線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%AC%A1%E7%B7%9A"
+  },
+  {
+    "text": "紀勢本線",
+    "title": "紀勢本線",
+    "line": "紀勢本線 （東海旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B4%80%E5%8B%A2%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "北アルプス線",
+    "title": "大糸線",
+    "line": "北アルプス線 （愛称 : 東日本旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%B3%B8%E7%B7%9A"
+  },
+  {
+    "text": "北上線",
+    "title": "北上線",
+    "line": "北上線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E7%B7%9A"
+  },
+  {
+    "text": "北九州銀行レトロライン",
+    "title": "平成筑豊鉄道門司港レトロ観光線",
+    "line": "北九州銀行レトロライン（愛称 : 平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD%E8%A6%B3%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "北野線",
+    "title": "京福電気鉄道北野線",
+    "line": "北野線 （京福電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E5%8C%97%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "北しなの線",
+    "title": "しなの鉄道北しなの線",
+    "line": "北しなの線 （しなの鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%AA%E3%81%AE%E9%89%84%E9%81%93%E5%8C%97%E3%81%97%E3%81%AA%E3%81%AE%E7%B7%9A"
+  },
+  {
+    "text": "北松江線",
+    "title": "一畑電車北松江線",
+    "line": "北松江線 （一畑電車）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%95%91%E9%9B%BB%E8%BB%8A%E5%8C%97%E6%9D%BE%E6%B1%9F%E7%B7%9A"
+  },
+  {
+    "text": "北目線",
+    "title": "島原鉄道線",
+    "line": "北目線 （通称 : 島原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%8E%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "北リアス線",
+    "title": "三陸鉄道北リアス線",
+    "line": "北リアス線 （三陸鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E9%89%84%E9%81%93%E5%8C%97%E3%83%AA%E3%82%A2%E3%82%B9%E7%B7%9A"
+  },
+  {
+    "text": "吉都線",
+    "title": "吉都線",
+    "line": "吉都線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%83%BD%E7%B7%9A"
+  },
+  {
+    "text": "鬼怒川線",
+    "title": "東武鬼怒川線",
+    "line": "鬼怒川線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E9%AC%BC%E6%80%92%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "きのくに線",
+    "title": "紀勢本線",
+    "line": "きのくに線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B4%80%E5%8B%A2%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "吉備線",
+    "title": "吉備線",
+    "line": "吉備線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E7%B7%9A"
+  },
+  {
+    "text": "岐阜市内線",
+    "title": "名鉄岐阜市内線",
+    "line": "岐阜市内線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%B2%90%E9%98%9C%E5%B8%82%E5%86%85%E7%B7%9A"
+  },
+  {
+    "text": "九州新幹線",
+    "title": "九州新幹線",
+    "line": "九州新幹線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "九州新幹線 (鹿児島ルート)",
+    "title": "九州新幹線 (鹿児島ルート)",
+    "line": "九州新幹線 (鹿児島ルート) （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A_(%E9%B9%BF%E5%85%90%E5%B3%B6%E3%83%AB%E3%83%BC%E3%83%88)"
+  },
+  {
+    "text": "九州新幹線 (長崎ルート)",
+    "title": "九州新幹線 (長崎ルート)",
+    "line": "九州新幹線 (長崎ルート) （九州旅客鉄道）  :  未開業",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A_(%E9%95%B7%E5%B4%8E%E3%83%AB%E3%83%BC%E3%83%88)"
+  },
+  {
+    "text": "久大本線",
+    "title": "久大本線",
+    "line": "久大本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%A4%A7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "京都線",
+    "title": "近鉄京都線",
+    "line": "京都線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E4%BA%AC%E9%83%BD%E7%B7%9A"
+  },
+  {
+    "text": "JR京都線",
+    "title": "JR京都線",
+    "line": "JR京都線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E4%BA%AC%E9%83%BD%E7%B7%9A"
+  },
+  {
+    "text": "京都本線",
+    "title": "阪急京都本線",
+    "line": "京都本線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E4%BA%AC%E9%83%BD%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "桐生線",
+    "title": "東武桐生線",
+    "line": "桐生線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E6%A1%90%E7%94%9F%E7%B7%9A"
+  },
+  {
+    "text": "銀河ドリームライン釜石線",
+    "title": "釜石線",
+    "line": "銀河ドリームライン釜石線 （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E7%B7%9A"
+  },
+  {
+    "text": "銀座線",
+    "title": "東京メトロ銀座線",
+    "line": "銀座線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A"
+  },
+  {
+    "text": "近鉄連絡線",
+    "title": "三岐鉄道三岐線",
+    "line": "近鉄連絡線 （三岐鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B2%90%E9%89%84%E9%81%93%E4%B8%89%E5%B2%90%E7%B7%9A"
+  },
+  {
+    "text": "空港線",
+    "title": "京急空港線",
+    "line": "空港線 （京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "空港線",
+    "title": "名鉄空港線",
+    "line": "空港線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "空港線",
+    "title": "南海空港線",
+    "line": "空港線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "空港線",
+    "title": "福岡市地下鉄空港線",
+    "line": "空港線 （福岡市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "空港線",
+    "title": "宮崎空港線",
+    "line": "空港線 （愛称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "草津線",
+    "title": "草津線",
+    "line": "草津線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "葛生線",
+    "title": "東武佐野線",
+    "line": "葛生線 （通称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BD%90%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "九頭竜線",
+    "title": "越美北線",
+    "line": "九頭竜線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E7%BE%8E%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "久里浜線",
+    "title": "京急久里浜線",
+    "line": "久里浜線 （京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E4%B9%85%E9%87%8C%E6%B5%9C%E7%B7%9A"
+  },
+  {
+    "text": "久留里線",
+    "title": "久留里線",
+    "line": "久留里線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E9%87%8C%E7%B7%9A"
+  },
+  {
+    "text": "鞍馬線",
+    "title": "叡山電鉄鞍馬線",
+    "line": "鞍馬線 （叡山電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8F%A1%E5%B1%B1%E9%9B%BB%E9%89%84%E9%9E%8D%E9%A6%AC%E7%B7%9A"
+  },
+  {
+    "text": "鞍馬山鋼索鉄道",
+    "title": "鞍馬山鋼索鉄道",
+    "line": "鞍馬山鋼索鉄道 （鞍馬寺）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9E%8D%E9%A6%AC%E5%B1%B1%E9%8B%BC%E7%B4%A2%E9%89%84%E9%81%93"
+  },
+  {
+    "text": "グリーンライン",
+    "title": "横浜市営地下鉄グリーンライン",
+    "line": "グリーンライン （愛称 : 横浜市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "呉線",
+    "title": "呉線",
+    "line": "呉線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%91%89%E7%B7%9A"
+  },
+  {
+    "text": "呉羽線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "呉羽線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "黒部ケーブルカー",
+    "title": "立山黒部貫光黒部ケーブルカー",
+    "line": "黒部ケーブルカー （通称 : 立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E9%BB%92%E9%83%A8%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "郡中線",
+    "title": "伊予鉄道郡中線",
+    "line": "郡中線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E9%83%A1%E4%B8%AD%E7%B7%9A"
+  },
+  {
+    "text": "京王線",
+    "title": "京王線",
+    "line": "京王線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A"
+  },
+  {
+    "text": "京王新線",
+    "title": "京王新線",
+    "line": "京王新線 （通称 : 京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A"
+  },
+  {
+    "text": "京急本線",
+    "title": "京急本線",
+    "line": "京急本線 （通称 : 京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "京津線",
+    "title": "京阪京津線",
+    "line": "京津線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E4%BA%AC%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "京成本線",
+    "title": "京成本線",
+    "line": "京成本線 （通称 : 京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "競馬場線",
+    "title": "京王競馬場線",
+    "line": "競馬場線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%AB%B6%E9%A6%AC%E5%A0%B4%E7%B7%9A"
+  },
+  {
+    "text": "京阪神緩行線",
+    "title": "京阪神緩行線",
+    "line": "京阪神緩行線 （通称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E7%A5%9E%E7%B7%A9%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "けいはんな線",
+    "title": "近鉄けいはんな線",
+    "line": "けいはんな線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E3%81%91%E3%81%84%E3%81%AF%E3%82%93%E3%81%AA%E7%B7%9A"
+  },
+  {
+    "text": "京阪本線",
+    "title": "京阪本線",
+    "line": "京阪本線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "芸備線",
+    "title": "芸備線",
+    "line": "芸備線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8A%B8%E5%82%99%E7%B7%9A"
+  },
+  {
+    "text": "京浜東北線",
+    "title": "京浜東北線",
+    "line": "京浜東北線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%B5%9C%E6%9D%B1%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "京葉線",
+    "title": "京葉線",
+    "line": "京葉線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E8%91%89%E7%B7%9A"
+  },
+  {
+    "text": "気仙沼線",
+    "title": "気仙沼線",
+    "line": "気仙沼線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%97%E4%BB%99%E6%B2%BC%E7%B7%9A"
+  },
+  {
+    "text": "健軍線",
+    "title": "熊本市電健軍線",
+    "line": "健軍線 （熊本市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E9%9B%BB%E5%81%A5%E8%BB%8D%E7%B7%9A"
+  },
+  {
+    "text": "小泉線",
+    "title": "東武小泉線",
+    "line": "小泉線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E5%B0%8F%E6%B3%89%E7%B7%9A"
+  },
+  {
+    "text": "公園都市線",
+    "title": "神戸電鉄公園都市線",
+    "line": "公園都市線 （神戸電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A"
+  },
+  {
+    "text": "港東線",
+    "title": "水島臨海鉄道港東線",
+    "line": "港東線 （貨物 : 水島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%B8%AF%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "弘南線",
+    "title": "弘南鉄道弘南線",
+    "line": "弘南線 （弘南鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%8D%97%E9%89%84%E9%81%93%E5%BC%98%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "高徳線",
+    "title": "高徳線",
+    "line": "高徳線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E7%B7%9A"
+  },
+  {
+    "text": "鋼索線",
+    "title": "京阪鋼索線",
+    "line": "鋼索線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "鋼索線",
+    "title": "京福電気鉄道鋼索線",
+    "line": "鋼索線 （京福電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%A6%8F%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "鋼索線（黒部ケーブルカー）",
+    "title": "立山黒部貫光黒部ケーブルカー",
+    "line": "鋼索線（黒部ケーブルカー） （立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E9%BB%92%E9%83%A8%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "鋼索線（立山ケーブルカー）",
+    "title": "立山黒部貫光立山ケーブルカー",
+    "line": "鋼索線（立山ケーブルカー） （立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E7%AB%8B%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "鋼索線",
+    "title": "南海鋼索線",
+    "line": "鋼索線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "鋼索線",
+    "title": "能勢電鉄妙見の森ケーブル",
+    "line": "鋼索線 （能勢電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%9B%BB%E9%89%84%E5%A6%99%E8%A6%8B%E3%81%AE%E6%A3%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "鋼索線",
+    "title": "箱根登山鉄道鋼索線",
+    "line": "鋼索線 （箱根登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9%E7%99%BB%E5%B1%B1%E9%89%84%E9%81%93%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "JR神戸線",
+    "title": "JR神戸線",
+    "line": "JR神戸線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E7%A5%9E%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "神戸高速線",
+    "title": "阪神神戸高速線",
+    "line": "神戸高速線 （阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "神戸高速線",
+    "title": "阪急神戸高速線",
+    "line": "神戸高速線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "神戸高速線",
+    "title": "神戸電鉄神戸高速線",
+    "line": "神戸高速線 （神戸電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "神戸本線",
+    "title": "阪急神戸本線",
+    "line": "神戸本線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E7%A5%9E%E6%88%B8%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "小海線",
+    "title": "小海線",
+    "line": "小海線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B5%B7%E7%B7%9A"
+  },
+  {
+    "text": "高野線",
+    "title": "南海高野線",
+    "line": "高野線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E9%AB%98%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "甲陽線",
+    "title": "阪急甲陽線",
+    "line": "甲陽線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E7%94%B2%E9%99%BD%E7%B7%9A"
+  },
+  {
+    "text": "河和線",
+    "title": "名鉄河和線",
+    "line": "河和線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E6%B2%B3%E5%92%8C%E7%B7%9A"
+  },
+  {
+    "text": "国際文化公園都市線",
+    "title": "大阪高速鉄道国際文化公園都市モノレール線",
+    "line": "国際文化公園都市線 （大阪高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E5%9B%BD%E9%9A%9B%E6%96%87%E5%8C%96%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "国際文化公園都市モノレール線",
+    "title": "大阪高速鉄道国際文化公園都市モノレール線",
+    "line": "国際文化公園都市モノレール線 （大阪高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E5%9B%BD%E9%9A%9B%E6%96%87%E5%8C%96%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "国分寺線",
+    "title": "西武国分寺線",
+    "line": "国分寺線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E5%9B%BD%E5%88%86%E5%AF%BA%E7%B7%9A"
+  },
+  {
+    "text": "小倉線",
+    "title": "北九州高速鉄道小倉線",
+    "line": "小倉線 （北九州高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E5%B0%8F%E5%80%89%E7%B7%9A"
+  },
+  {
+    "text": "小坂線",
+    "title": "小坂製錬小坂線",
+    "line": "小坂線 （貨物 : 小坂製錬）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9D%82%E8%A3%BD%E9%8C%AC%E5%B0%8F%E5%9D%82%E7%B7%9A"
+  },
+  {
+    "text": "小坂鉄道小坂線",
+    "title": "小坂製錬小坂線",
+    "line": "小坂鉄道小坂線 （貨物・通称 : 小坂製錬）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9D%82%E8%A3%BD%E9%8C%AC%E5%B0%8F%E5%9D%82%E7%B7%9A"
+  },
+  {
+    "text": "御所線",
+    "title": "近鉄御所線",
+    "line": "御所線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%BE%A1%E6%89%80%E7%B7%9A"
+  },
+  {
+    "text": "湖西線",
+    "title": "湖西線",
+    "line": "湖西線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B9%96%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "御殿場線",
+    "title": "御殿場線",
+    "line": "御殿場線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%AE%BF%E5%A0%B4%E7%B7%9A"
+  },
+  {
+    "text": "後藤寺線",
+    "title": "後藤寺線",
+    "line": "後藤寺線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E5%AF%BA%E7%B7%9A"
+  },
+  {
+    "text": "琴平線",
+    "title": "高松琴平電気鉄道琴平線",
+    "line": "琴平線 （高松琴平電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%90%B4%E5%B9%B3%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E7%90%B4%E5%B9%B3%E7%B7%9A"
+  },
+  {
+    "text": "こどもの国線",
+    "title": "東急こどもの国線",
+    "line": "こどもの国線 （東京急行電鉄（2種）、横浜高速鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9B%BD%E7%B7%9A"
+  },
+  {
+    "text": "五能線",
+    "title": "五能線",
+    "line": "五能線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%94%E8%83%BD%E7%B7%9A"
+  },
+  {
+    "text": "駒ヶ岳鋼索線",
+    "title": "伊豆箱根鉄道駒ヶ岳鋼索線",
+    "line": "駒ヶ岳鋼索線 （伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E9%A7%92%E3%83%B6%E5%B2%B3%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "駒ヶ岳ケーブルカー",
+    "title": "伊豆箱根鉄道駒ヶ岳鋼索線",
+    "line": "駒ヶ岳ケーブルカー （通称 : 伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E9%A7%92%E3%83%B6%E5%B2%B3%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "小牧線",
+    "title": "名鉄小牧線",
+    "line": "小牧線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%B0%8F%E7%89%A7%E7%B7%9A"
+  },
+  {
+    "text": "小湊鉄道線",
+    "title": "小湊鉄道線",
+    "line": "小湊鉄道線 （小湊鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B9%8A%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "後免線",
+    "title": "とさでん交通後免線",
+    "line": "後免線 （とさでん交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%95%E3%81%A7%E3%82%93%E4%BA%A4%E9%80%9A%E5%BE%8C%E5%85%8D%E7%B7%9A"
+  },
+  {
+    "text": "ごめん・なはり線",
+    "title": "土佐くろしお鉄道阿佐線",
+    "line": "ごめん・なはり線 （愛称 : 土佐くろしお鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E9%89%84%E9%81%93%E9%98%BF%E4%BD%90%E7%B7%9A"
+  },
+  {
+    "text": "日本の鉄道駅一覧",
+    "title": "日本の鉄道駅一覧",
+    "line": "日本の鉄道駅一覧、日本の鉄道事業者一覧、日本の鉄道",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93%E9%A7%85%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本",
+    "title": "日本",
+    "line": "日本、日本の地域、日本の地理",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+  },
+  {
+    "text": "日本の地域別鉄道路線一覧",
+    "title": "日本の地域別鉄道路線一覧",
+    "line": "日本の地域別鉄道路線一覧 - 地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%88%A5%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本の廃止鉄道路線一覧",
+    "title": "日本の廃止鉄道路線一覧",
+    "line": "日本の廃止鉄道路線一覧 - 廃止された鉄道路線が地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%83%E6%AD%A2%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "埼京線",
+    "title": "埼京線",
+    "line": "埼京線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E4%BA%AC%E7%B7%9A"
+  },
+  {
+    "text": "埼玉高速鉄道線",
+    "title": "埼玉高速鉄道線",
+    "line": "埼玉高速鉄道線 （埼玉高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "埼玉スタジアム線",
+    "title": "埼玉高速鉄道線",
+    "line": "埼玉スタジアム線 （愛称 : 埼玉高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "西戸崎線",
+    "title": "香椎線",
+    "line": "西戸崎線 （通称 : 九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%A4%8E%E7%B7%9A"
+  },
+  {
+    "text": "彩都線",
+    "title": "大阪高速鉄道国際文化公園都市モノレール線",
+    "line": "彩都線 （愛称 : 大阪高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E5%9B%BD%E9%9A%9B%E6%96%87%E5%8C%96%E5%85%AC%E5%9C%92%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "境線",
+    "title": "境線",
+    "line": "境線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%B7%9A"
+  },
+  {
+    "text": "堺筋線",
+    "title": "大阪市高速電気軌道堺筋線",
+    "line": "堺筋線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%A0%BA%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "嵯峨野線",
+    "title": "嵯峨野線",
+    "line": "嵯峨野線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B5%AF%E5%B3%A8%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "嵯峨野観光線",
+    "title": "嵯峨野観光鉄道嵯峨野観光線",
+    "line": "嵯峨野観光線 （嵯峨野観光鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B5%AF%E5%B3%A8%E9%87%8E%E8%A6%B3%E5%85%89%E9%89%84%E9%81%93%E5%B5%AF%E5%B3%A8%E9%87%8E%E8%A6%B3%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "相模線",
+    "title": "相模線",
+    "line": "相模線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%A8%A1%E7%B7%9A"
+  },
+  {
+    "text": "相模原線",
+    "title": "京王相模原線",
+    "line": "相模原線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%9B%B8%E6%A8%A1%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "坂本ケーブル",
+    "title": "比叡山鉄道比叡山鉄道線",
+    "line": "坂本ケーブル （通称 : 比叡山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%AF%94%E5%8F%A1%E5%B1%B1%E9%89%84%E9%81%93%E6%AF%94%E5%8F%A1%E5%B1%B1%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "桜井線",
+    "title": "桜井線",
+    "line": "桜井線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E7%B7%9A"
+  },
+  {
+    "text": "桜島線",
+    "title": "桜島線",
+    "line": "桜島線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "桜通線",
+    "title": "名古屋市営地下鉄桜通線",
+    "line": "桜通線 （通称 : 名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%A1%9C%E9%80%9A%E7%B7%9A"
+  },
+  {
+    "text": "桜町支線",
+    "title": "長崎電気軌道桜町支線",
+    "line": "桜町支線 （長崎電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E6%A1%9C%E7%94%BA%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "篠栗線",
+    "title": "篠栗線",
+    "line": "篠栗線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E7%B7%9A"
+  },
+  {
+    "text": "佐世保線",
+    "title": "佐世保線",
+    "line": "佐世保線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B8%96%E4%BF%9D%E7%B7%9A"
+  },
+  {
+    "text": "札沼線",
+    "title": "札沼線",
+    "line": "札沼線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E6%B2%BC%E7%B7%9A"
+  },
+  {
+    "text": "佐野線",
+    "title": "東武佐野線",
+    "line": "佐野線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BD%90%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "佐松線",
+    "title": "成田線",
+    "line": "佐松線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "狭山線",
+    "title": "西武狭山線",
+    "line": "狭山線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E7%8B%AD%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "皿倉山ケーブルカー",
+    "title": "皿倉山ケーブルカー",
+    "line": "皿倉山ケーブルカー （皿倉登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9A%BF%E5%80%89%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "砂原線",
+    "title": "函館本線",
+    "line": "砂原線 （通称 : 北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "参宮線",
+    "title": "参宮線",
+    "line": "参宮線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8F%82%E5%AE%AE%E7%B7%9A"
+  },
+  {
+    "text": "山陰本線",
+    "title": "山陰本線",
+    "line": "山陰本線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%B0%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "三岐線",
+    "title": "三岐鉄道三岐線",
+    "line": "三岐線 （三岐鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B2%90%E9%89%84%E9%81%93%E4%B8%89%E5%B2%90%E7%B7%9A"
+  },
+  {
+    "text": "三江線",
+    "title": "三江線",
+    "line": "三江線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B1%9F%E7%B7%9A"
+  },
+  {
+    "text": "三田線",
+    "title": "神戸電鉄三田線",
+    "line": "三田線 （神戸電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E4%B8%89%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "桟橋線",
+    "title": "とさでん交通桟橋線",
+    "line": "桟橋線 （とさでん交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%95%E3%81%A7%E3%82%93%E4%BA%A4%E9%80%9A%E6%A1%9F%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "山陽新幹線",
+    "title": "山陽新幹線",
+    "line": "山陽新幹線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": [
+      "山陽本線",
+      "山陽本線 (広島地区)"
+    ],
+    "title": [
+      "山陽本線",
+      "山陽本線 (広島地区)"
+    ],
+    "line": "山陽本線 （西日本旅客鉄道、九州旅客鉄道）\n山陽本線 (広島地区) （西日本旅客鉄道）",
+    "link": [
+      "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%9C%AC%E7%B7%9A",
+      "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%9C%AC%E7%B7%9A_(%E5%BA%83%E5%B3%B6%E5%9C%B0%E5%8C%BA)"
+    ]
+  },
+  {
+    "text": "山陽本線 (広島地区)",
+    "title": "山陽本線 (広島地区)",
+    "line": "山陽本線 (広島地区) （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E6%9C%AC%E7%B7%9A_(%E5%BA%83%E5%B3%B6%E5%9C%B0%E5%8C%BA)"
+  },
+  {
+    "text": "支線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "支線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "汐見町線",
+    "title": "名古屋臨海鉄道汐見町線",
+    "line": "汐見町線 （貨物 : 名古屋臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%B1%90%E8%A6%8B%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "汐見橋線",
+    "title": "南海汐見橋線",
+    "line": "汐見橋線 （通称 : 南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E6%B1%90%E8%A6%8B%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "信楽線",
+    "title": "信楽高原鐵道信楽線",
+    "line": "信楽線 （信楽高原鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%A5%BD%E9%AB%98%E5%8E%9F%E9%90%B5%E9%81%93%E4%BF%A1%E6%A5%BD%E7%B7%9A"
+  },
+  {
+    "text": "信貴線",
+    "title": "近鉄信貴線",
+    "line": "信貴線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E4%BF%A1%E8%B2%B4%E7%B7%9A"
+  },
+  {
+    "text": "静岡清水線",
+    "title": "静岡鉄道静岡清水線",
+    "line": "静岡清水線 （静岡鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E9%89%84%E9%81%93%E9%9D%99%E5%B2%A1%E6%B8%85%E6%B0%B4%E7%B7%9A"
+  },
+  {
+    "text": "支線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "支線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "志度線",
+    "title": "高松琴平電気鉄道志度線",
+    "line": "志度線 （高松琴平電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%90%B4%E5%B9%B3%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E5%BF%97%E5%BA%A6%E7%B7%9A"
+  },
+  {
+    "text": "しなの鉄道線",
+    "title": "しなの鉄道線",
+    "line": "しなの鉄道線 （しなの鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%AA%E3%81%AE%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "篠ノ井線",
+    "title": "篠ノ井線",
+    "line": "篠ノ井線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E3%83%8E%E4%BA%95%E7%B7%9A"
+  },
+  {
+    "text": "芝山鉄道線",
+    "title": "芝山鉄道線",
+    "line": "芝山鉄道線 （芝山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E5%B1%B1%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "志摩線",
+    "title": "近鉄志摩線",
+    "line": "志摩線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%BF%97%E6%91%A9%E7%B7%9A"
+  },
+  {
+    "text": "島原鉄道線",
+    "title": "島原鉄道線",
+    "line": "島原鉄道線 （島原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%8E%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "しまんとグリーンライン",
+    "title": "予土線",
+    "line": "しまんとグリーンライン （愛称 : 四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%88%E5%9C%9F%E7%B7%9A"
+  },
+  {
+    "text": "十国鋼索線",
+    "title": "伊豆箱根鉄道十国鋼索線",
+    "line": "十国鋼索線 （伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E5%8D%81%E5%9B%BD%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "十国峠ケーブルカー",
+    "title": "伊豆箱根鉄道十国鋼索線",
+    "line": "十国峠ケーブルカー （通称 : 伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E5%8D%81%E5%9B%BD%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "上越線",
+    "title": "上越線",
+    "line": "上越線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E7%B7%9A"
+  },
+  {
+    "text": "上越新幹線",
+    "title": "上越新幹線",
+    "line": "上越新幹線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "上信線",
+    "title": "上信電鉄上信線",
+    "line": "上信線 （上信電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%BF%A1%E9%9B%BB%E9%89%84%E4%B8%8A%E4%BF%A1%E7%B7%9A"
+  },
+  {
+    "text": "常総線",
+    "title": "関東鉄道常総線",
+    "line": "常総線 （関東鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E9%89%84%E9%81%93%E5%B8%B8%E7%B7%8F%E7%B7%9A"
+  },
+  {
+    "text": "城南線",
+    "title": "伊予鉄道城南線",
+    "line": "城南線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E5%9F%8E%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "湘南モノレール",
+    "title": "湘南モノレール江の島線",
+    "line": "湘南モノレール （通称 : 湘南モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E6%B1%9F%E3%81%AE%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "湘南新宿ライン",
+    "title": "湘南新宿ライン",
+    "line": "湘南新宿ライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "城端線",
+    "title": "城端線",
+    "line": "城端線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E7%AB%AF%E7%B7%9A"
+  },
+  {
+    "text": "常磐線",
+    "title": "常磐線",
+    "line": "常磐線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E7%B7%9A"
+  },
+  {
+    "text": "常磐快速線",
+    "title": "常磐快速線",
+    "line": "常磐快速線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E5%BF%AB%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "常磐緩行線",
+    "title": "常磐緩行線",
+    "line": "常磐緩行線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E7%B7%A9%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "常磐新線",
+    "title": "首都圏新都市鉄道つくばエクスプレス",
+    "line": "常磐新線 （首都圏新都市鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F%E6%96%B0%E9%83%BD%E5%B8%82%E9%89%84%E9%81%93%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9"
+  },
+  {
+    "text": "城北線",
+    "title": "東海交通事業城北線",
+    "line": "城北線 （東海旅客鉄道（1種）、東海交通事業（2種））",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%A5%AD%E5%9F%8E%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "城北線",
+    "title": "伊予鉄道城北線",
+    "line": "城北線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E5%9F%8E%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "上毛線",
+    "title": "上毛電気鉄道上毛線",
+    "line": "上毛線 （上毛電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%AF%9B%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E4%B8%8A%E6%AF%9B%E7%B7%9A"
+  },
+  {
+    "text": "昭和町線",
+    "title": "名古屋臨海鉄道昭和町線",
+    "line": "昭和町線 （貨物 : 名古屋臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%98%AD%E5%92%8C%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "信越本線",
+    "title": "信越本線",
+    "line": "信越本線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "新金貨物線",
+    "title": "新金貨物線",
+    "line": "新金貨物線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%87%91%E8%B2%A8%E7%89%A9%E7%B7%9A"
+  },
+  {
+    "text": "新京成線",
+    "title": "新京成電鉄新京成線",
+    "line": "新京成線 （新京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%96%B0%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%84%E6%96%B0%E4%BA%AC%E6%88%90%E7%B7%9A"
+  },
+  {
+    "text": "新宿線",
+    "title": "西武新宿線",
+    "line": "新宿線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A"
+  },
+  {
+    "text": "新宿線",
+    "title": "都営地下鉄新宿線",
+    "line": "新宿線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%96%B0%E5%AE%BF%E7%B7%9A"
+  },
+  {
+    "text": "神宝線",
+    "title": "神宝線",
+    "line": "神宝線 （総称 : 阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%AE%9D%E7%B7%9A"
+  },
+  {
+    "text": "新湊線",
+    "title": "新湊線",
+    "line": "新湊線 （日本貨物鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%B9%8A%E7%B7%9A"
+  },
+  {
+    "text": "新湊港線",
+    "title": "万葉線新湊港線",
+    "line": "新湊港線 （万葉線）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E7%B7%9A%E6%96%B0%E6%B9%8A%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "水空ライン",
+    "title": "成田線",
+    "line": "水空ライン（愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "水郡線",
+    "title": "水郡線",
+    "line": "水郡線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%A1%E7%B7%9A"
+  },
+  {
+    "text": "水前寺線",
+    "title": "熊本市電水前寺線",
+    "line": "水前寺線 （熊本市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E9%9B%BB%E6%B0%B4%E5%89%8D%E5%AF%BA%E7%B7%9A"
+  },
+  {
+    "text": "スカイツリーライン",
+    "title": "東武伊勢崎線",
+    "line": "スカイツリーライン （通称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BC%8A%E5%8B%A2%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "スカイレールみどり坂線",
+    "title": "スカイレールサービス広島短距離交通瀬野線",
+    "line": "スカイレールみどり坂線 （愛称 : スカイレールサービス）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%BA%83%E5%B3%B6%E7%9F%AD%E8%B7%9D%E9%9B%A2%E4%BA%A4%E9%80%9A%E7%80%AC%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "宿毛線",
+    "title": "土佐くろしお鉄道宿毛線",
+    "line": "宿毛線 （土佐くろしお鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E9%89%84%E9%81%93%E5%AE%BF%E6%AF%9B%E7%B7%9A"
+  },
+  {
+    "text": "逗子線",
+    "title": "京急逗子線",
+    "line": "逗子線 （京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E9%80%97%E5%AD%90%E7%B7%9A"
+  },
+  {
+    "text": "鈴鹿線",
+    "title": "近鉄鈴鹿線",
+    "line": "鈴鹿線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E9%88%B4%E9%B9%BF%E7%B7%9A"
+  },
+  {
+    "text": "駿豆線",
+    "title": "伊豆箱根鉄道駿豆線",
+    "line": "駿豆線 （伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E9%A7%BF%E8%B1%86%E7%B7%9A"
+  },
+  {
+    "text": "青函トンネル竜飛斜坑線",
+    "title": "青函トンネル竜飛斜坑線",
+    "line": "青函トンネル竜飛斜坑線（青函トンネル記念館）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E7%AB%9C%E9%A3%9B%E6%96%9C%E5%9D%91%E7%B7%9A"
+  },
+  {
+    "text": "清輝橋線",
+    "title": "岡山電気軌道清輝橋線",
+    "line": "清輝橋線 （岡山電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B1%B1%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E6%B8%85%E8%BC%9D%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "西神線",
+    "title": "神戸市営地下鉄西神・山手線",
+    "line": "西神線 （神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E8%A5%BF%E7%A5%9E%E3%83%BB%E5%B1%B1%E6%89%8B%E7%B7%9A"
+  },
+  {
+    "text": "西神延伸線",
+    "title": "神戸市営地下鉄西神・山手線",
+    "line": "西神延伸線 （神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E8%A5%BF%E7%A5%9E%E3%83%BB%E5%B1%B1%E6%89%8B%E7%B7%9A"
+  },
+  {
+    "text": "西神・山手線",
+    "title": "神戸市営地下鉄西神・山手線",
+    "line": "西神・山手線 （総称 : 神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E8%A5%BF%E7%A5%9E%E3%83%BB%E5%B1%B1%E6%89%8B%E7%B7%9A"
+  },
+  {
+    "text": "西武園線",
+    "title": "西武西武園線",
+    "line": "西武園線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E8%A5%BF%E6%AD%A6%E5%9C%92%E7%B7%9A"
+  },
+  {
+    "text": "西武秩父線",
+    "title": "西武秩父線",
+    "line": "西武秩父線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E7%A7%A9%E7%88%B6%E7%B7%9A"
+  },
+  {
+    "text": "西武有楽町線",
+    "title": "西武有楽町線",
+    "line": "西武有楽町線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "石勝線",
+    "title": "石勝線",
+    "line": "石勝線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8B%9D%E7%B7%9A"
+  },
+  {
+    "text": "石北本線",
+    "title": "石北本線",
+    "line": "石北本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8C%97%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "世田谷線",
+    "title": "東急世田谷線",
+    "line": "世田谷線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A"
+  },
+  {
+    "text": "瀬戸線",
+    "title": "名鉄瀬戸線",
+    "line": "瀬戸線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%80%AC%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "瀬戸内さざなみ線",
+    "title": "呉線",
+    "line": "瀬戸内さざなみ線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%91%89%E7%B7%9A"
+  },
+  {
+    "text": "瀬戸大橋線",
+    "title": "瀬戸大橋線",
+    "line": "瀬戸大橋線 （愛称 : 西日本旅客鉄道、四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%A4%A7%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "仙崎支線",
+    "title": "山陰本線",
+    "line": "仙崎支線 （通称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%B0%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "仙山線",
+    "title": "仙山線",
+    "line": "仙山線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "仙石線",
+    "title": "仙石線",
+    "line": "仙石線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E7%9F%B3%E7%B7%9A"
+  },
+  {
+    "text": "仙台空港アクセス線",
+    "title": "仙台空港アクセス線",
+    "line": "仙台空港アクセス線 （愛称 : 東日本旅客鉄道、仙台空港鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%B7%9A"
+  },
+  {
+    "text": "仙台空港線",
+    "title": "仙台空港鉄道仙台空港線",
+    "line": "仙台空港線 （仙台空港鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E9%89%84%E9%81%93%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "仙台西港線",
+    "title": "仙台臨海鉄道仙台西港線",
+    "line": "仙台西港線 （貨物 : 仙台臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E4%BB%99%E5%8F%B0%E8%A5%BF%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "仙台埠頭線",
+    "title": "仙台臨海鉄道仙台埠頭線",
+    "line": "仙台埠頭線 （貨物 : 仙台臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E4%BB%99%E5%8F%B0%E5%9F%A0%E9%A0%AD%E7%B7%9A"
+  },
+  {
+    "text": "千日前線",
+    "title": "大阪市高速電気軌道千日前線",
+    "line": "千日前線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%8D%83%E6%97%A5%E5%89%8D%E7%B7%9A"
+  },
+  {
+    "text": "泉北高速鉄道線",
+    "title": "泉北高速鉄道線",
+    "line": "泉北高速鉄道線 （泉北高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B3%89%E5%8C%97%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "釧網本線",
+    "title": "釧網本線",
+    "line": "釧網本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%87%A7%E7%B6%B2%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "千里線",
+    "title": "阪急千里線",
+    "line": "千里線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E5%8D%83%E9%87%8C%E7%B7%9A"
+  },
+  {
+    "text": "総武快速線",
+    "title": "総武快速線",
+    "line": "総武快速線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B7%8F%E6%AD%A6%E5%BF%AB%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "総武緩行線",
+    "title": "中央・総武緩行線",
+    "line": "総武緩行線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%83%BB%E7%B7%8F%E6%AD%A6%E7%B7%A9%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "総武本線",
+    "title": "総武本線",
+    "line": "総武本線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B7%8F%E6%AD%A6%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "宗谷本線",
+    "title": "宗谷本線",
+    "line": "宗谷本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%97%E8%B0%B7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "外房線",
+    "title": "外房線",
+    "line": "外房線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%96%E6%88%BF%E7%B7%9A"
+  },
+  {
+    "text": "第一期線",
+    "title": "鹿児島市電第一期線",
+    "line": "第一期線 （鹿児島市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B7%9A"
+  },
+  {
+    "text": "大師線",
+    "title": "京急大師線",
+    "line": "大師線 （京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E5%A4%A7%E5%B8%AB%E7%B7%9A"
+  },
+  {
+    "text": "大師線",
+    "title": "東武大師線",
+    "line": "大師線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E5%A4%A7%E5%B8%AB%E7%B7%9A"
+  },
+  {
+    "text": "大社線",
+    "title": "一畑電車大社線",
+    "line": "大社線 （一畑電車）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%95%91%E9%9B%BB%E8%BB%8A%E5%A4%A7%E7%A4%BE%E7%B7%9A"
+  },
+  {
+    "text": "太多線",
+    "title": "太多線",
+    "line": "太多線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%A4%9A%E7%B7%9A"
+  },
+  {
+    "text": "第二期線",
+    "title": "鹿児島市電第二期線",
+    "line": "第二期線 （鹿児島市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E7%AC%AC%E4%BA%8C%E6%9C%9F%E7%B7%9A"
+  },
+  {
+    "text": "大雄山線",
+    "title": "伊豆箱根鉄道大雄山線",
+    "line": "大雄山線 （伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E5%A4%A7%E9%9B%84%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "多賀線",
+    "title": "近江鉄道多賀線",
+    "line": "多賀線 （近江鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%B1%9F%E9%89%84%E9%81%93%E5%A4%9A%E8%B3%80%E7%B7%9A"
+  },
+  {
+    "text": "高尾線",
+    "title": "京王高尾線",
+    "line": "高尾線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%AB%98%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "高尾鋼索線",
+    "title": "高尾鋼索線",
+    "line": "高尾鋼索線 （高尾登山電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B0%BE%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "高尾登山ケーブル",
+    "title": "高尾登山ケーブル",
+    "line": "高尾登山ケーブル （通称 : 高尾登山電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B0%BE%E7%99%BB%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "高岡軌道線",
+    "title": "万葉線高岡軌道線",
+    "line": "高岡軌道線 （万葉線）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E7%B7%9A%E9%AB%98%E5%B2%A1%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "高崎線",
+    "title": "高崎線",
+    "line": "高崎線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "高師浜線",
+    "title": "南海高師浜線",
+    "line": "高師浜線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E9%AB%98%E5%B8%AB%E6%B5%9C%E7%B7%9A"
+  },
+  {
+    "text": "高島線",
+    "title": "高島線",
+    "line": "高島線 （貨物・通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "高千穂線",
+    "title": "高千穂鉄道高千穂線",
+    "line": "高千穂線 （高千穂鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8D%83%E7%A9%82%E9%89%84%E9%81%93%E9%AB%98%E5%8D%83%E7%A9%82%E7%B7%9A"
+  },
+  {
+    "text": "高浜線",
+    "title": "伊予鉄道高浜線",
+    "line": "高浜線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E9%AB%98%E6%B5%9C%E7%B7%9A"
+  },
+  {
+    "text": "田神線",
+    "title": "名鉄田神線",
+    "line": "田神線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%94%B0%E7%A5%9E%E7%B7%9A"
+  },
+  {
+    "text": "高森線",
+    "title": "南阿蘇鉄道高森線",
+    "line": "高森線 （南阿蘇鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%98%BF%E8%98%87%E9%89%84%E9%81%93%E9%AB%98%E6%A3%AE%E7%B7%9A"
+  },
+  {
+    "text": "高山本線",
+    "title": "高山本線",
+    "line": "高山本線 （東海旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "JR宝塚線",
+    "title": "福知山線",
+    "line": "JR宝塚線 （愛称 : 西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "宝塚本線",
+    "title": "阪急宝塚本線",
+    "line": "宝塚本線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E5%AE%9D%E5%A1%9A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "田川線",
+    "title": "平成筑豊鉄道田川線",
+    "line": "田川線 （平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E7%94%B0%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "武豊線",
+    "title": "武豊線",
+    "line": "武豊線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%B1%8A%E7%B7%9A"
+  },
+  {
+    "text": "竹鼻線",
+    "title": "名鉄竹鼻線",
+    "line": "竹鼻線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%AB%B9%E9%BC%BB%E7%B7%9A"
+  },
+  {
+    "text": "田崎線",
+    "title": "熊本市電田崎線",
+    "line": "田崎線 （熊本市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E9%9B%BB%E7%94%B0%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "田沢湖線",
+    "title": "田沢湖線",
+    "line": "田沢湖線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%B2%A2%E6%B9%96%E7%B7%9A"
+  },
+  {
+    "text": "只見線",
+    "title": "只見線",
+    "line": "只見線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8F%AA%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "辰野支線",
+    "title": "中央本線",
+    "line": "辰野支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "谷町線",
+    "title": "大阪市高速電気軌道谷町線",
+    "line": "谷町線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E8%B0%B7%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "太宰府線",
+    "title": "西鉄太宰府線",
+    "line": "太宰府線 （西日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E5%A4%AA%E5%AE%B0%E5%BA%9C%E7%B7%9A"
+  },
+  {
+    "text": "立山線",
+    "title": "富山地方鉄道立山線",
+    "line": "立山線 （富山地方鉄道（鉄道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E7%AB%8B%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "立山ケーブルカー",
+    "title": "立山黒部貫光立山ケーブルカー",
+    "line": "立山ケーブルカー （通称 : 立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E7%AB%8B%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "立山トンネルトロリーバス",
+    "title": "立山黒部貫光無軌条電車線",
+    "line": "立山トンネルトロリーバス （通称 : 立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E7%84%A1%E8%BB%8C%E6%9D%A1%E9%9B%BB%E8%BB%8A%E7%B7%9A"
+  },
+  {
+    "text": "多奈川線",
+    "title": "南海多奈川線",
+    "line": "多奈川線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E5%A4%9A%E5%A5%88%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "田端貨物線",
+    "title": "常磐線",
+    "line": "田端貨物線 （貨物 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E7%B7%9A"
+  },
+  {
+    "text": "谷山線",
+    "title": "鹿児島市電谷山線",
+    "line": "谷山線 （鹿児島市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E8%B0%B7%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "多摩線",
+    "title": "小田急多摩線",
+    "line": "多摩線 （小田急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E6%80%A5%E5%A4%9A%E6%91%A9%E7%B7%9A"
+  },
+  {
+    "text": "多摩川線",
+    "title": "西武多摩川線",
+    "line": "多摩川線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E5%A4%9A%E6%91%A9%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "東急多摩川線",
+    "title": "東急多摩川線",
+    "line": "東急多摩川線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E5%A4%9A%E6%91%A9%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "多摩湖線",
+    "title": "西武多摩湖線",
+    "line": "多摩湖線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E5%A4%9A%E6%91%A9%E6%B9%96%E7%B7%9A"
+  },
+  {
+    "text": "多摩都市モノレール線",
+    "title": "多摩都市モノレール線",
+    "line": "多摩都市モノレール線 （多摩都市モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%91%A9%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "玉ノ井線",
+    "title": "名鉄尾西線",
+    "line": "玉ノ井線 （通称 : 名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%B0%BE%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "垂井線",
+    "title": "東海道本線",
+    "line": "垂井線 （通称 : 東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "樽見線",
+    "title": "樽見鉄道樽見線",
+    "line": "樽見線 （樽見鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%BD%E8%A6%8B%E9%89%84%E9%81%93%E6%A8%BD%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "田原本線",
+    "title": "近鉄田原本線",
+    "line": "田原本線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E7%94%B0%E5%8E%9F%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "筑肥線",
+    "title": "筑肥線",
+    "line": "筑肥線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%82%A5%E7%B7%9A"
+  },
+  {
+    "text": "筑豊電気鉄道線",
+    "title": "筑豊電気鉄道線",
+    "line": "筑豊電気鉄道線 （通称 : 筑豊電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%B1%8A%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "筑豊本線",
+    "title": "筑豊本線",
+    "line": "筑豊本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%B1%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "智頭線",
+    "title": "智頭急行智頭線",
+    "line": "智頭線 （智頭急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%99%BA%E9%A0%AD%E6%80%A5%E8%A1%8C%E6%99%BA%E9%A0%AD%E7%B7%9A"
+  },
+  {
+    "text": "知多新線",
+    "title": "名鉄知多新線",
+    "line": "知多新線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%9F%A5%E5%A4%9A%E6%96%B0%E7%B7%9A"
+  },
+  {
+    "text": "西武秩父線",
+    "title": "西武秩父線",
+    "line": "西武秩父線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E7%A7%A9%E7%88%B6%E7%B7%9A"
+  },
+  {
+    "text": "秩父本線",
+    "title": "秩父鉄道秩父本線",
+    "line": "秩父本線 （秩父鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E7%A7%A9%E7%88%B6%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "千歳線",
+    "title": "千歳線",
+    "line": "千歳線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%AD%B3%E7%B7%9A"
+  },
+  {
+    "text": "築港線",
+    "title": "名鉄築港線",
+    "line": "築港線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%AF%89%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "築港線",
+    "title": "高松琴平電気鉄道琴平線",
+    "line": "築港線 （通称 : 高松琴平電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%90%B4%E5%B9%B3%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E7%90%B4%E5%B9%B3%E7%B7%9A"
+  },
+  {
+    "text": "千鳥線",
+    "title": "神奈川臨海鉄道千鳥線",
+    "line": "千鳥線 （貨物 : 神奈川臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%8D%83%E9%B3%A5%E7%B7%9A"
+  },
+  {
+    "text": "千葉線",
+    "title": "京成千葉線",
+    "line": "千葉線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E5%8D%83%E8%91%89%E7%B7%9A"
+  },
+  {
+    "text": "千原線",
+    "title": "京成千原線",
+    "line": "千原線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E5%8D%83%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "中央線",
+    "title": "大阪市高速電気軌道中央線",
+    "line": "中央線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%B8%AD%E5%A4%AE%E7%B7%9A"
+  },
+  {
+    "text": "中央線 (名古屋地区)",
+    "title": "中央線 (名古屋地区)",
+    "line": "中央線 (名古屋地区) （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%B7%9A_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9C%B0%E5%8C%BA)"
+  },
+  {
+    "text": "中央線快速",
+    "title": "中央線快速",
+    "line": "中央線快速 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%B7%9A%E5%BF%AB%E9%80%9F"
+  },
+  {
+    "text": "中央・総武緩行線",
+    "title": "中央・総武緩行線",
+    "line": "中央・総武緩行線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%83%BB%E7%B7%8F%E6%AD%A6%E7%B7%A9%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "中央西線",
+    "title": "中央本線",
+    "line": "中央西線 （通称 : 東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "中央東線",
+    "title": "中央本線",
+    "line": "中央東線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "中央本線",
+    "title": "中央本線",
+    "line": "中央本線 （東日本旅客鉄道、東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "鳥海山ろく線",
+    "title": "由利高原鉄道鳥海山ろく線",
+    "line": "鳥海山ろく線 （由利高原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%88%A9%E9%AB%98%E5%8E%9F%E9%89%84%E9%81%93%E9%B3%A5%E6%B5%B7%E5%B1%B1%E3%82%8D%E3%81%8F%E7%B7%9A"
+  },
+  {
+    "text": "銚子電気鉄道線",
+    "title": "銚子電気鉄道線",
+    "line": "銚子電気鉄道線 （銚子電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%8A%9A%E5%AD%90%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "千代田線",
+    "title": "東京メトロ千代田線",
+    "line": "千代田線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "津軽線",
+    "title": "津軽線",
+    "line": "津軽線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E7%B7%9A"
+  },
+  {
+    "text": "津軽海峡線",
+    "title": "津軽海峡線",
+    "line": "津軽海峡線 （旧愛称 : 東日本旅客鉄道、北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E6%B5%B7%E5%B3%A1%E7%B7%9A"
+  },
+  {
+    "text": "津軽鉄道線",
+    "title": "津軽鉄道線",
+    "line": "津軽鉄道線 （津軽鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "つくばエクスプレス",
+    "title": "首都圏新都市鉄道つくばエクスプレス",
+    "line": "つくばエクスプレス （首都圏新都市鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F%E6%96%B0%E9%83%BD%E5%B8%82%E9%89%84%E9%81%93%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9"
+  },
+  {
+    "text": "筑波山鋼索鉄道線",
+    "title": "筑波山鋼索鉄道線",
+    "line": "筑波山鋼索鉄道線 （筑波観光鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%B1%B1%E9%8B%BC%E7%B4%A2%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "筑波山ケーブルカー",
+    "title": "筑波山鋼索鉄道線",
+    "line": "筑波山ケーブルカー （愛称 : 筑波観光鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%B1%B1%E9%8B%BC%E7%B4%A2%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "津島線",
+    "title": "名鉄津島線",
+    "line": "津島線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E6%B4%A5%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "津山線",
+    "title": "津山線",
+    "line": "津山線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "鶴舞線",
+    "title": "名古屋市営地下鉄鶴舞線",
+    "line": "鶴舞線 （通称 : 名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E9%B6%B4%E8%88%9E%E7%B7%9A"
+  },
+  {
+    "text": "鶴見線",
+    "title": "鶴見線",
+    "line": "鶴見線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "ディズニーリゾートライン",
+    "title": "舞浜リゾートラインディズニーリゾートライン",
+    "line": "ディズニーリゾートライン （舞浜リゾートライン）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%88%9E%E6%B5%9C%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "鉄道線",
+    "title": "遠州鉄道鉄道線",
+    "line": "鉄道線 （遠州鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E9%89%84%E9%81%93%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "鉄道線",
+    "title": "箱根登山鉄道鉄道線",
+    "line": "鉄道線 （箱根登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9%E7%99%BB%E5%B1%B1%E9%89%84%E9%81%93%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "天理線",
+    "title": "近鉄天理線",
+    "line": "天理線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%A4%A9%E7%90%86%E7%B7%9A"
+  },
+  {
+    "text": "天竜浜名湖線",
+    "title": "天竜浜名湖鉄道天竜浜名湖線",
+    "line": "天竜浜名湖線 （天竜浜名湖鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%AB%9C%E6%B5%9C%E5%90%8D%E6%B9%96%E9%89%84%E9%81%93%E5%A4%A9%E7%AB%9C%E6%B5%9C%E5%90%8D%E6%B9%96%E7%B7%9A"
+  },
+  {
+    "text": "田園都市線",
+    "title": "東急田園都市線",
+    "line": "田園都市線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A"
+  },
+  {
+    "text": "天神大牟田線",
+    "title": "西鉄天神大牟田線",
+    "line": "天神大牟田線 （西日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E5%A4%A9%E7%A5%9E%E5%A4%A7%E7%89%9F%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "東海道線 (JR東日本)",
+    "title": "東海道線 (JR東日本)",
+    "line": "東海道線 (JR東日本) （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%B7%9A_(JR%E6%9D%B1%E6%97%A5%E6%9C%AC)"
+  },
+  {
+    "text": "東海道線 (静岡地区)",
+    "title": "東海道線 (静岡地区)",
+    "line": "東海道線 (静岡地区) （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%B7%9A_(%E9%9D%99%E5%B2%A1%E5%9C%B0%E5%8C%BA)"
+  },
+  {
+    "text": "東海道線 (名古屋地区)",
+    "title": "東海道線 (名古屋地区)",
+    "line": "東海道線 (名古屋地区) （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%B7%9A_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9C%B0%E5%8C%BA)"
+  },
+  {
+    "text": "東海道貨物線",
+    "title": "東海道貨物線",
+    "line": "東海道貨物線 （貨物・通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E8%B2%A8%E7%89%A9%E7%B7%9A"
+  },
+  {
+    "text": "東海道・山陽新幹線",
+    "title": "東海道・山陽新幹線",
+    "line": "東海道・山陽新幹線 （総称 : 東海旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E3%83%BB%E5%B1%B1%E9%99%BD%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "東海道新幹線",
+    "title": "東海道新幹線",
+    "line": "東海道新幹線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "東海道本線",
+    "title": "東海道本線",
+    "line": "東海道本線 （東日本旅客鉄道、東海旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "東金線",
+    "title": "東金線",
+    "line": "東金線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%91%E7%B7%9A"
+  },
+  {
+    "text": "東急多摩川線",
+    "title": "東急多摩川線",
+    "line": "東急多摩川線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E5%A4%9A%E6%91%A9%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "東京さくらトラム",
+    "title": "都電荒川線",
+    "line": "東京さくらトラム （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E9%9B%BB%E8%8D%92%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "東京モノレール羽田空港線",
+    "title": "東京モノレール羽田空港線",
+    "line": "東京モノレール羽田空港線 （愛称 : 東京モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "東京臨海新交通臨海線",
+    "title": "ゆりかもめ東京臨海新交通臨海線",
+    "line": "東京臨海新交通臨海線 （ゆりかもめ）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E6%96%B0%E4%BA%A4%E9%80%9A%E8%87%A8%E6%B5%B7%E7%B7%9A"
+  },
+  {
+    "text": "東港線",
+    "title": "名古屋臨海鉄道東港線",
+    "line": "東港線 （貨物 : 名古屋臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9D%B1%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "東西線",
+    "title": "京都市営地下鉄東西線",
+    "line": "東西線 （京都市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "東西線",
+    "title": "神戸高速鉄道東西線",
+    "line": "東西線 （神戸高速鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "東西線",
+    "title": "札幌市営地下鉄東西線",
+    "line": "東西線 （札幌市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "東西線",
+    "title": "仙台市地下鉄東西線",
+    "line": "東西線 （仙台市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "東西線",
+    "title": "東京メトロ東西線",
+    "line": "東西線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "JR東西線",
+    "title": "JR東西線",
+    "line": "JR東西線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "東上本線",
+    "title": "東武東上本線",
+    "line": "東上本線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E6%9D%B1%E4%B8%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "東築線",
+    "title": "名古屋臨海鉄道東築線",
+    "line": "東築線 （貨物 : 名古屋臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9D%B1%E7%AF%89%E7%B7%9A"
+  },
+  {
+    "text": "道南いさりび鉄道線",
+    "title": "道南いさりび鉄道線",
+    "line": "道南いさりび鉄道線 （道南いさりび鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%8D%97%E3%81%84%E3%81%95%E3%82%8A%E3%81%B3%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "東武アーバンパークライン",
+    "title": "東武野田線",
+    "line": "東武アーバンパークライン （愛称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "東部丘陵線",
+    "title": "愛知高速交通東部丘陵線",
+    "line": "東部丘陵線 （愛知高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E6%9D%B1%E9%83%A8%E4%B8%98%E9%99%B5%E7%B7%9A"
+  },
+  {
+    "text": "東武スカイツリーライン",
+    "title": "東武伊勢崎線",
+    "line": "東武スカイツリーライン （愛称 : 東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E4%BC%8A%E5%8B%A2%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "動物園線",
+    "title": "京王動物園線",
+    "line": "動物園線 （京王電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E5%8B%95%E7%89%A9%E5%9C%92%E7%B7%9A"
+  },
+  {
+    "text": "東豊線",
+    "title": "札幌市営地下鉄東豊線",
+    "line": "東豊線 （札幌市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E8%B1%8A%E7%B7%9A"
+  },
+  {
+    "text": "東北貨物線",
+    "title": "東北貨物線",
+    "line": "東北貨物線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E8%B2%A8%E7%89%A9%E7%B7%9A"
+  },
+  {
+    "text": "東北新幹線",
+    "title": "東北新幹線",
+    "line": "東北新幹線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "東北本線",
+    "title": "東北本線",
+    "line": "東北本線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "道明寺線",
+    "title": "近鉄道明寺線",
+    "line": "道明寺線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E9%81%93%E6%98%8E%E5%AF%BA%E7%B7%9A"
+  },
+  {
+    "text": "東葉高速線",
+    "title": "東葉高速鉄道東葉高速線",
+    "line": "東葉高速線 （東葉高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%91%89%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E6%9D%B1%E8%91%89%E9%AB%98%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "東横線",
+    "title": "東急東横線",
+    "line": "東横線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A"
+  },
+  {
+    "text": "徳島線",
+    "title": "徳島線",
+    "line": "徳島線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "常滑線",
+    "title": "名鉄常滑線",
+    "line": "常滑線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%B8%B8%E6%BB%91%E7%B7%9A"
+  },
+  {
+    "text": "土讃線",
+    "title": "土讃線",
+    "line": "土讃線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E8%AE%83%E7%B7%9A"
+  },
+  {
+    "text": "豊島線",
+    "title": "西武豊島線",
+    "line": "豊島線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E8%B1%8A%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "唐湊線",
+    "title": "鹿児島市電唐湊線",
+    "line": "唐湊線 （鹿児島市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E9%9B%BB%E5%94%90%E6%B9%8A%E7%B7%9A"
+  },
+  {
+    "text": "鳥羽線",
+    "title": "近鉄鳥羽線",
+    "line": "鳥羽線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E9%B3%A5%E7%BE%BD%E7%B7%9A"
+  },
+  {
+    "text": "富山港線",
+    "title": "富山ライトレール富山港線",
+    "line": "富山港線 （富山ライトレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%AB%E5%AF%8C%E5%B1%B1%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "富山都心線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "富山都心線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "富山市内軌道線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "富山市内軌道線 （通称 : 富山地方鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "富山ライトレール線",
+    "title": "富山ライトレール富山港線",
+    "line": "富山ライトレール線 （富山ライトレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%AB%E5%AF%8C%E5%B1%B1%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "豊川線",
+    "title": "名鉄豊川線",
+    "line": "豊川線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E8%B1%8A%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "豊田線",
+    "title": "名鉄豊田線",
+    "line": "豊田線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E8%B1%8A%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "ドラゴンレール大船渡線",
+    "title": "大船渡線",
+    "line": "ドラゴンレール大船渡線 （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%88%B9%E6%B8%A1%E7%B7%9A"
+  },
+  {
+    "text": "十和田八幡平四季彩ライン",
+    "title": "花輪線",
+    "line": "十和田八幡平四季彩ライン （愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E7%B7%9A"
+  },
+  {
+    "text": "長尾線",
+    "title": "高松琴平電気鉄道長尾線",
+    "line": "長尾線 （高松琴平電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%90%B4%E5%B9%B3%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E9%95%B7%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "長崎新幹線",
+    "title": "九州新幹線 (長崎ルート)",
+    "line": "長崎新幹線 （通称 : 九州旅客鉄道）  :  未開業",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A_(%E9%95%B7%E5%B4%8E%E3%83%AB%E3%83%BC%E3%83%88)"
+  },
+  {
+    "text": "長崎本線",
+    "title": "長崎本線",
+    "line": "長崎本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "長野線",
+    "title": "近鉄長野線",
+    "line": "長野線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E9%95%B7%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "長野線",
+    "title": "長野電鉄長野線",
+    "line": "長野線 （長野電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E9%9B%BB%E9%89%84%E9%95%B7%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "中之島線",
+    "title": "京阪中之島線",
+    "line": "中之島線 （京阪電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA%E4%B8%AD%E4%B9%8B%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "長野新幹線",
+    "title": "長野新幹線",
+    "line": "長野新幹線 （旧愛称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "長堀鶴見緑地線",
+    "title": "大阪市高速電気軌道長堀鶴見緑地線",
+    "line": "長堀鶴見緑地線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E9%95%B7%E5%A0%80%E9%B6%B4%E8%A6%8B%E7%B7%91%E5%9C%B0%E7%B7%9A"
+  },
+  {
+    "text": "中村線",
+    "title": "土佐くろしお鉄道中村線",
+    "line": "中村線 （土佐くろしお鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E9%89%84%E9%81%93%E4%B8%AD%E6%9D%91%E7%B7%9A"
+  },
+  {
+    "text": "流山線",
+    "title": "流鉄流山線",
+    "line": "流山線 （流鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B5%81%E9%89%84%E6%B5%81%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "名古屋線",
+    "title": "近鉄名古屋線",
+    "line": "名古屋線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%90%8D%E5%8F%A4%E5%B1%8B%E7%B7%9A"
+  },
+  {
+    "text": "名古屋港線",
+    "title": "名古屋港線",
+    "line": "名古屋港線 （通称 : 日本貨物鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "名古屋本線",
+    "title": "名鉄名古屋本線",
+    "line": "名古屋本線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "七尾線",
+    "title": "七尾線",
+    "line": "七尾線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "七尾線",
+    "title": "のと鉄道七尾線",
+    "line": "七尾線 （のと鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%A8%E9%89%84%E9%81%93%E4%B8%83%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "七隈線",
+    "title": "福岡市地下鉄七隈線",
+    "line": "七隈線 （福岡市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%83%E9%9A%88%E7%B7%9A"
+  },
+  {
+    "text": "奈良線",
+    "title": "奈良線",
+    "line": "奈良線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%B7%9A"
+  },
+  {
+    "text": "奈良線",
+    "title": "近鉄奈良線",
+    "line": "奈良線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%A5%88%E8%89%AF%E7%B7%9A"
+  },
+  {
+    "text": "成田線",
+    "title": "成田線",
+    "line": "成田線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "成田空港線",
+    "title": "京成成田空港線",
+    "line": "成田空港線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%88%90%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "成田スカイアクセス",
+    "title": "京成成田空港線",
+    "line": "成田スカイアクセス （愛称 : 京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%88%90%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "鳴門線",
+    "title": "鳴門線",
+    "line": "鳴門線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E7%B7%9A"
+  },
+  {
+    "text": "南線",
+    "title": "秋田臨海鉄道南線",
+    "line": "南線 （秋田臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "南海本線",
+    "title": "南海本線",
+    "line": "南海本線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "南港線",
+    "title": "名古屋臨海鉄道南港線",
+    "line": "南港線 （貨物 : 名古屋臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%8D%97%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "南港ポートタウン線",
+    "title": "大阪市交通局南港ポートタウン線",
+    "line": "南港ポートタウン線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E5%8D%97%E6%B8%AF%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3%E7%B7%9A"
+  },
+  {
+    "text": "南港・港区連絡線（テクノポート線）",
+    "title": "大阪市高速電気軌道中央線",
+    "line": "南港・港区連絡線（テクノポート線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%B8%AD%E5%A4%AE%E7%B7%9A"
+  },
+  {
+    "text": "南港・港区連絡線（ニュートラムテクノポート線）",
+    "title": "大阪市交通局南港ポートタウン線",
+    "line": "南港・港区連絡線（ニュートラムテクノポート線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E5%8D%97%E6%B8%AF%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3%E7%B7%9A"
+  },
+  {
+    "text": "なんば線",
+    "title": "阪神なんば線",
+    "line": "なんば線 （通称 : 阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%81%AA%E3%82%93%E3%81%B0%E7%B7%9A"
+  },
+  {
+    "text": "難波線",
+    "title": "近鉄難波線",
+    "line": "難波線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E9%9B%A3%E6%B3%A2%E7%B7%9A"
+  },
+  {
+    "text": "南武線",
+    "title": "南武線",
+    "line": "南武線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%AD%A6%E7%B7%9A"
+  },
+  {
+    "text": "南武支線",
+    "title": "南武線",
+    "line": "南武支線 （通称 : 東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%AD%A6%E7%B7%9A"
+  },
+  {
+    "text": "南北線",
+    "title": "北大阪急行電鉄南北線",
+    "line": "南北線 （北大阪急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E9%98%AA%E6%80%A5%E8%A1%8C%E9%9B%BB%E9%89%84%E5%8D%97%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "南北線",
+    "title": "神戸電鉄神戸高速線",
+    "line": "南北線 （神戸高速鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E9%9B%BB%E9%89%84%E7%A5%9E%E6%88%B8%E9%AB%98%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "南北線",
+    "title": "札幌市営地下鉄南北線",
+    "line": "南北線 （札幌市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%8D%97%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "南北線",
+    "title": "仙台市地下鉄南北線",
+    "line": "南北線 （仙台市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E5%8D%97%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "南北線",
+    "title": "東京メトロ南北線",
+    "line": "南北線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "西尾線",
+    "title": "名鉄西尾線",
+    "line": "西尾線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E8%A5%BF%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "西大阪線",
+    "title": "阪神なんば線",
+    "line": "西大阪線 （旧称 : 阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%81%AA%E3%82%93%E3%81%B0%E7%B7%9A"
+  },
+  {
+    "text": "西鹿島線",
+    "title": "遠州鉄道鉄道線",
+    "line": "西鹿島線 （通称 : 遠州鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E9%89%84%E9%81%93%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "西九州線",
+    "title": "松浦鉄道西九州線",
+    "line": "西九州線 （松浦鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E9%89%84%E9%81%93%E8%A5%BF%E4%B9%9D%E5%B7%9E%E7%B7%9A"
+  },
+  {
+    "text": "錦川清流線",
+    "title": "錦川鉄道錦川清流線",
+    "line": "錦川清流線 （錦川鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B7%9D%E9%89%84%E9%81%93%E9%8C%A6%E5%B7%9D%E6%B8%85%E6%B5%81%E7%B7%9A"
+  },
+  {
+    "text": "西信貴鋼索線",
+    "title": "近鉄西信貴鋼索線",
+    "line": "西信貴鋼索線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E8%A5%BF%E4%BF%A1%E8%B2%B4%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "西名古屋港線",
+    "title": "名古屋臨海高速鉄道あおなみ線",
+    "line": "西名古屋港線 （名古屋臨海高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%81%82%E3%81%8A%E3%81%AA%E3%81%BF%E7%B7%9A"
+  },
+  {
+    "text": "西日野線",
+    "title": "近鉄八王子線",
+    "line": "西日野線 （通称 : 近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%85%AB%E7%8E%8B%E5%AD%90%E7%B7%9A"
+  },
+  {
+    "text": "西埠頭線",
+    "title": "水島臨海鉄道西埠頭線",
+    "line": "西埠頭線 （貨物 : 水島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E8%A5%BF%E5%9F%A0%E9%A0%AD%E7%B7%9A"
+  },
+  {
+    "text": "日南線",
+    "title": "日南線",
+    "line": "日南線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "日光線",
+    "title": "日光線",
+    "line": "日光線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "日光線",
+    "title": "東武日光線",
+    "line": "日光線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E6%97%A5%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "日生線",
+    "title": "能勢電鉄日生線",
+    "line": "日生線 （能勢電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%9B%BB%E9%89%84%E6%97%A5%E7%94%9F%E7%B7%9A"
+  },
+  {
+    "text": "日豊本線",
+    "title": "日豊本線",
+    "line": "日豊本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "日暮里・舎人ライナー",
+    "title": "東京都交通局日暮里・舎人ライナー",
+    "line": "日暮里・舎人ライナー （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%E6%97%A5%E6%9A%AE%E9%87%8C%E3%83%BB%E8%88%8E%E4%BA%BA%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC"
+  },
+  {
+    "text": "日本海縦貫線",
+    "title": "日本海縦貫線",
+    "line": "日本海縦貫線（総称 : 東日本旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7%E7%B8%A6%E8%B2%AB%E7%B7%9A"
+  },
+  {
+    "text": "日本海ひすいライン",
+    "title": "えちごトキめき鉄道日本海ひすいライン",
+    "line": "日本海ひすいライン （えちごトキめき鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%A1%E3%81%94%E3%83%88%E3%82%AD%E3%82%81%E3%81%8D%E9%89%84%E9%81%93%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%81%B2%E3%81%99%E3%81%84%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "ニューシャトル",
+    "title": "埼玉新都市交通伊奈線",
+    "line": "ニューシャトル（愛称 : 埼玉新都市交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E6%96%B0%E9%83%BD%E5%B8%82%E4%BA%A4%E9%80%9A%E4%BC%8A%E5%A5%88%E7%B7%9A"
+  },
+  {
+    "text": "ニュートラム",
+    "title": "大阪市交通局南港ポートタウン線",
+    "line": "ニュートラム （愛称 : 大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E5%8D%97%E6%B8%AF%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3%E7%B7%9A"
+  },
+  {
+    "text": "根岸線",
+    "title": "根岸線",
+    "line": "根岸線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%B2%B8%E7%B7%9A"
+  },
+  {
+    "text": "根室本線",
+    "title": "根室本線",
+    "line": "根室本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%AE%A4%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "野田線",
+    "title": "東武野田線",
+    "line": "野田線 （東武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A6%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "日本の鉄道駅一覧",
+    "title": "日本の鉄道駅一覧",
+    "line": "日本の鉄道駅一覧、日本の鉄道事業者一覧、日本の鉄道",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93%E9%A7%85%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本",
+    "title": "日本",
+    "line": "日本、日本の地域、日本の地理",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+  },
+  {
+    "text": "日本の地域別鉄道路線一覧",
+    "title": "日本の地域別鉄道路線一覧",
+    "line": "日本の地域別鉄道路線一覧 - 地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%88%A5%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本の廃止鉄道路線一覧",
+    "title": "日本の廃止鉄道路線一覧",
+    "line": "日本の廃止鉄道路線一覧 - 廃止された鉄道路線が地域別に並んでいる。",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%83%E6%AD%A2%E9%89%84%E9%81%93%E8%B7%AF%E7%B7%9A%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "拝島線",
+    "title": "西武拝島線",
+    "line": "拝島線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E6%8B%9D%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "博多南線",
+    "title": "博多南線",
+    "line": "博多南線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "博多臨港線",
+    "title": "博多臨港線",
+    "line": "博多臨港線 （通称:日本貨物鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E8%87%A8%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "白島線",
+    "title": "広島電鉄白島線",
+    "line": "白島線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E7%99%BD%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "白新線",
+    "title": "白新線",
+    "line": "白新線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%96%B0%E7%B7%9A"
+  },
+  {
+    "text": "伯備線",
+    "title": "伯備線",
+    "line": "伯備線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%AF%E5%82%99%E7%B7%9A"
+  },
+  {
+    "text": "箱崎線",
+    "title": "福岡市地下鉄箱崎線",
+    "line": "箱崎線 （福岡市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E7%AE%B1%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "函館本線",
+    "title": "函館本線",
+    "line": "函館本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "箱根駒ヶ岳ケーブルカー",
+    "title": "伊豆箱根鉄道駒ヶ岳鋼索線",
+    "line": "箱根駒ヶ岳ケーブルカー （愛称:伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E9%A7%92%E3%83%B6%E5%B2%B3%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "箱根十国峠ケーブルカー",
+    "title": "伊豆箱根鉄道十国鋼索線",
+    "line": "箱根十国峠ケーブルカー （愛称:伊豆箱根鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E5%8D%81%E5%9B%BD%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "箱根登山ケーブルカー",
+    "title": "箱根登山鉄道鋼索線",
+    "line": "箱根登山ケーブルカー　（愛称:箱根登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9%E7%99%BB%E5%B1%B1%E9%89%84%E9%81%93%E9%8B%BC%E7%B4%A2%E7%B7%9A"
+  },
+  {
+    "text": "箱根登山線",
+    "title": "箱根登山鉄道鉄道線",
+    "line": "箱根登山線 （通称:箱根登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AE%B1%E6%A0%B9%E7%99%BB%E5%B1%B1%E9%89%84%E9%81%93%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "羽衣支線",
+    "title": "阪和線",
+    "line": "羽衣支線 （通称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%92%8C%E7%B7%9A"
+  },
+  {
+    "text": "羽島線",
+    "title": "名鉄羽島線",
+    "line": "羽島線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%BE%BD%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "八王子線",
+    "title": "四日市あすなろう鉄道八王子線",
+    "line": "八王子線 （四日市あすなろう鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E3%81%82%E3%81%99%E3%81%AA%E3%82%8D%E3%81%86%E9%89%84%E9%81%93%E5%85%AB%E7%8E%8B%E5%AD%90%E7%B7%9A"
+  },
+  {
+    "text": "八高線",
+    "title": "八高線",
+    "line": "八高線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AB%E9%AB%98%E7%B7%9A"
+  },
+  {
+    "text": "八戸線",
+    "title": "八戸線",
+    "line": "八戸線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "八戸臨海鉄道線",
+    "title": "八戸臨海鉄道線",
+    "line": "八戸臨海鉄道線 （貨物:八戸臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "花咲線",
+    "title": "根室本線",
+    "line": "花咲線 （愛称:北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%AE%A4%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "花園線",
+    "title": "伊予鉄道花園線",
+    "line": "花園線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E8%8A%B1%E5%9C%92%E7%B7%9A"
+  },
+  {
+    "text": "花輪線",
+    "title": "花輪線",
+    "line": "花輪線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E7%B7%9A"
+  },
+  {
+    "text": "はまなすベイライン大湊線",
+    "title": "大湊線",
+    "line": "はまなすベイライン大湊線 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E7%B7%9A"
+  },
+  {
+    "text": "原田線",
+    "title": "筑豊本線",
+    "line": "原田線 （愛称:九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%B1%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "磐越西線",
+    "title": "磐越西線",
+    "line": "磐越西線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "磐越東線",
+    "title": "磐越東線",
+    "line": "磐越東線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A3%90%E8%B6%8A%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "阪堺線",
+    "title": "阪堺電気軌道阪堺線",
+    "line": "阪堺線　（阪堺電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%A0%BA%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E9%98%AA%E5%A0%BA%E7%B7%9A"
+  },
+  {
+    "text": "阪神なんば線",
+    "title": "阪神なんば線",
+    "line": "阪神なんば線 （阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%81%AA%E3%82%93%E3%81%B0%E7%B7%9A"
+  },
+  {
+    "text": "阪神本線",
+    "title": "阪神本線",
+    "line": "阪神本線 （阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "半蔵門線",
+    "title": "東京メトロ半蔵門線",
+    "line": "半蔵門線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%8A%E8%94%B5%E9%96%80%E7%B7%9A"
+  },
+  {
+    "text": "半田線",
+    "title": "衣浦臨海鉄道半田線",
+    "line": "半田線 （衣浦臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A1%A3%E6%B5%A6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%8D%8A%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "播但線",
+    "title": "播但線",
+    "line": "播但線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%92%AD%E4%BD%86%E7%B7%9A"
+  },
+  {
+    "text": "阪和線",
+    "title": "阪和線",
+    "line": "阪和線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%92%8C%E7%B7%9A"
+  },
+  {
+    "text": "比叡山鉄道線",
+    "title": "比叡山鉄道比叡山鉄道線",
+    "line": "比叡山鉄道線 （比叡山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%AF%94%E5%8F%A1%E5%B1%B1%E9%89%84%E9%81%93%E6%AF%94%E5%8F%A1%E5%B1%B1%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "東大阪線",
+    "title": "近鉄けいはんな線",
+    "line": "東大阪線 （旧称:近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E3%81%91%E3%81%84%E3%81%AF%E3%82%93%E3%81%AA%E7%B7%9A"
+  },
+  {
+    "text": "東成田線",
+    "title": "京成東成田線",
+    "line": "東成田線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%9D%B1%E6%88%90%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "東羽衣支線",
+    "title": "阪和線",
+    "line": "東羽衣支線 （通称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%92%8C%E7%B7%9A"
+  },
+  {
+    "text": "東山線",
+    "title": "名古屋市営地下鉄東山線",
+    "line": "東山線　（通称:名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "東山本線",
+    "title": "岡山電気軌道東山本線",
+    "line": "東山本線 （岡山電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B1%B1%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E6%9D%B1%E5%B1%B1%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "日頃市線",
+    "title": "岩手開発鉄道日頃市線",
+    "line": "日頃市線 （貨物:岩手開発鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E9%96%8B%E7%99%BA%E9%89%84%E9%81%93%E6%97%A5%E9%A0%83%E5%B8%82%E7%B7%9A"
+  },
+  {
+    "text": "尾西線",
+    "title": "名鉄尾西線",
+    "line": "尾西線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%B0%BE%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "肥薩線",
+    "title": "肥薩線",
+    "line": "肥薩線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%82%A5%E8%96%A9%E7%B7%9A"
+  },
+  {
+    "text": "肥薩おれんじ鉄道線",
+    "title": "肥薩おれんじ鉄道線",
+    "line": "肥薩おれんじ鉄道線 （通称:肥薩おれんじ鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%82%A5%E8%96%A9%E3%81%8A%E3%82%8C%E3%82%93%E3%81%98%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "比治山線",
+    "title": "広島電鉄皆実線",
+    "line": "比治山線 （通称:広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E7%9A%86%E5%AE%9F%E7%B7%9A"
+  },
+  {
+    "text": "日高本線",
+    "title": "日高本線",
+    "line": "日高本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "日立電鉄線",
+    "title": "日立電鉄線",
+    "line": "日立電鉄線 （日立電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E9%9B%BB%E9%89%84%E7%B7%9A"
+  },
+  {
+    "text": "日田彦山線",
+    "title": "日田彦山線",
+    "line": "日田彦山線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E5%BD%A6%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "日比谷線",
+    "title": "東京メトロ日比谷線",
+    "line": "日比谷線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A"
+  },
+  {
+    "text": "氷見線",
+    "title": "氷見線",
+    "line": "氷見線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B7%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "昼飯線",
+    "title": "西濃鉄道昼飯線",
+    "line": "昼飯線 （貨物:西濃鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%BF%83%E9%89%84%E9%81%93%E6%98%BC%E9%A3%AF%E7%B7%9A"
+  },
+  {
+    "text": "広島新交通1号線",
+    "title": "広島高速交通広島新交通1号線",
+    "line": "広島新交通1号線 （広島高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E5%BA%83%E5%B3%B6%E6%96%B0%E4%BA%A4%E9%80%9A1%E5%8F%B7%E7%B7%9A"
+  },
+  {
+    "text": "広島短距離交通瀬野線",
+    "title": "スカイレールサービス広島短距離交通瀬野線",
+    "line": "広島短距離交通瀬野線 （スカイレールサービス）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%BA%83%E5%B3%B6%E7%9F%AD%E8%B7%9D%E9%9B%A2%E4%BA%A4%E9%80%9A%E7%80%AC%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "広見線",
+    "title": "名鉄広見線",
+    "line": "広見線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E5%BA%83%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "琵琶湖線",
+    "title": "琵琶湖線",
+    "line": "琵琶湖線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96%E7%B7%9A"
+  },
+  {
+    "text": "品鶴線",
+    "title": "品鶴線",
+    "line": "品鶴線 （通称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%93%81%E9%B6%B4%E7%B7%9A"
+  },
+  {
+    "text": "福塩線",
+    "title": "福塩線",
+    "line": "福塩線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%A1%A9%E7%B7%9A"
+  },
+  {
+    "text": "福島臨海鉄道本線",
+    "title": "福島臨海鉄道本線",
+    "line": "福島臨海鉄道本線 （福島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "福知山線",
+    "title": "福知山線",
+    "line": "福知山線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "副都心線",
+    "title": "東京メトロ副都心線",
+    "line": "副都心線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A"
+  },
+  {
+    "text": "福武線",
+    "title": "福井鉄道福武線",
+    "line": "福武線 （福井鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E9%89%84%E9%81%93%E7%A6%8F%E6%AD%A6%E7%B7%9A"
+  },
+  {
+    "text": "福北ゆたか線",
+    "title": "福北ゆたか線",
+    "line": "福北ゆたか線 （愛称:九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%8C%97%E3%82%86%E3%81%9F%E3%81%8B%E7%B7%9A"
+  },
+  {
+    "text": "富士急行線",
+    "title": "富士急行線",
+    "line": "富士急行線 （通称:富士急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E6%80%A5%E8%A1%8C%E7%B7%9A"
+  },
+  {
+    "text": "不二越線",
+    "title": "富山地方鉄道不二越線",
+    "line": "不二越線　（富山地方鉄道（鉄道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E4%B8%8D%E4%BA%8C%E8%B6%8A%E7%B7%9A"
+  },
+  {
+    "text": "藤崎線",
+    "title": "熊本電気鉄道藤崎線",
+    "line": "藤崎線 （熊本電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E8%97%A4%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "富良野線",
+    "title": "富良野線",
+    "line": "富良野線　（北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E8%89%AF%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "フラワー長井線",
+    "title": "山形鉄道フラワー長井線",
+    "line": "フラワー長井線　（山形鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E9%89%84%E9%81%93%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%95%B7%E4%BA%95%E7%B7%9A"
+  },
+  {
+    "text": "フルーツライン左沢線",
+    "title": "左沢線",
+    "line": "フルーツライン左沢線 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B7%A6%E6%B2%A2%E7%B7%9A"
+  },
+  {
+    "text": "ブルーライン",
+    "title": "横浜市営地下鉄ブルーライン",
+    "line": "ブルーライン （愛称:横浜市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "ふるさと銀河線",
+    "title": "北海道ちほく高原鉄道ふるさと銀河線",
+    "line": "ふるさと銀河線　（北海道ちほく高原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A1%E3%81%BB%E3%81%8F%E9%AB%98%E5%8E%9F%E9%89%84%E9%81%93%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E9%8A%80%E6%B2%B3%E7%B7%9A"
+  },
+  {
+    "text": "碧南線",
+    "title": "衣浦臨海鉄道碧南線",
+    "line": "碧南線 （衣浦臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A1%A3%E6%B5%A6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E7%A2%A7%E5%8D%97%E7%B7%9A"
+  },
+  {
+    "text": "別所線",
+    "title": "上田電鉄別所線",
+    "line": "別所線 （上田電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%9B%BB%E9%89%84%E5%88%A5%E6%89%80%E7%B7%9A"
+  },
+  {
+    "text": "別府ラクテンチケーブル線",
+    "title": "別府ラクテンチケーブル線",
+    "line": "別府ラクテンチケーブル線 （岡本製作所）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "ポートアイランド線",
+    "title": "神戸新交通ポートアイランド線",
+    "line": "ポートアイランド線 （神戸新交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E6%96%B0%E4%BA%A4%E9%80%9A%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E7%B7%9A"
+  },
+  {
+    "text": "北条線",
+    "title": "北条鉄道北条線",
+    "line": "北条線 （北条鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%A1%E9%89%84%E9%81%93%E5%8C%97%E6%9D%A1%E7%B7%9A"
+  },
+  {
+    "text": "豊肥本線",
+    "title": "豊肥本線",
+    "line": "豊肥本線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%82%A5%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "宝来・谷地頭線",
+    "title": "函館市電宝来・谷地頭線",
+    "line": "宝来・谷地頭線 （函館市企業局交通部）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9B%BB%E5%AE%9D%E6%9D%A5%E3%83%BB%E8%B0%B7%E5%9C%B0%E9%A0%AD%E7%B7%9A"
+  },
+  {
+    "text": "北線",
+    "title": "秋田臨海鉄道北線",
+    "line": "北線 （秋田臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "北神線",
+    "title": "北神急行電鉄北神線",
+    "line": "北神線 （北神急行電鉄（2種）、神戸高速鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%A5%9E%E6%80%A5%E8%A1%8C%E9%9B%BB%E9%89%84%E5%8C%97%E7%A5%9E%E7%B7%9A"
+  },
+  {
+    "text": "北勢線",
+    "title": "三岐鉄道北勢線",
+    "line": "北勢線 （三岐鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B2%90%E9%89%84%E9%81%93%E5%8C%97%E5%8B%A2%E7%B7%9A"
+  },
+  {
+    "text": "北総線",
+    "title": "北総鉄道北総線",
+    "line": "北総線 （北総鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%B7%8F%E9%89%84%E9%81%93%E5%8C%97%E7%B7%8F%E7%B7%9A"
+  },
+  {
+    "text": "ほくほく線",
+    "title": "北越急行ほくほく線",
+    "line": "ほくほく線 （北越急行）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%B6%8A%E6%80%A5%E8%A1%8C%E3%81%BB%E3%81%8F%E3%81%BB%E3%81%8F%E7%B7%9A"
+  },
+  {
+    "text": "北陸本線",
+    "title": "北陸本線",
+    "line": "北陸本線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "北陸新幹線",
+    "title": "北陸新幹線",
+    "line": "北陸新幹線 （東日本旅客鉄道、西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "蛍茶屋支線",
+    "title": "長崎電気軌道蛍茶屋支線",
+    "line": "蛍茶屋支線 （長崎電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E8%9B%8D%E8%8C%B6%E5%B1%8B%E6%94%AF%E7%B7%9A"
+  },
+  {
+    "text": "北海道新幹線",
+    "title": "北海道新幹線",
+    "line": "北海道新幹線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "ほっとスパ・ライン",
+    "title": "野岩鉄道会津鬼怒川線",
+    "line": "ほっとスパ・ライン （愛称:野岩鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B2%A9%E9%89%84%E9%81%93%E4%BC%9A%E6%B4%A5%E9%AC%BC%E6%80%92%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "北方貨物線",
+    "title": "北方貨物線",
+    "line": "北方貨物線 （通称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%B9%E8%B2%A8%E7%89%A9%E7%B7%9A"
+  },
+  {
+    "text": "帆柱ケーブル",
+    "title": "皿倉山ケーブルカー",
+    "line": "帆柱ケーブル （旧社名・旧施設名:皿倉登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9A%BF%E5%80%89%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AB%E3%83%BC"
+  },
+  {
+    "text": "本線",
+    "title": "近江鉄道本線",
+    "line": "本線 （近江鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%B1%9F%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "黒部峡谷鉄道本線",
+    "line": "本線 （黒部峡谷鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%BB%92%E9%83%A8%E5%B3%A1%E8%B0%B7%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "京成本線",
+    "line": "本線 （京成電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "京急本線",
+    "line": "本線 （京浜急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "相鉄本線",
+    "line": "本線 （相模鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%89%84%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "山陽電気鉄道本線",
+    "line": "本線 （山陽電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "富山地方鉄道本線",
+    "line": "本線 （富山地方鉄道（鉄道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "本線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "長崎電気軌道本線",
+    "line": "本線 （長崎電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "函館市電本線",
+    "line": "本線 （函館市企業局交通部）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9B%BB%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "阪神本線",
+    "line": "本線 （阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本線",
+    "title": "広島電鉄本線",
+    "line": "本線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "本四備讃線",
+    "title": "本四備讃線",
+    "line": "本四備讃線 （西日本旅客鉄道、四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%9B%9B%E5%82%99%E8%AE%83%E7%B7%9A"
+  },
+  {
+    "text": "本町線",
+    "title": "伊予鉄道本町線",
+    "line": "本町線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E6%9C%AC%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "本牧線",
+    "title": "神奈川臨海鉄道本牧線",
+    "line": "本牧線 （貨物:神奈川臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9C%AC%E7%89%A7%E7%B7%9A"
+  },
+  {
+    "text": "舞鶴線",
+    "title": "舞鶴線",
+    "line": "舞鶴線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%88%9E%E9%B6%B4%E7%B7%9A"
+  },
+  {
+    "text": "摩耶ケーブル線",
+    "title": "神戸すまいまちづくり公社摩耶ケーブル線",
+    "line": "摩耶ケーブル線　（神戸すまいまちづくり公社）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%81%99%E3%81%BE%E3%81%84%E3%81%BE%E3%81%A1%E3%81%A5%E3%81%8F%E3%82%8A%E5%85%AC%E7%A4%BE%E6%91%A9%E8%80%B6%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "万葉線",
+    "title": "万葉線",
+    "line": "万葉線　（愛称:万葉線）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E7%B7%9A"
+  },
+  {
+    "text": "三ヶ尻線",
+    "title": "秩父鉄道三ヶ尻線",
+    "line": "三ヶ尻線 （貨物:秩父鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E4%B8%89%E3%83%B6%E5%B0%BB%E7%B7%9A"
+  },
+  {
+    "text": "三河線",
+    "title": "名鉄三河線",
+    "line": "三河線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E4%B8%89%E6%B2%B3%E7%B7%9A"
+  },
+  {
+    "text": "三木線",
+    "title": "三木鉄道三木線",
+    "line": "三木線　（三木鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E9%89%84%E9%81%93%E4%B8%89%E6%9C%A8%E7%B7%9A"
+  },
+  {
+    "text": "三国芦原線",
+    "title": "えちぜん鉄道三国芦原線",
+    "line": "三国芦原線　（えちぜん鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E9%89%84%E9%81%93%E4%B8%89%E5%9B%BD%E8%8A%A6%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "水江線",
+    "title": "神奈川臨海鉄道水江線",
+    "line": "水江線 （貨物:神奈川臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%B0%B4%E6%B1%9F%E7%B7%9A"
+  },
+  {
+    "text": "水島本線",
+    "title": "水島臨海鉄道水島本線",
+    "line": "水島本線 （水島臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%B0%B4%E5%B3%B6%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "水間線",
+    "title": "水間鉄道水間線",
+    "line": "水間線　（水間鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%96%93%E9%89%84%E9%81%93%E6%B0%B4%E9%96%93%E7%B7%9A"
+  },
+  {
+    "text": "三角線",
+    "title": "三角線",
+    "line": "三角線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E7%B7%9A"
+  },
+  {
+    "text": "三田線",
+    "title": "都営地下鉄三田線",
+    "line": "三田線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%89%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "御岳登山ケーブル",
+    "title": "御岳登山ケーブル",
+    "line": "御岳登山ケーブル （通称:御岳登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%B2%B3%E7%99%BB%E5%B1%B1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "水戸線",
+    "title": "水戸線",
+    "line": "水戸線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "御堂筋線",
+    "title": "大阪市高速電気軌道御堂筋線",
+    "line": "御堂筋線 （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%BE%A1%E5%A0%82%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "湊線",
+    "title": "ひたちなか海浜鉄道湊線",
+    "line": "湊線 （ひたちなか海浜鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E6%B5%B7%E6%B5%9C%E9%89%84%E9%81%93%E6%B9%8A%E7%B7%9A"
+  },
+  {
+    "text": "みなとみらい線",
+    "title": "横浜高速鉄道みなとみらい線",
+    "line": "みなとみらい線 （通称:横浜高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E7%B7%9A"
+  },
+  {
+    "text": "みなとみらい21線",
+    "title": "横浜高速鉄道みなとみらい線",
+    "line": "みなとみらい21線 （横浜高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E7%B7%9A"
+  },
+  {
+    "text": "皆実線",
+    "title": "広島電鉄皆実線",
+    "line": "皆実線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E7%9A%86%E5%AE%9F%E7%B7%9A"
+  },
+  {
+    "text": "南アルプスあぷとライン",
+    "title": "大井川鐵道井川線",
+    "line": "南アルプスあぷとライン （愛称:大井川鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BA%95%E5%B7%9D%E9%90%B5%E9%81%93%E4%BA%95%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "南大阪線",
+    "title": "近鉄南大阪線",
+    "line": "南大阪線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%8D%97%E5%A4%A7%E9%98%AA%E7%B7%9A"
+  },
+  {
+    "text": "南目線",
+    "title": "島原鉄道線",
+    "line": "南目線 （通称:島原鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%8E%9F%E9%89%84%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "南リアス線",
+    "title": "三陸鉄道南リアス線",
+    "line": "南リアス線　（三陸鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E9%89%84%E9%81%93%E5%8D%97%E3%83%AA%E3%82%A2%E3%82%B9%E7%B7%9A"
+  },
+  {
+    "text": "美祢線",
+    "title": "美祢線",
+    "line": "美祢線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%A5%A2%E7%B7%9A"
+  },
+  {
+    "text": "箕面線",
+    "title": "阪急箕面線",
+    "line": "箕面線 （阪急電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E7%AE%95%E9%9D%A2%E7%B7%9A"
+  },
+  {
+    "text": "身延線",
+    "title": "身延線",
+    "line": "身延線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BA%AB%E5%BB%B6%E7%B7%9A"
+  },
+  {
+    "text": "美濃赤坂線",
+    "title": "美濃赤坂線",
+    "line": "美濃赤坂線 （通称:東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E8%B5%A4%E5%9D%82%E7%B7%9A"
+  },
+  {
+    "text": "美濃町線",
+    "title": "名鉄美濃町線",
+    "line": "美濃町線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E7%BE%8E%E6%BF%83%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "宮城野貨物線",
+    "title": "東北本線",
+    "line": "宮城野貨物線 （通称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "宮崎空港線",
+    "title": "宮崎空港線",
+    "line": "宮崎空港線 （九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "宮地岳線",
+    "title": "西鉄貝塚線",
+    "line": "宮地岳線 （旧称:西日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E8%B2%9D%E5%A1%9A%E7%B7%9A"
+  },
+  {
+    "text": "宮島線",
+    "title": "広島電鉄宮島線",
+    "line": "宮島線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E5%AE%AE%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "宮津線",
+    "title": "京都丹後鉄道宮津線",
+    "line": "宮津線　（京都丹後鉄道（2種）、北近畿タンゴ鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%B9%E5%BE%8C%E9%89%84%E9%81%93%E5%AE%AE%E6%B4%A5%E7%B7%9A"
+  },
+  {
+    "text": "宮豊線",
+    "title": "京都丹後鉄道宮豊線",
+    "line": "宮豊線　（愛称:京都丹後鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%B9%E5%BE%8C%E9%89%84%E9%81%93%E5%AE%AE%E8%B1%8A%E7%B7%9A"
+  },
+  {
+    "text": "宮福線",
+    "title": "京都丹後鉄道宮福線",
+    "line": "宮福線（京都丹後鉄道（2種）、北近畿タンゴ鉄道（3種））",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%B9%E5%BE%8C%E9%89%84%E9%81%93%E5%AE%AE%E7%A6%8F%E7%B7%9A"
+  },
+  {
+    "text": "宮舞線",
+    "title": "京都丹後鉄道宮舞線",
+    "line": "宮舞線　（愛称:京都丹後鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%B9%E5%BE%8C%E9%89%84%E9%81%93%E5%AE%AE%E8%88%9E%E7%B7%9A"
+  },
+  {
+    "text": "妙見線",
+    "title": "能勢電鉄妙見線",
+    "line": "妙見線　（能勢電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%9B%BB%E9%89%84%E5%A6%99%E8%A6%8B%E7%B7%9A"
+  },
+  {
+    "text": "妙見ケーブル",
+    "title": "能勢電鉄妙見の森ケーブル",
+    "line": "妙見ケーブル　（旧通称:能勢電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%9B%BB%E9%89%84%E5%A6%99%E8%A6%8B%E3%81%AE%E6%A3%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "妙見の森ケーブル",
+    "title": "能勢電鉄妙見の森ケーブル",
+    "line": "妙見の森ケーブル　（通称:能勢電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%8B%A2%E9%9B%BB%E9%89%84%E5%A6%99%E8%A6%8B%E3%81%AE%E6%A3%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "妙高はねうまライン",
+    "title": "えちごトキめき鉄道妙高はねうまライン",
+    "line": "妙高はねうまライン （えちごトキめき鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%A1%E3%81%94%E3%83%88%E3%82%AD%E3%82%81%E3%81%8D%E9%89%84%E9%81%93%E5%A6%99%E9%AB%98%E3%81%AF%E3%81%AD%E3%81%86%E3%81%BE%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "牟岐線",
+    "title": "牟岐線",
+    "line": "牟岐線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%89%9F%E5%B2%90%E7%B7%9A"
+  },
+  {
+    "text": "無軌条電車線",
+    "title": "立山黒部貫光無軌条電車線",
+    "line": "無軌条電車線 （立山黒部貫光）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E8%B2%AB%E5%85%89%E7%84%A1%E8%BB%8C%E6%9D%A1%E9%9B%BB%E8%BB%8A%E7%B7%9A"
+  },
+  {
+    "text": "武庫川線",
+    "title": "阪神武庫川線",
+    "line": "武庫川線 （阪神電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E6%AD%A6%E5%BA%AB%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "武蔵野線",
+    "title": "武蔵野線",
+    "line": "武蔵野線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "室蘭本線",
+    "title": "室蘭本線",
+    "line": "室蘭本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "名港線",
+    "title": "名古屋市営地下鉄名港線",
+    "line": "名港線　（通称:名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%90%8D%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "名松線",
+    "title": "名松線",
+    "line": "名松線 （東海旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%BE%E7%B7%9A"
+  },
+  {
+    "text": "名城線",
+    "title": "名古屋市営地下鉄名城線",
+    "line": "名城線　（通称:名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%90%8D%E5%9F%8E%E7%B7%9A"
+  },
+  {
+    "text": "目蒲線",
+    "title": "東急目蒲線",
+    "line": "目蒲線 （旧称:東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E7%9B%AE%E8%92%B2%E7%B7%9A"
+  },
+  {
+    "text": "目黒線",
+    "title": "東急目黒線",
+    "line": "目黒線 （東京急行電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A"
+  },
+  {
+    "text": "真岡線",
+    "title": "真岡鐵道真岡線",
+    "line": "真岡線　（真岡鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%B2%A1%E9%90%B5%E9%81%93%E7%9C%9F%E5%B2%A1%E7%B7%9A"
+  },
+  {
+    "text": "門司港レトロ観光線",
+    "title": "平成筑豊鉄道門司港レトロ観光線",
+    "line": "門司港レトロ観光線 （平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD%E8%A6%B3%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "本山支線",
+    "title": "小野田線",
+    "line": "本山支線 （通称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "森と水とロマンの鉄道",
+    "title": "磐越西線",
+    "line": "森と水とロマンの鉄道 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "モンキーパークモノレール線",
+    "title": "名鉄モンキーパークモノレール線",
+    "line": "モンキーパークモノレール線 （名古屋鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%84%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "八栗ケーブル",
+    "title": "八栗ケーブル",
+    "line": "八栗ケーブル （通称:四国ケーブル）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%A0%97%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "屋島ケーブル",
+    "title": "屋島ケーブル",
+    "line": "屋島ケーブル （通称:屋島登山鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%B3%B6%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB"
+  },
+  {
+    "text": "安野屋線",
+    "title": "富山地方鉄道富山市内軌道線",
+    "line": "安野屋線 （富山地方鉄道（軌道））",
+    "link": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E5%AF%8C%E5%B1%B1%E5%B8%82%E5%86%85%E8%BB%8C%E9%81%93%E7%B7%9A"
+  },
+  {
+    "text": "八ヶ岳高原線",
+    "title": "小海線",
+    "line": "八ヶ岳高原線 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B5%B7%E7%B7%9A"
+  },
+  {
+    "text": "弥彦線",
+    "title": "弥彦線",
+    "line": "弥彦線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BC%A5%E5%BD%A6%E7%B7%9A"
+  },
+  {
+    "text": "山形線",
+    "title": "山形線",
+    "line": "山形線 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E7%B7%9A"
+  },
+  {
+    "text": "山形新幹線",
+    "title": "山形新幹線",
+    "line": "山形新幹線 （愛称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+    "text": "やまぎんレトロライン",
+    "title": "平成筑豊鉄道門司港レトロ観光線",
+    "line": "やまぎんレトロライン （愛称:平成筑豊鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90%E7%AD%91%E8%B1%8A%E9%89%84%E9%81%93%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD%E8%A6%B3%E5%85%89%E7%B7%9A"
+  },
+  {
+    "text": "山口線",
+    "title": "山口線",
+    "line": "山口線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%B7%9A"
+  },
+  {
+    "text": "山口線",
+    "title": "西武山口線",
+    "line": "山口線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E5%B1%B1%E5%8F%A3%E7%B7%9A"
+  },
+  {
+    "text": "山田線",
+    "title": "山田線",
+    "line": "山田線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "山田線",
+    "title": "近鉄山田線",
+    "line": "山田線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%B1%B1%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "山手線",
+    "title": "神戸市営地下鉄西神・山手線",
+    "line": "山手線　（神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E8%A5%BF%E7%A5%9E%E3%83%BB%E5%B1%B1%E6%89%8B%E7%B7%9A"
+  },
+  {
+    "text": "山手線",
+    "title": "山手線",
+    "line": "山手線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%89%8B%E7%B7%9A"
+  },
+  {
+    "text": "大和路線",
+    "title": "大和路線",
+    "line": "大和路線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E8%B7%AF%E7%B7%9A"
+  },
+  {
+    "text": "ゆいレール",
+    "title": "沖縄都市モノレール線",
+    "line": "ゆいレール （愛称:沖縄都市モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "ユーカリが丘線",
+    "title": "山万ユーカリが丘線",
+    "line": "ユーカリが丘線 （山万）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%87%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%81%8C%E4%B8%98%E7%B7%9A"
+  },
+  {
+    "text": "有楽町線",
+    "title": "東京メトロ有楽町線",
+    "line": "有楽町線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "西武有楽町線",
+    "title": "西武有楽町線",
+    "line": "西武有楽町線 （西武鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "ゆとりーとライン",
+    "title": "名古屋ガイドウェイバスガイドウェイバス志段味線",
+    "line": "ゆとりーとライン　（愛称:名古屋ガイドウェイバス）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%90%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%90%E3%82%B9%E5%BF%97%E6%AE%B5%E5%91%B3%E7%B7%9A"
+  },
+  {
+    "text": "湯の川線",
+    "title": "函館市電湯の川線",
+    "line": "湯の川線　（函館市企業局交通部）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82%E9%9B%BB%E6%B9%AF%E3%81%AE%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "湯前線",
+    "title": "くま川鉄道湯前線",
+    "line": "湯前線 （くま川鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E5%B7%9D%E9%89%84%E9%81%93%E6%B9%AF%E5%89%8D%E7%B7%9A"
+  },
+  {
+    "text": "湯の山線",
+    "title": "近鉄湯の山線",
+    "line": "湯の山線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E6%B9%AF%E3%81%AE%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "ゆふ高原線",
+    "title": "久大本線",
+    "line": "ゆふ高原線 （愛称:九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%A4%A7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "夢かもめ",
+    "title": "神戸市営地下鉄海岸線",
+    "line": "夢かもめ （愛称:神戸市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%B5%B7%E5%B2%B8%E7%B7%9A"
+  },
+  {
+    "text": "JRゆめ咲線",
+    "title": "桜島線",
+    "line": "JRゆめ咲線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "ゆりかもめ",
+    "title": "ゆりかもめ東京臨海新交通臨海線",
+    "line": "ゆりかもめ　（愛称:ゆりかもめ）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E6%96%B0%E4%BA%A4%E9%80%9A%E8%87%A8%E6%B5%B7%E7%B7%9A"
+  },
+  {
+    "text": "八日市線",
+    "title": "近江鉄道八日市線",
+    "line": "八日市線 （近江鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%B1%9F%E9%89%84%E9%81%93%E5%85%AB%E6%97%A5%E5%B8%82%E7%B7%9A"
+  },
+  {
+    "text": "養老線",
+    "title": "養老鉄道養老線",
+    "line": "養老線 （養老鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%A4%8A%E8%80%81%E9%89%84%E9%81%93%E9%A4%8A%E8%80%81%E7%B7%9A"
+  },
+  {
+    "text": "横川線",
+    "title": "広島電鉄横川線",
+    "line": "横川線 （広島電鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%9B%BB%E9%89%84%E6%A8%AA%E5%B7%9D%E7%B7%9A"
+  },
+  {
+    "text": "横河原線",
+    "title": "伊予鉄道横河原線",
+    "line": "横河原線 （伊予鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%93%E6%A8%AA%E6%B2%B3%E5%8E%9F%E7%B7%9A"
+  },
+  {
+    "text": "横須賀線",
+    "title": "横須賀線",
+    "line": "横須賀線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E9%A0%88%E8%B3%80%E7%B7%9A"
+  },
+  {
+    "text": "横須賀・総武快速線",
+    "title": "横須賀・総武快速線",
+    "line": "横須賀・総武快速線 （総称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E9%A0%88%E8%B3%80%E3%83%BB%E7%B7%8F%E6%AD%A6%E5%BF%AB%E9%80%9F%E7%B7%9A"
+  },
+  {
+    "text": "横浜線",
+    "title": "横浜線",
+    "line": "横浜線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E7%B7%9A"
+  },
+  {
+    "text": "予讃線",
+    "title": "予讃線",
+    "line": "予讃線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%88%E8%AE%83%E7%B7%9A"
+  },
+  {
+    "text": "吉野線",
+    "title": "近鉄吉野線",
+    "line": "吉野線 （近畿日本鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%84%E5%90%89%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "よしの川ブルーライン",
+    "title": "徳島線",
+    "line": "よしの川ブルーライン （愛称:四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "四つ橋線",
+    "title": "大阪市高速電気軌道四つ橋線",
+    "line": "四つ橋線　（大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%9B%9B%E3%81%A4%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "予土線",
+    "title": "予土線",
+    "line": "予土線 （四国旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%88%E5%9C%9F%E7%B7%9A"
+  },
+  {
+    "text": "米坂線",
+    "title": "米坂線",
+    "line": "米坂線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%9D%82%E7%B7%9A"
+  },
+  {
+    "text": "ラクテンチケーブル",
+    "title": "別府ラクテンチケーブル線",
+    "line": "ラクテンチケーブル （通称:岡本製作所）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E3%83%A9%E3%82%AF%E3%83%86%E3%83%B3%E3%83%81%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "陸羽西線",
+    "title": "陸羽西線",
+    "line": "陸羽西線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "陸羽東線",
+    "title": "陸羽東線",
+    "line": "陸羽東線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD%E6%9D%B1%E7%B7%9A"
+  },
+  {
+    "text": "リニモ",
+    "title": "愛知高速交通東部丘陵線",
+    "line": "リニモ （愛称:愛知高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E6%9D%B1%E9%83%A8%E4%B8%98%E9%99%B5%E7%B7%9A"
+  },
+  {
+    "text": "利府線",
+    "title": "利府線",
+    "line": "利府線 （通称:東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%88%A9%E5%BA%9C%E7%B7%9A"
+  },
+  {
+    "text": "竜ヶ崎線",
+    "title": "関東鉄道竜ヶ崎線",
+    "line": "竜ヶ崎線 （関東鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E9%89%84%E9%81%93%E7%AB%9C%E3%83%B6%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "両毛線",
+    "title": "両毛線",
+    "line": "両毛線 （東日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%B8%A1%E6%AF%9B%E7%B7%9A"
+  },
+  {
+    "text": "りんかい線",
+    "title": "東京臨海高速鉄道りんかい線",
+    "line": "りんかい線　（東京臨海高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%82%8A%E3%82%93%E3%81%8B%E3%81%84%E7%B7%9A"
+  },
+  {
+    "text": "臨海副都心線",
+    "title": "東京臨海高速鉄道りんかい線",
+    "line": "臨海副都心線　（旧称:東京臨海高速鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E8%87%A8%E6%B5%B7%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%82%8A%E3%82%93%E3%81%8B%E3%81%84%E7%B7%9A"
+  },
+  {
+    "text": "臨海本線",
+    "title": "京葉臨海鉄道臨海本線",
+    "line": "臨海本線 （貨物:京葉臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E8%91%89%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E8%87%A8%E6%B5%B7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "臨海本線",
+    "title": "仙台臨海鉄道臨海本線",
+    "line": "臨海本線 （貨物:仙台臨海鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E8%87%A8%E6%B5%B7%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "りんかんサンライン",
+    "title": "南海高野線",
+    "line": "りんかんサンライン （旧愛称:南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E9%AB%98%E9%87%8E%E7%B7%9A"
+  },
+  {
+    "text": "臨港線",
+    "title": "太平洋石炭販売輸送臨港線",
+    "line": "臨港線 （貨物:太平洋石炭販売輸送）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9F%B3%E7%82%AD%E8%B2%A9%E5%A3%B2%E8%BC%B8%E9%80%81%E8%87%A8%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "留萌本線",
+    "title": "留萌本線",
+    "line": "留萌本線 （北海道旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%95%99%E8%90%8C%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "六甲アイランド線",
+    "title": "神戸新交通六甲アイランド線",
+    "line": "六甲アイランド線 （神戸新交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E6%96%B0%E4%BA%A4%E9%80%9A%E5%85%AD%E7%94%B2%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E7%B7%9A"
+  },
+  {
+    "text": "六甲ケーブル線",
+    "title": "六甲山観光六甲ケーブル線",
+    "line": "六甲ケーブル線 （六甲山観光）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%85%AD%E7%94%B2%E5%B1%B1%E8%A6%B3%E5%85%89%E5%85%AD%E7%94%B2%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E7%B7%9A"
+  },
+  {
+    "text": "若桜線",
+    "title": "若桜鉄道若桜線",
+    "line": "若桜線　（若桜鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%A1%9C%E9%89%84%E9%81%93%E8%8B%A5%E6%A1%9C%E7%B7%9A"
+  },
+  {
+    "text": "若松線",
+    "title": "筑豊本線",
+    "line": "若松線 （愛称:九州旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%B1%8A%E6%9C%AC%E7%B7%9A"
+  },
+  {
+    "text": "和歌山線",
+    "title": "和歌山線",
+    "line": "和歌山線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "和歌山港線",
+    "title": "南海和歌山港線",
+    "line": "和歌山港線 （南海電気鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E5%92%8C%E6%AD%8C%E5%B1%B1%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "輪島線",
+    "title": "のと鉄道七尾線",
+    "line": "輪島線 （通称:のと鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%A8%E9%89%84%E9%81%93%E4%B8%83%E5%B0%BE%E7%B7%9A"
+  },
+  {
+    "text": "和田岬線",
+    "title": "和田岬線",
+    "line": "和田岬線 （通称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E5%B2%AC%E7%B7%9A"
+  },
+  {
+    "text": "わたらせ渓谷線",
+    "title": "わたらせ渓谷鐵道わたらせ渓谷線",
+    "line": "わたらせ渓谷線　（わたらせ渓谷鐵道）",
+    "link": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%9F%E3%82%89%E3%81%9B%E6%B8%93%E8%B0%B7%E9%90%B5%E9%81%93%E3%82%8F%E3%81%9F%E3%82%89%E3%81%9B%E6%B8%93%E8%B0%B7%E7%B7%9A"
+  },
+  {
+    "text": "1号線（アストラムライン）",
+    "title": "広島高速交通広島新交通1号線",
+    "line": "1号線（アストラムライン） （広島高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E5%BA%83%E5%B3%B6%E6%96%B0%E4%BA%A4%E9%80%9A1%E5%8F%B7%E7%B7%9A"
+  },
+  {
+    "text": "1号線",
+    "title": "千葉都市モノレール1号線",
+    "line": "1号線 （千葉都市モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB1%E5%8F%B7%E7%B7%9A"
+  },
+  {
+    "text": "1号線",
+    "title": "横浜市営地下鉄ブルーライン",
+    "line": "1号線 （横浜市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "1号線浅草線",
+    "title": "都営地下鉄浅草線",
+    "line": "1号線浅草線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%B5%85%E8%8D%89%E7%B7%9A"
+  },
+  {
+    "text": "1号線（空港線）",
+    "title": "福岡市地下鉄空港線",
+    "line": "1号線（空港線） （福岡市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E7%A9%BA%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "1号線東山線",
+    "title": "名古屋市営地下鉄東山線",
+    "line": "1号線東山線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%9D%B1%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "1号線（御堂筋線）",
+    "title": "大阪市高速電気軌道御堂筋線",
+    "line": "1号線（御堂筋線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%BE%A1%E5%A0%82%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "2号線",
+    "title": "千葉都市モノレール2号線",
+    "line": "2号線 （千葉都市モノレール）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB2%E5%8F%B7%E7%B7%9A"
+  },
+  {
+    "text": "2号線（谷町線）",
+    "title": "大阪市高速電気軌道谷町線",
+    "line": "2号線（谷町線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E8%B0%B7%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "2号線（箱崎線）",
+    "title": "福岡市地下鉄箱崎線",
+    "line": "2号線（箱崎線） （福岡市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E7%AE%B1%E5%B4%8E%E7%B7%9A"
+  },
+  {
+    "text": "2号線日比谷線",
+    "title": "東京メトロ日比谷線",
+    "line": "2号線日比谷線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A"
+  },
+  {
+    "text": "2号線名港線",
+    "title": "名古屋市営地下鉄名港線",
+    "line": "2号線名港線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%90%8D%E6%B8%AF%E7%B7%9A"
+  },
+  {
+    "text": "2号線名城線",
+    "title": "名古屋市営地下鉄名城線",
+    "line": "2号線名城線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%90%8D%E5%9F%8E%E7%B7%9A"
+  },
+  {
+    "text": "3号線",
+    "title": "横浜市営地下鉄ブルーライン",
+    "line": "3号線 （横浜市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "3号線銀座線",
+    "title": "東京メトロ銀座線",
+    "line": "3号線銀座線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A"
+  },
+  {
+    "text": "3号線鶴舞線",
+    "title": "名古屋市営地下鉄鶴舞線",
+    "line": "3号線鶴舞線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E9%B6%B4%E8%88%9E%E7%B7%9A"
+  },
+  {
+    "text": "3号線（七隈線）",
+    "title": "福岡市地下鉄七隈線",
+    "line": "3号線（七隈線） （福岡市交通局） :",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%83%E9%9A%88%E7%B7%9A"
+  },
+  {
+    "text": "3号線（四つ橋線）",
+    "title": "大阪市高速電気軌道四つ橋線",
+    "line": "3号線（四つ橋線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%9B%9B%E3%81%A4%E6%A9%8B%E7%B7%9A"
+  },
+  {
+    "text": "4号線名城線",
+    "title": "名古屋市営地下鉄名城線",
+    "line": "4号線名城線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%90%8D%E5%9F%8E%E7%B7%9A"
+  },
+  {
+    "text": "4号線（中央線）",
+    "title": "大阪市高速電気軌道中央線",
+    "line": "4号線（中央線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%B8%AD%E5%A4%AE%E7%B7%9A"
+  },
+  {
+    "text": "4号線丸ノ内線",
+    "title": "東京メトロ丸ノ内線",
+    "line": "4号線丸ノ内線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A"
+  },
+  {
+    "text": "4号線丸ノ内線分岐線",
+    "title": "東京メトロ丸ノ内線",
+    "line": "4号線丸ノ内線分岐線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A"
+  },
+  {
+    "text": "4号線",
+    "title": "横浜市営地下鉄グリーンライン",
+    "line": "4号線 （横浜市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+  },
+  {
+    "text": "5号線（千日前線）",
+    "title": "大阪市高速電気軌道千日前線",
+    "line": "5号線（千日前線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%8D%83%E6%97%A5%E5%89%8D%E7%B7%9A"
+  },
+  {
+    "text": "5号線東西線",
+    "title": "東京メトロ東西線",
+    "line": "5号線東西線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "6号線（堺筋線）",
+    "title": "大阪市高速電気軌道堺筋線",
+    "line": "6号線（堺筋線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E5%A0%BA%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "6号線桜通線",
+    "title": "名古屋市営地下鉄桜通線",
+    "line": "6号線桜通線 （名古屋市交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%A1%9C%E9%80%9A%E7%B7%9A"
+  },
+  {
+    "text": "6号線三田線",
+    "title": "都営地下鉄三田線",
+    "line": "6号線三田線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%89%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "7号線（長堀鶴見緑地線）",
+    "title": "大阪市高速電気軌道長堀鶴見緑地線",
+    "line": "7号線（長堀鶴見緑地線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E9%95%B7%E5%A0%80%E9%B6%B4%E8%A6%8B%E7%B7%91%E5%9C%B0%E7%B7%9A"
+  },
+  {
+    "text": "7号線南北線",
+    "title": "東京メトロ南北線",
+    "line": "7号線南北線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A"
+  },
+  {
+    "text": "8号線有楽町線",
+    "title": "東京メトロ有楽町線",
+    "line": "8号線有楽町線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A"
+  },
+  {
+    "text": "8号線（今里筋線）",
+    "title": "大阪市高速電気軌道今里筋線",
+    "line": "8号線（今里筋線） （大阪市高速電気軌道）",
+    "link": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B0%97%E8%BB%8C%E9%81%93%E4%BB%8A%E9%87%8C%E7%AD%8B%E7%B7%9A"
+  },
+  {
+    "text": "9号線千代田線",
+    "title": "東京メトロ千代田線",
+    "line": "9号線千代田線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A"
+  },
+  {
+    "text": "10号線新宿線",
+    "title": "都営地下鉄新宿線",
+    "line": "10号線新宿線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E6%96%B0%E5%AE%BF%E7%B7%9A"
+  },
+  {
+    "text": "11号線半蔵門線",
+    "title": "東京メトロ半蔵門線",
+    "line": "11号線半蔵門線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%8A%E8%94%B5%E9%96%80%E7%B7%9A"
+  },
+  {
+    "text": "12号線大江戸線",
+    "title": "都営地下鉄大江戸線",
+    "line": "12号線大江戸線 （東京都交通局）",
+    "link": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "13号線副都心線",
+    "title": "東京メトロ副都心線",
+    "line": "13号線副都心線 （東京地下鉄）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A"
+  },
+  {
+    "text": "JR京都線",
+    "title": "JR京都線",
+    "line": "JR京都線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E4%BA%AC%E9%83%BD%E7%B7%9A"
+  },
+  {
+    "text": "JR神戸線",
+    "title": "JR神戸線",
+    "line": "JR神戸線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E7%A5%9E%E6%88%B8%E7%B7%9A"
+  },
+  {
+    "text": "JR宝塚線",
+    "title": "福知山線",
+    "line": "JR宝塚線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E7%B7%9A"
+  },
+  {
+    "text": "JR東西線",
+    "title": "JR東西線",
+    "line": "JR東西線 （西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/JR%E6%9D%B1%E8%A5%BF%E7%B7%9A"
+  },
+  {
+    "text": "JRゆめ咲線",
+    "title": "桜島線",
+    "line": "JRゆめ咲線 （愛称:西日本旅客鉄道）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B3%B6%E7%B7%9A"
+  },
+  {
+    "text": "Linimo",
+    "title": "愛知高速交通東部丘陵線",
+    "line": "Linimo（愛称:愛知高速交通）",
+    "link": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E6%9D%B1%E9%83%A8%E4%B8%98%E9%99%B5%E7%B7%9A"
+  },
+  {
+    "text": "日本の鉄道駅一覧",
+    "title": "日本の鉄道駅一覧",
+    "line": "日本の鉄道駅一覧、日本の鉄道事業者一覧、日本の鉄道",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93%E9%A7%85%E4%B8%80%E8%A6%A7"
+  },
+  {
+    "text": "日本",
+    "title": "日本",
+    "line": "日本、日本の地域、日本の地理",
+    "link": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+  }
+]

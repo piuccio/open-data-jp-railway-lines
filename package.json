@@ -1,0 +1,20 @@
+{
+  "name": "open-data-jp-railway-lines",
+  "version": "1.0.0",
+  "description": "List of Japanese railway lines in an accessible format",
+  "main": "index.js",
+  "scripts": {
+    "input": "node setup_input.js",
+    "start": "node index.js",
+    "dev": "nodemon --watch index.js"
+  },
+  "author": "Fabio Crisci",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^2.5.0",
+    "got": "^9.0.0",
+    "open-data-jp-railway-lines-logo": "github:piuccio/open-data-jp-railway-lines-logo",
+    "open-data-jp-tokyo-railway-operators": "github:piuccio/open-data-jp-tokyo-railway-operators",
+    "split-array": "^1.0.1"
+  }
+}
