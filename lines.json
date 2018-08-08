@@ -122,10 +122,11 @@
   {
     "code": "",
     "ekidata_id": "11101",
-    "name_kanij": "JR函館本線(函館～長万部)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "函館本線",
+    "name_kana": "はこだてほんせん",
+    "name_romaji": "Hakodate Main Line",
     "alternative_names": [
+      "JR函館本線(函館～長万部)",
       "ハコダテホンセン"
     ],
     "prefectures": [
@@ -136,10 +137,11 @@
   {
     "code": "",
     "ekidata_id": "11102",
-    "name_kanij": "JR函館本線(長万部～小樽)",
+    "name_kanij": "函館本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR函館本線(長万部～小樽)",
       "ハコダテホンセン"
     ],
     "prefectures": [
@@ -150,10 +152,11 @@
   {
     "code": "",
     "ekidata_id": "11103",
-    "name_kanij": "JR函館本線(小樽～旭川)",
+    "name_kanij": "函館本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR函館本線(小樽～旭川)",
       "ハコダテホンセン"
     ],
     "prefectures": [
@@ -179,7 +182,7 @@
   {
     "code": "",
     "ekidata_id": "11105",
-    "name_kanij": "%E5%AE%A4%E8%98%AD%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "室蘭本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -194,10 +197,11 @@
   {
     "code": "",
     "ekidata_id": "11106",
-    "name_kanij": "JR根室本線(滝川～新得)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "根室本線",
+    "name_kana": "ねむろほんせん",
+    "name_romaji": "Nemuro Main Line",
     "alternative_names": [
+      "JR根室本線(滝川～新得)",
       "ネムロホンセン"
     ],
     "prefectures": [
@@ -208,10 +212,11 @@
   {
     "code": "",
     "ekidata_id": "11107",
-    "name_kanij": "JR根室本線(新得～釧路)",
+    "name_kanij": "根室本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR根室本線(新得～釧路)",
       "ネムロホンセン"
     ],
     "prefectures": [
@@ -223,8 +228,8 @@
     "code": "",
     "ekidata_id": "11108",
     "name_kanij": "根室本線",
-    "name_kana": "ねむろほんせん",
-    "name_romaji": "Nemuro Main Line",
+    "name_kana": "",
+    "name_romaji": "",
     "alternative_names": [
       "花咲線",
       "JR根室本線(釧路～根室)",
@@ -283,10 +288,11 @@
   {
     "code": "",
     "ekidata_id": "11112",
-    "name_kanij": "JR札沼線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "札沼線",
+    "name_kana": "さっしょうせん",
+    "name_romaji": "Sassho Line",
     "alternative_names": [
+      "JR札沼線",
       "サッショウセン"
     ],
     "prefectures": [
@@ -404,10 +410,11 @@
   {
     "code": "",
     "ekidata_id": "11231",
-    "name_kanij": "JR東北本線(黒磯～利府・盛岡)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "東北本線",
+    "name_kana": "とうほくほんせん",
+    "name_romaji": "Tohoku Main Line",
     "alternative_names": [
+      "JR東北本線(黒磯～利府・盛岡)",
       "トウホクホンセン"
     ],
     "prefectures": [
@@ -416,7 +423,7 @@
       "04",
       "03"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JR_JU_line_symbol.svg/28px-JR_JU_line_symbol.svg.png"
   },
   {
     "code": "",
@@ -468,10 +475,11 @@
   {
     "code": "",
     "ekidata_id": "11206",
-    "name_kanij": "JR八戸線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "八戸線",
+    "name_kana": "はちのへせん",
+    "name_romaji": "Hachinohe Line",
     "alternative_names": [
+      "JR八戸線",
       "ハチノヘセン"
     ],
     "prefectures": [
@@ -596,10 +604,11 @@
   {
     "code": "",
     "ekidata_id": "11215",
-    "name_kanij": "JR男鹿線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "男鹿線",
+    "name_kana": "おがせん",
+    "name_romaji": "Oga Line",
     "alternative_names": [
+      "JR男鹿線",
       "オガセン"
     ],
     "prefectures": [
@@ -752,10 +761,11 @@
   {
     "code": "",
     "ekidata_id": "11225",
-    "name_kanij": "JR磐越西線(郡山～会津若松)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "磐越西線",
+    "name_kana": "ばんえつさいせん",
+    "name_romaji": "Ban'etsu West Line",
     "alternative_names": [
+      "JR磐越西線(郡山～会津若松)",
       "バンエツサイセン"
     ],
     "prefectures": [
@@ -767,8 +777,8 @@
     "code": "",
     "ekidata_id": "11226",
     "name_kanij": "磐越西線",
-    "name_kana": "ばんえつさいせん",
-    "name_romaji": "Ban'etsu West Line",
+    "name_kana": "",
+    "name_romaji": "",
     "alternative_names": [
       "森と水とロマンの鉄道",
       "JR磐越西線(森と水とロマンの鉄道)",
@@ -814,10 +824,11 @@
   {
     "code": "JR-East.Joban",
     "ekidata_id": "11229",
-    "name_kanij": "JR常磐線(取手～いわき)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "常磐線",
+    "name_kana": "じょうばんせん",
+    "name_romaji": "Joban Line",
     "alternative_names": [
+      "JR常磐線(取手～いわき)",
       "ジョウバンセン"
     ],
     "prefectures": [
@@ -829,10 +840,11 @@
   {
     "code": "JR-East.Joban",
     "ekidata_id": "11230",
-    "name_kanij": "JR常磐線(いわき～仙台)",
+    "name_kanij": "常磐線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR常磐線(いわき～仙台)",
       "ジョウバンセン"
     ],
     "prefectures": [
@@ -844,10 +856,11 @@
   {
     "code": "",
     "ekidata_id": "11301",
-    "name_kanij": "JR東海道本線(東京～熱海)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "東海道本線",
+    "name_kana": "とうかいどうほんせん",
+    "name_romaji": "Tokaido Main Line",
     "alternative_names": [
+      "JR東海道本線(東京～熱海)",
       "トウカイドウホンセン"
     ],
     "prefectures": [
@@ -855,7 +868,7 @@
       "14",
       "22"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/JR_Central_Tokaido_Line.svg/28px-JR_Central_Tokaido_Line.svg.png"
   },
   {
     "code": "JR-East.Yamanote",
@@ -874,31 +887,33 @@
   {
     "code": "JR-East.Nambu",
     "ekidata_id": "11303",
-    "name_kanij": "JR南武線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "南武線",
+    "name_kana": "なんぶせん",
+    "name_romaji": "Nambu Line",
     "alternative_names": [
+      "JR南武線",
       "ナンブセン"
     ],
     "prefectures": [
       "14",
       "13"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JR_JN_line_symbol.svg/28px-JR_JN_line_symbol.svg.png"
   },
   {
     "code": "JR-East.Tsurumi",
     "ekidata_id": "11304",
-    "name_kanij": "JR鶴見線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "鶴見線",
+    "name_kana": "つるみせん",
+    "name_romaji": "Tsurumi Line",
     "alternative_names": [
+      "JR鶴見線",
       "ツルミセン"
     ],
     "prefectures": [
       "14"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JR_JI_line_symbol.svg/28px-JR_JI_line_symbol.svg.png"
   },
   {
     "code": "JR-East.Musashino",
@@ -982,10 +997,11 @@
   {
     "code": "JR-East.Chuo",
     "ekidata_id": "11311",
-    "name_kanij": "JR中央本線(東京～塩尻)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "中央本線",
+    "name_kana": "ちゅうおうほんせん",
+    "name_romaji": "Chuo Main Line",
     "alternative_names": [
+      "JR中央本線(東京～塩尻)",
       "チュウオウホンセン"
     ],
     "prefectures": [
@@ -1091,7 +1107,7 @@
   {
     "code": "JR-East.Hachiko",
     "ekidata_id": "11318",
-    "name_kanij": "%E5%85%AB%E9%AB%98%E7%B7%9A",
+    "name_kanij": "八高線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -1125,10 +1141,11 @@
   {
     "code": "JR-East.Joban",
     "ekidata_id": "11320",
-    "name_kanij": "JR常磐線(上野～取手)",
+    "name_kanij": "常磐線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR常磐線(上野～取手)",
       "ジョウバンセン"
     ],
     "prefectures": [
@@ -1404,10 +1421,11 @@
   {
     "code": "",
     "ekidata_id": "11338",
-    "name_kanij": "JR水郡線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "水郡線",
+    "name_kana": "すいぐんせん",
+    "name_romaji": "Suigun Line",
     "alternative_names": [
+      "JR水郡線",
       "スイグンセン"
     ],
     "prefectures": [
@@ -1465,10 +1483,11 @@
   {
     "code": "JR-East.Joetsu",
     "ekidata_id": "11342",
-    "name_kanij": "JR上越線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "上越線",
+    "name_kana": "じょうえつせん",
+    "name_romaji": "Joetsu Line",
     "alternative_names": [
+      "JR上越線",
       "ジョウエツセン"
     ],
     "prefectures": [
@@ -1513,7 +1532,7 @@
   {
     "code": "",
     "ekidata_id": "11403",
-    "name_kanij": "%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "信越本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -1528,7 +1547,7 @@
   {
     "code": "",
     "ekidata_id": "11404",
-    "name_kanij": "%E4%BF%A1%E8%B6%8A%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "信越本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -1621,10 +1640,11 @@
   {
     "code": "JR-East.Chuo",
     "ekidata_id": "11411",
-    "name_kanij": "JR中央本線(名古屋～塩尻)",
+    "name_kanij": "中央本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR中央本線(名古屋～塩尻)",
       "チュウオウホンセン"
     ],
     "prefectures": [
@@ -1791,24 +1811,26 @@
   {
     "code": "",
     "ekidata_id": "11501",
-    "name_kanij": "JR東海道本線(熱海～浜松)",
+    "name_kanij": "東海道本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR東海道本線(熱海～浜松)",
       "トウカイドウホンセン"
     ],
     "prefectures": [
       "22"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/JR_Central_Tokaido_Line.svg/28px-JR_Central_Tokaido_Line.svg.png"
   },
   {
     "code": "",
     "ekidata_id": "11502",
-    "name_kanij": "JR東海道本線(浜松～岐阜)",
+    "name_kanij": "東海道本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR東海道本線(浜松～岐阜)",
       "トウカイドウホンセン"
     ],
     "prefectures": [
@@ -1816,22 +1838,23 @@
       "23",
       "21"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/JR_Central_Tokaido_Line.svg/28px-JR_Central_Tokaido_Line.svg.png"
   },
   {
     "code": "",
     "ekidata_id": "11503",
-    "name_kanij": "JR東海道本線(岐阜～美濃赤坂・米原)",
+    "name_kanij": "東海道本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR東海道本線(岐阜～美濃赤坂・米原)",
       "トウカイドウホンセン"
     ],
     "prefectures": [
       "21",
       "25"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/JR_Central_Tokaido_Line.svg/28px-JR_Central_Tokaido_Line.svg.png"
   },
   {
     "code": "JR-East.Ito",
@@ -1913,7 +1936,7 @@
   {
     "code": "",
     "ekidata_id": "11509",
-    "name_kanij": "%E9%96%A2%E8%A5%BF%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "関西本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -1924,15 +1947,16 @@
       "24",
       "26"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/JR_Central_Kansai_Line.svg/28px-JR_Central_Kansai_Line.svg.png"
   },
   {
     "code": "",
     "ekidata_id": "11510",
-    "name_kanij": "JR紀勢本線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "紀勢本線",
+    "name_kana": "きせいほんせん",
+    "name_romaji": "Kisei Main Line",
     "alternative_names": [
+      "JR紀勢本線",
       "キセイホンセン"
     ],
     "prefectures": [
@@ -2022,10 +2046,11 @@
   {
     "code": "",
     "ekidata_id": "11603",
-    "name_kanij": "JR神戸線(大阪～神戸)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "JR神戸線",
+    "name_kana": "ジェイアールこうべせん",
+    "name_romaji": "JR Kobe Line",
     "alternative_names": [
+      "JR神戸線(大阪～神戸)",
       "JR東海道本線(大阪～神戸)",
       "コウベセン"
     ],
@@ -2071,10 +2096,11 @@
   {
     "code": "",
     "ekidata_id": "11608",
-    "name_kanij": "JR神戸線(神戸～姫路)",
+    "name_kanij": "JR神戸線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR神戸線(神戸～姫路)",
       "JR山陽本線(神戸～姫路)",
       "コウベセン"
     ],
@@ -2175,10 +2201,11 @@
   {
     "code": "",
     "ekidata_id": "11615",
-    "name_kanij": "JR山陰本線(園部～豊岡)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "山陰本線",
+    "name_kana": "さんいんほんせん",
+    "name_romaji": "San'in Main Line",
     "alternative_names": [
+      "JR山陰本線(園部～豊岡)",
       "サンインホンセン"
     ],
     "prefectures": [
@@ -2190,10 +2217,11 @@
   {
     "code": "",
     "ekidata_id": "11616",
-    "name_kanij": "JR山陰本線(豊岡～米子)",
+    "name_kanij": "山陰本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR山陰本線(豊岡～米子)",
       "サンインホンセン"
     ],
     "prefectures": [
@@ -2266,10 +2294,11 @@
   {
     "code": "",
     "ekidata_id": "11624",
-    "name_kanij": "JRゆめ咲線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "桜島線",
+    "name_kana": "さくらじません",
+    "name_romaji": "Sakurajima Line",
     "alternative_names": [
+      "JRゆめ咲線",
       "JR桜島線",
       "ユメサキセン"
     ],
@@ -2296,10 +2325,11 @@
   {
     "code": "",
     "ekidata_id": "11626",
-    "name_kanij": "阪和線(天王寺～和歌山)",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "阪和線",
+    "name_kana": "はんわせん",
+    "name_romaji": "Hanwa Line",
     "alternative_names": [
+      "阪和線(天王寺～和歌山)",
       "ハンワセン"
     ],
     "prefectures": [
@@ -2341,10 +2371,11 @@
   {
     "code": "",
     "ekidata_id": "11629",
-    "name_kanij": "JR宝塚線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "福知山線",
+    "name_kana": "ふくちやません",
+    "name_romaji": "Fukuchiyama Line",
     "alternative_names": [
+      "JR宝塚線",
       "JR福知山線(新大阪～篠山口)",
       "タカラヅカセン"
     ],
@@ -2357,10 +2388,11 @@
   {
     "code": "",
     "ekidata_id": "11630",
-    "name_kanij": "福知山線(篠山口～福知山)",
+    "name_kanij": "福知山線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "福知山線(篠山口～福知山)",
       "フクチヤマセン"
     ],
     "prefectures": [
@@ -2418,7 +2450,7 @@
   {
     "code": "",
     "ekidata_id": "11634",
-    "name_kanij": "%E5%A7%AB%E6%96%B0%E7%B7%9A",
+    "name_kanij": "姫新線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -2481,8 +2513,8 @@
     "code": "",
     "ekidata_id": "11639",
     "name_kanij": "紀勢本線",
-    "name_kana": "きせいほんせん",
-    "name_romaji": "Kisei Main Line",
+    "name_kana": "",
+    "name_romaji": "",
     "alternative_names": [
       "きのくに線",
       "JR紀勢本線(新宮～和歌山)",
@@ -2496,10 +2528,11 @@
   {
     "code": "",
     "ekidata_id": "11640",
-    "name_kanij": "紀勢本線(和歌山～和歌山市)",
+    "name_kanij": "紀勢本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "紀勢本線(和歌山～和歌山市)",
       "キセイホンセン"
     ],
     "prefectures": [
@@ -2524,10 +2557,11 @@
   {
     "code": "",
     "ekidata_id": "11701",
-    "name_kanij": "JR山陰本線(米子～益田)",
+    "name_kanij": "山陰本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR山陰本線(米子～益田)",
       "サンインホンセン"
     ],
     "prefectures": [
@@ -2539,10 +2573,11 @@
   {
     "code": "",
     "ekidata_id": "11702",
-    "name_kanij": "JR山陰本線(益田～下関)",
+    "name_kanij": "山陰本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR山陰本線(益田～下関)",
       "サンインホンセン"
     ],
     "prefectures": [
@@ -2710,10 +2745,11 @@
   {
     "code": "",
     "ekidata_id": "11716",
-    "name_kanij": "JR呉線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "呉線",
+    "name_kana": "くれせん",
+    "name_romaji": "Kure Line",
     "alternative_names": [
+      "JR呉線",
       "クレセン"
     ],
     "prefectures": [
@@ -2784,10 +2820,11 @@
   {
     "code": "",
     "ekidata_id": "11723",
-    "name_kanij": "JR小野田線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "小野田線",
+    "name_kana": "おのだせん",
+    "name_romaji": "Onoda Line",
     "alternative_names": [
+      "JR小野田線",
       "オノダセン"
     ],
     "prefectures": [
@@ -2862,10 +2899,11 @@
   {
     "code": "",
     "ekidata_id": "11804",
-    "name_kanij": "JR牟岐線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "牟岐線",
+    "name_kana": "むぎせん",
+    "name_romaji": "Mugi Line",
     "alternative_names": [
+      "JR牟岐線",
       "ムギセン"
     ],
     "prefectures": [
@@ -2969,7 +3007,7 @@
   {
     "code": "",
     "ekidata_id": "11903",
-    "name_kanij": "%E9%B9%BF%E5%85%90%E5%B3%B6%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "鹿児島本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -2986,7 +3024,7 @@
   {
     "code": "",
     "ekidata_id": "11904",
-    "name_kanij": "%E9%B9%BF%E5%85%90%E5%B3%B6%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "鹿児島本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -3033,7 +3071,7 @@
   {
     "code": "",
     "ekidata_id": "11907",
-    "name_kanij": "%E6%97%A5%E8%B1%8A%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "日豊本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -3097,7 +3135,7 @@
   {
     "code": "",
     "ekidata_id": "11911",
-    "name_kanij": "%E7%A6%8F%E5%8C%97%E3%82%86%E3%81%9F%E3%81%8B%E7%B7%9A",
+    "name_kanij": "福北ゆたか線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -3113,7 +3151,7 @@
   {
     "code": "",
     "ekidata_id": "11912",
-    "name_kanij": "%E7%AD%91%E8%B1%8A%E6%9C%AC%E7%B7%9A",
+    "name_kanij": "筑豊本線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -3193,10 +3231,11 @@
   {
     "code": "",
     "ekidata_id": "11917",
-    "name_kanij": "JR香椎線(香椎～宇美)",
+    "name_kanij": "香椎線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "JR香椎線(香椎～宇美)",
       "カシイセン"
     ],
     "prefectures": [
@@ -3224,8 +3263,8 @@
     "code": "",
     "ekidata_id": "11920",
     "name_kanij": "筑肥線",
-    "name_kana": "ちくひせん",
-    "name_romaji": "Chikuhi Line",
+    "name_kana": "",
+    "name_romaji": "",
     "alternative_names": [
       "JR筑肥線(西唐津～伊万里)",
       "チクヒセン"
@@ -3333,10 +3372,11 @@
   {
     "code": "Keikyu.Airport",
     "ekidata_id": "11927",
-    "name_kanij": "JR宮崎空港線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "宮崎空港線",
+    "name_kana": "みやざきくうこうせん",
+    "name_romaji": "Miyazaki Kuko Line",
     "alternative_names": [
+      "JR宮崎空港線",
       "ミヤザキクウコウセン"
     ],
     "prefectures": [
@@ -3364,7 +3404,7 @@
     "code": "",
     "ekidata_id": "11929",
     "name_kanij": "えびの高原線",
-    "name_kana": "えびのこうげんせん",
+    "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
       "JR吉都線",
@@ -3410,8 +3450,8 @@
     "code": "Tobu.Isesaki",
     "ekidata_id": "21002",
     "name_kanij": "東武伊勢崎線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "いせさきせん",
+    "name_romaji": "Tobu Isesaki Line",
     "alternative_names": [
       "トウブイセサキセン"
     ],
@@ -3443,8 +3483,8 @@
     "code": "",
     "ekidata_id": "21004",
     "name_kanij": "東武野田線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "のだせん",
+    "name_romaji": "Tobu Urban Park Line",
     "alternative_names": [
       "トウブノダセン"
     ],
@@ -3528,8 +3568,8 @@
     "code": "Tobu.Sano",
     "ekidata_id": "21010",
     "name_kanij": "東武佐野線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "さのせん",
+    "name_romaji": "Tobu Sano Line",
     "alternative_names": [
       "トウブサノセン"
     ],
@@ -3557,8 +3597,8 @@
     "code": "Tobu.Koizumi",
     "ekidata_id": "21012",
     "name_kanij": "東武小泉線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "こいずみせん",
+    "name_romaji": "Tobu Koizumi Line",
     "alternative_names": [
       "トウブコイズミセン"
     ],
@@ -3586,8 +3626,8 @@
     "code": "Seibu.SeibuChichibu",
     "ekidata_id": "22002",
     "name_kanij": "西武秩父線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "せいぶちちぶせん",
+    "name_romaji": "Seibu Chichibu Line",
     "alternative_names": [
       "セイブチチブセン"
     ],
@@ -3600,8 +3640,8 @@
     "code": "",
     "ekidata_id": "22003",
     "name_kanij": "西武有楽町線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "せいぶゆうらくちょうせん",
+    "name_romaji": "Seibu Yurakucho Line",
     "alternative_names": [
       "セイブユウラクチョウセン"
     ],
@@ -3742,8 +3782,8 @@
     "code": "Keisei.Main",
     "ekidata_id": "23001",
     "name_kanij": "京成本線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ほんせん",
+    "name_romaji": "Keisei Main Line",
     "alternative_names": [
       "ケイセイホンセン"
     ],
@@ -4047,8 +4087,8 @@
     "code": "Seibu.Tamagawa",
     "ekidata_id": "26006",
     "name_kanij": "東急多摩川線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "とうきゅうたまがわせん",
+    "name_romaji": "Tokyu Tamagawa Line",
     "alternative_names": [
       "トウキュウタマガワセン"
     ],
@@ -4089,8 +4129,8 @@
     "code": "Keikyu.Main",
     "ekidata_id": "27001",
     "name_kanij": "京急本線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ほんせん",
+    "name_romaji": "Keikyu Main Line",
     "alternative_names": [
       "ケイキュウホンセン"
     ],
@@ -4160,8 +4200,8 @@
     "code": "TokyoMetro.Ginza",
     "ekidata_id": "28001",
     "name_kanij": "東京メトロ銀座線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ぎんざせん",
+    "name_romaji": "Tokyo Metro Ginza Line",
     "alternative_names": [
       "ギンザセン"
     ],
@@ -4174,8 +4214,8 @@
     "code": "TokyoMetro.Marunouchi",
     "ekidata_id": "28002",
     "name_kanij": "東京メトロ丸ノ内線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "まるのうちせん",
+    "name_romaji": "Tokyo Metro Marunouchi Line",
     "alternative_names": [
       "マルノウチセン"
     ],
@@ -4188,8 +4228,8 @@
     "code": "TokyoMetro.Hibiya",
     "ekidata_id": "28003",
     "name_kanij": "東京メトロ日比谷線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ひびやせん",
+    "name_romaji": "Tokyo Metro Hibiya Line",
     "alternative_names": [
       "ヒビヤセン"
     ],
@@ -4202,8 +4242,8 @@
     "code": "TokyoMetro.Tozai",
     "ekidata_id": "28004",
     "name_kanij": "東京メトロ東西線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "とうざいせん",
+    "name_romaji": "Tokyo Metro Tozai Line",
     "alternative_names": [
       "トウザイセン"
     ],
@@ -4217,8 +4257,8 @@
     "code": "TokyoMetro.Chiyoda",
     "ekidata_id": "28005",
     "name_kanij": "東京メトロ千代田線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ちよだせん",
+    "name_romaji": "Tokyo Metro Chiyoda Line",
     "alternative_names": [
       "チヨダセン"
     ],
@@ -4231,8 +4271,8 @@
     "code": "TokyoMetro.Yurakucho",
     "ekidata_id": "28006",
     "name_kanij": "東京メトロ有楽町線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ゆうらくちょうせん",
+    "name_romaji": "Tokyo Metro Yurakucho Line",
     "alternative_names": [
       "ユウラクチョウセン"
     ],
@@ -4246,8 +4286,8 @@
     "code": "TokyoMetro.Hanzomon",
     "ekidata_id": "28008",
     "name_kanij": "東京メトロ半蔵門線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "はんぞうもんせん",
+    "name_romaji": "Tokyo Metro Hanzomon Line",
     "alternative_names": [
       "ハンゾウモンセン"
     ],
@@ -4260,8 +4300,8 @@
     "code": "TokyoMetro.Namboku",
     "ekidata_id": "28009",
     "name_kanij": "東京メトロ南北線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "なんぼくせん",
+    "name_romaji": "Tokyo Metro Namboku Line",
     "alternative_names": [
       "ナンボクセン"
     ],
@@ -4274,8 +4314,8 @@
     "code": "TokyoMetro.Fukutoshin",
     "ekidata_id": "28010",
     "name_kanij": "東京メトロ副都心線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ふくとしんせん",
+    "name_romaji": "Tokyo Metro Fukutoshin Line",
     "alternative_names": [
       "フクトシンセン"
     ],
@@ -4500,8 +4540,8 @@
     "code": "",
     "ekidata_id": "30014",
     "name_kanij": "名鉄尾西線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "びさいせん",
+    "name_romaji": "Meitetsu Bisai Line",
     "alternative_names": [
       "メイテツビサイセン"
     ],
@@ -4885,8 +4925,8 @@
     "code": "",
     "ekidata_id": "31023",
     "name_kanij": "近鉄けいはんな線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "けいはんなせん",
+    "name_romaji": "Keihanna Line",
     "alternative_names": [
       "キンテツケイハンナセン"
     ],
@@ -5045,8 +5085,8 @@
     "code": "",
     "ekidata_id": "32007",
     "name_kanij": "南海高野線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "こうやせん",
+    "name_romaji": "Koya Line",
     "alternative_names": [
       "ナンカイコウヤセン"
     ],
@@ -5332,8 +5372,8 @@
     "code": "",
     "ekidata_id": "35001",
     "name_kanij": "阪神本線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ほんせん",
+    "name_romaji": "Hanshin Main Line",
     "alternative_names": [
       "ハンシンホンセン"
     ],
@@ -5347,8 +5387,8 @@
     "code": "",
     "ekidata_id": "35002",
     "name_kanij": "阪神なんば線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "はんしんなんばせん",
+    "name_romaji": "Hanshin Namba Line",
     "alternative_names": [
       "ハンシンナンバセン"
     ],
@@ -5418,8 +5458,8 @@
     "code": "",
     "ekidata_id": "36004",
     "name_kanij": "西鉄貝塚線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "かいづかせん",
+    "name_romaji": "Nishitetsu Kaizuka Line",
     "alternative_names": [
       "ニシテツカイヅカセン"
     ],
@@ -5628,11 +5668,11 @@
   {
     "code": "",
     "ekidata_id": "99209",
-    "name_kanij": "秋田内陸線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "秋田内陸縦貫鉄道秋田内陸線",
+    "name_kana": "あきたないりくせん",
+    "name_romaji": "Akita Nairiku Line",
     "alternative_names": [
-      "秋田内陸縦貫鉄道秋田内陸線",
+      "秋田内陸線",
       "アキタナイリクセン"
     ],
     "prefectures": [
@@ -5817,8 +5857,8 @@
     "code": "",
     "ekidata_id": "99305",
     "name_kanij": "都電荒川線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "あらかわせん",
+    "name_romaji": "Toden Arakawa Line",
     "alternative_names": [
       "都営都電荒川線",
       "トデンアラカワセン"
@@ -5861,8 +5901,8 @@
     "code": "SaitamaRailway.SaitamaRailway",
     "ekidata_id": "99307",
     "name_kanij": "埼玉高速鉄道線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "さいたまこうそくてつどうせん、Saitama Railway Line",
+    "name_romaji": "Saitama Rapid Railway Line",
     "alternative_names": [
       "サイタマコウソクテツドウセン"
     ],
@@ -5890,11 +5930,11 @@
   {
     "code": "",
     "ekidata_id": "99309",
-    "name_kanij": "つくばエクスプレス",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "首都圏新都市鉄道つくばエクスプレス",
+    "name_kana": "TSUKUBA EXPRESS、略称：TX",
+    "name_romaji": "Tsukuba Express",
     "alternative_names": [
-      "首都圏新都市鉄道つくばエクスプレス",
+      "つくばエクスプレス",
       "ツクバエクスプレス"
     ],
     "prefectures": [
@@ -5908,10 +5948,11 @@
   {
     "code": "Minatomirai.Minatomirai",
     "ekidata_id": "99310",
-    "name_kanij": "みなとみらい線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "横浜高速鉄道みなとみらい線",
+    "name_kana": "みなとみらいせん",
+    "name_romaji": "Minatomirai Line",
     "alternative_names": [
+      "みなとみらい線",
       "みなとみらい21線",
       "ミナトミライセン"
     ],
@@ -5923,11 +5964,11 @@
   {
     "code": "Yurikamome.Yurikamome",
     "ekidata_id": "99311",
-    "name_kanij": "ゆりかもめ",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "ゆりかもめ東京臨海新交通臨海線",
+    "name_kana": "とうきょうりんかいしんこうつうりんかいせん",
+    "name_romaji": "Yurikamome",
     "alternative_names": [
-      "ゆりかもめ東京臨海新交通臨海線",
+      "ゆりかもめ",
       "ユリカモメ"
     ],
     "prefectures": [
@@ -6139,10 +6180,11 @@
   {
     "code": "",
     "ekidata_id": "99326",
-    "name_kanij": "湘南モノレール",
-    "name_kana": "",
+    "name_kanij": "湘南モノレール江の島線",
+    "name_kana": "えのしません",
     "name_romaji": "",
     "alternative_names": [
+      "湘南モノレール",
       "ショウナンモノレール"
     ],
     "prefectures": [
@@ -6299,11 +6341,11 @@
   {
     "code": "TWR.Rinkai",
     "ekidata_id": "99337",
-    "name_kanij": "りんかい線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "東京臨海高速鉄道りんかい線",
+    "name_kana": "りんかいせん",
+    "name_romaji": "Rinkai Line",
     "alternative_names": [
-      "東京臨海高速鉄道りんかい線",
+      "りんかい線",
       "リンカイセン"
     ],
     "prefectures": [
@@ -6330,8 +6372,8 @@
     "code": "",
     "ekidata_id": "99339",
     "name_kanij": "箱根登山鉄道鉄道線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "てつどうせん",
+    "name_romaji": "Hakone Tozan Line",
     "alternative_names": [
       "ハコネトザンテツドウテツドウセン"
     ],
@@ -6360,7 +6402,7 @@
     "ekidata_id": "99341",
     "name_kanij": "野岩鉄道会津鬼怒川線",
     "name_kana": "あいづきぬがわせん",
-    "name_romaji": "Yagan Railway#Aizu Kinugawa Line",
+    "name_romaji": "Aizu Kinugawa Line",
     "alternative_names": [
       "ほっとスパ・ライン",
       "ホットスパライン"
@@ -6390,8 +6432,8 @@
     "code": "Fujikyu.Fujikyu",
     "ekidata_id": "99401",
     "name_kanij": "富士急行線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ふじきゅうこうせん",
+    "name_romaji": "Fujikyuko Line",
     "alternative_names": [
       "フジキュウコウセン"
     ],
@@ -6590,10 +6632,11 @@
   {
     "code": "",
     "ekidata_id": "99415",
-    "name_kanij": "富山ライトレール",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "富山ライトレール富山港線",
+    "name_kana": "とやまこうせん",
+    "name_romaji": "Toyama Light Rail Toyamako Line",
     "alternative_names": [
+      "富山ライトレール",
       "トヤマライトレール"
     ],
     "prefectures": [
@@ -6694,7 +6737,7 @@
     "code": "",
     "ekidata_id": "99418",
     "name_kanij": "のと鉄道七尾線",
-    "name_kana": "",
+    "name_kana": "ななおせん",
     "name_romaji": "",
     "alternative_names": [
       "ノトテツドウナナオセン"
@@ -6822,8 +6865,8 @@
     "code": "",
     "ekidata_id": "99506",
     "name_kanij": "遠州鉄道鉄道線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "てつどうせん",
+    "name_romaji": "Enshu Railway Line",
     "alternative_names": [
       "エンシュウテツドウテツドウセン"
     ],
@@ -6864,10 +6907,11 @@
   {
     "code": "",
     "ekidata_id": "99509",
-    "name_kanij": "あおなみ線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "名古屋臨海高速鉄道あおなみ線",
+    "name_kana": "にしなごやこうせん",
+    "name_romaji": "Aonami Line",
     "alternative_names": [
+      "あおなみ線",
       "西名古屋港線",
       "アオナミセン"
     ],
@@ -6923,8 +6967,8 @@
     "code": "",
     "ekidata_id": "99513",
     "name_kanij": "名古屋市営地下鉄東山線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ひがしやません",
+    "name_romaji": "Higashiyama Line",
     "alternative_names": [
       "ナゴヤシエイチカテツヒガシヤマセン"
     ],
@@ -6937,8 +6981,8 @@
     "code": "",
     "ekidata_id": "99514",
     "name_kanij": "名古屋市営地下鉄名城線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "めいじょうせん",
+    "name_romaji": "Meijo Line",
     "alternative_names": [
       "ナゴヤシエイチカテツメイジョウセン"
     ],
@@ -6951,8 +6995,8 @@
     "code": "",
     "ekidata_id": "99515",
     "name_kanij": "名古屋市営地下鉄名港線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "めいこうせん",
+    "name_romaji": "Meiko Line",
     "alternative_names": [
       "ナゴヤシエイチカテツメイコウセン"
     ],
@@ -6965,8 +7009,8 @@
     "code": "",
     "ekidata_id": "99516",
     "name_kanij": "名古屋市営地下鉄鶴舞線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "つるまいせん",
+    "name_romaji": "Tsurumai Line",
     "alternative_names": [
       "ナゴヤシエイチカテツツルマイセン"
     ],
@@ -6979,8 +7023,8 @@
     "code": "",
     "ekidata_id": "99517",
     "name_kanij": "名古屋市営地下鉄桜通線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "さくらどおりせん",
+    "name_romaji": "Sakura-dori Line",
     "alternative_names": [
       "ナゴヤシエイチカテツサクラドオリセン"
     ],
@@ -7093,7 +7137,7 @@
     "code": "",
     "ekidata_id": "99528",
     "name_kanij": "三岐鉄道三岐線",
-    "name_kana": "",
+    "name_kana": "さんぎせん",
     "name_romaji": "",
     "alternative_names": [
       "サンギテツドウサンギセン"
@@ -7149,8 +7193,8 @@
     "code": "",
     "ekidata_id": "99532",
     "name_kanij": "養老鉄道養老線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "ようろうせん",
+    "name_romaji": "Yoro Railway Yoro Line",
     "alternative_names": [
       "ヨウロウテツドウヨウロウセン"
     ],
@@ -7969,10 +8013,11 @@
   {
     "code": "",
     "ekidata_id": "99706",
-    "name_kanij": "東山線",
+    "name_kanij": "名古屋市営地下鉄東山線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
+      "東山線",
       "岡山電軌東山本線",
       "ヒガシヤマセン"
     ],
@@ -8016,11 +8061,11 @@
   {
     "code": "",
     "ekidata_id": "99709",
-    "name_kanij": "アストラムライン",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "広島高速交通広島新交通1号線",
+    "name_kana": "ひろしましんこうつういちごうせん",
+    "name_romaji": "Astram Line",
     "alternative_names": [
-      "広島高速交通広島新交通1号線"
+      "アストラムライン"
     ],
     "prefectures": [
       "34"
@@ -8158,8 +8203,8 @@
     "code": "",
     "ekidata_id": "99801",
     "name_kanij": "牟岐線",
-    "name_kana": "むぎせん",
-    "name_romaji": "Mugi Line",
+    "name_kana": "",
+    "name_romaji": "",
     "alternative_names": [
       "阿波室戸シーサイドライン",
       "阿佐海岸鉄道阿佐東線",
@@ -8410,10 +8455,11 @@
   {
     "code": "",
     "ekidata_id": "99819",
-    "name_kanij": "桟橋線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kanij": "とさでん交通桟橋線",
+    "name_kana": "さんばしせん",
+    "name_romaji": "Tosaden Kotsu Sanbashi Line",
     "alternative_names": [
+      "桟橋線",
       "土佐電鉄桟橋線",
       "サンバシセン"
     ],
@@ -8486,11 +8532,11 @@
   {
     "code": "",
     "ekidata_id": "99928",
-    "name_kanij": "門司港レトロ観光線",
-    "name_kana": "",
+    "name_kanij": "平成筑豊鉄道門司港レトロ観光線",
+    "name_kana": "もじこうレトロかんこうせん",
     "name_romaji": "",
     "alternative_names": [
-      "平成筑豊鉄道門司港レトロ観光線",
+      "門司港レトロ観光線",
       "モジコウレトロカンコウセン"
     ],
     "prefectures": [
@@ -8588,7 +8634,7 @@
   {
     "code": "",
     "ekidata_id": "99911",
-    "name_kanij": "%E6%9D%BE%E6%B5%A6%E9%89%84%E9%81%93%E8%A5%BF%E4%B9%9D%E5%B7%9E%E7%B7%9A",
+    "name_kanij": "松浦鉄道西九州線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
@@ -8606,8 +8652,8 @@
     "code": "",
     "ekidata_id": "99912",
     "name_kanij": "島原鉄道線",
-    "name_kana": "",
-    "name_romaji": "",
+    "name_kana": "しまばらてつどうせん",
+    "name_romaji": "Shimabara Railway Line",
     "alternative_names": [
       "シマバラテツドウセン"
     ],

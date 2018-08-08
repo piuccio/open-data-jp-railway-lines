@@ -33,14 +33,15 @@ async function generate() {
   const data = lines.map((line) => {
     if (line.e_status !== '0') return;
     const searchableName = cleanName(line.line_name);
-    const wikipediaResults = listOfLines.filter((l) => l.line.includes(searchableName) || l.title.includes(searchableName));
+    const wikipediaResults = mergeDuplicates(listOfLines.filter((l) => l.line.includes(searchableName) || l.title.includes(searchableName)));
     const wikiLink = wikipediaResults.length === 1 ? wikipediaResults[0].link : '';
+    const wikiTitle = wikiLink ? querystring.unescape(wikiLink.substring(wikiLink.lastIndexOf('/') + 1)) : '';
     const operatorResults = openDataLines.filter((l) => searchableName.includes(l.name_kanji));
     const openData = operatorResults.length === 1 ? operatorResults[0] : {};
     return {
       id: line.line_cd,
       line_name: line.line_name,
-      wikiTitle: wikiLink ? wikiLink.substring(wikiLink.lastIndexOf('/') + 1) : '',
+      wikiTitle,
       od_kanji: openData.kanji,
       od_en: openData.name_romaji,
       code: openData.code,
@@ -48,15 +49,14 @@ async function generate() {
   }).filter(Boolean);
 
   for (const chunk of splitArray(data.filter((i) => i.wikiTitle), 10)) {
-    const { body } = await got(`${WIKIPEDIA_API}&titles=${chunk.map((c) => c.wikiTitle).join('|')}`);
+    const { body } = await got(`${WIKIPEDIA_API}&titles=${chunk.map((c) => querystring.escape(c.wikiTitle)).join('|')}`);
     const { query } = JSON.parse(body);
     query.pages.forEach((page) => {
       const { title, extract, langlinks = [] } = page;
-      const encodedTitle = querystring.escape(title);
       const enLangLink = langlinks.find((lang) => lang.lang === 'en') || {};
       const englishName = cleanRomaji(enLangLink.title || '');
       const hiraganaMatch = extract.match(/([^（]+)（([^）]+)）/); // format is always line name, japanese brackets with hiragana
-      const lineData = data.find((api) => api.wikiTitle === encodedTitle);
+      const lineData = data.find((api) => api.wikiTitle === title);
       lineData.wikiTitle = title;
       lineData.en = englishName;
       lineData.kana = hiraganaMatch ? hiraganaMatch[2] : '';
@@ -74,11 +74,16 @@ function cleanName(name) {
 }
 
 function cleanRomaji(name) {
-  return name.replace(/ō/g, 'o').replace(/Ō/g, 'O').replace(/ū/g, 'u');
+  return name.replace(/ō/g, 'o').replace(/Ō/g, 'O').replace(/ū/g, 'u').split('#').pop();
 }
 
 function toCSV(object) {
   return [object.id, object.line_name, object.wikiTitle, object.en, object.kana, object.code].join(',');
+}
+
+function mergeDuplicates(list) {
+  if (list.length < 2) return list;
+  return list.filter((item, index) => list.findIndex((clone) => clone.link === item.link) === index);
 }
 
 if (require.main === module) {
