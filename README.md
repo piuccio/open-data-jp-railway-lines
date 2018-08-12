@@ -13,7 +13,7 @@ Just grab the file `lines.json` it has a list of objects with the structure
 {
   "code": "JR-East.Sobu",
   "ekidata_id": "11314",
-  "name_kanij": "総武本線",
+  "name_kanji": "総武本線",
   "name_kana": "そうぶほんせん",
   "name_romaji": "Sobu Main Line",
   "alternative_names": [
@@ -32,9 +32,9 @@ Note that two keys are used, `ekidata_id` is the unique ID in the ekidata datase
 
 ## Contributing
 
-The manual data is inside `./input/manual_corrections.csv`, you can send pull requests changing that file.
+The manual data is inside `./input/link_code_to_opendata.csv` and `./input/link_code_to_wikipedia`, you can send pull requests changing that file.
 
-If you want to generate the data locally, run `npm start`.
+If you want to generate the data locally, run `npm start`. If you instead want to help translating lines to English have a look at the repository https://github.com/piuccio/wikipedia-jp-railway-lines
 
 
 ## Related links
