@@ -40,5 +40,3 @@ If you want to generate the data locally, run `npm start`. If you instead want t
 ## Related links
 
 More [open data repositories](https://github.com/piuccio?utf8=%E2%9C%93&tab=repositories&q=open-data-jp&type=&language=).
-
-You can also find a list of all GeoJSON prefectures on [this repository](https://github.com/dataofjapan/land).
