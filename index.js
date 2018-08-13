@@ -38,14 +38,14 @@ async function generate() {
   const data = lines.map((line) => {
     if (line.e_status !== '0') return;
     const altNames = [];
-    const wikiTitle = wikipedia[line.code] || '';
+    const wikiTitle = wikipedia[line.line_cd] || '';
     const wikiLine = wikipediaData.find((l) => wikiTitle && l.title === wikiTitle) || {};
     const officialName = wikiLine.title || line.line_name;
     if (line.line_name !== officialName) altNames.push(line.line_name);
     if (line.line_name_h !== officialName) altNames.push(line.line_name_h);
     if (line.line_name_k !== officialName) altNames.push(line.line_name_k);
 
-    const openLine = openDataLines.find((l) => l.code === opendata[line.code]) || {};
+    const openLine = openDataLines.find((l) => l.code === opendata[line.line_cd]) || {};
 
     // TODO check which existing logos don't get assigned to a line or maybe merge the logo to wikipedia repo
     const logoResults = listOfLogos.filter((logo) => logo.text.includes(officialName) || logo.text.includes(line.line_name) || logo.text.includes(line.line_name_h));
