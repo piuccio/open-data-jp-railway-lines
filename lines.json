@@ -385,7 +385,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Ou",
     "ekidata_id": "11202",
     "name_kanji": "JR奥羽本線(新庄～青森)",
     "name_kana": "",
@@ -610,7 +610,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Ou",
     "ekidata_id": "11216",
     "name_kanji": "山形線",
     "name_kana": "やまがたせん",
@@ -815,7 +815,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.JobanLocal",
+    "code": "JR-East.JobanRapid",
     "ekidata_id": "11229",
     "name_kanji": "JR常磐線(取手～いわき)",
     "name_kana": "",
@@ -830,7 +830,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.JobanRapid",
     "ekidata_id": "11230",
     "name_kanji": "JR常磐線(いわき～仙台)",
     "name_kana": "",
@@ -876,7 +876,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.Nambu",
+    "code": "JR-East.NambuBranch",
     "ekidata_id": "11303",
     "name_kanji": "南武線",
     "name_kana": "なんぶせん",
@@ -940,7 +940,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JR_JH_line_symbol.svg/28px-JR_JH_line_symbol.svg.png"
   },
   {
-    "code": "",
+    "code": "JR-East.KeihinTohokuNegishi",
     "ekidata_id": "11307",
     "name_kanji": "根岸線",
     "name_kana": "ねぎしせん",
@@ -986,7 +986,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Chuo",
     "ekidata_id": "11311",
     "name_kanji": "JR中央本線(東京～塩尻)",
     "name_kana": "",
@@ -1033,7 +1033,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.Sobu",
+    "code": "JR-East.SobuRapid",
     "ekidata_id": "11314",
     "name_kanji": "総武本線",
     "name_kana": "そうぶほんせん",
@@ -1079,7 +1079,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Hachiko",
     "ekidata_id": "11317",
     "name_kanji": "JR八高線(八王子～高麗川)",
     "name_kana": "",
@@ -1094,7 +1094,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Hachiko",
     "ekidata_id": "11318",
     "name_kanji": "JR八高線(高麗川～高崎)",
     "name_kana": "",
@@ -1109,7 +1109,7 @@
     "logo": ""
   },
   {
-    "code": "Tobu.Utsunomiya",
+    "code": "JR-East.Utsunomiya",
     "ekidata_id": "11319",
     "name_kanji": "宇都宮線",
     "name_kana": "うつのみやせん",
@@ -1127,7 +1127,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JR_JU_line_symbol.svg/28px-JR_JU_line_symbol.svg.png"
   },
   {
-    "code": "",
+    "code": "JR-East.JobanRapid",
     "ekidata_id": "11320",
     "name_kanji": "JR常磐線(上野～取手)",
     "name_kana": "",
@@ -1143,7 +1143,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.SaikyoKawagoe",
     "ekidata_id": "11321",
     "name_kanji": "埼京線",
     "name_kana": "さいきょうせん",
@@ -1159,7 +1159,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/JR_JA_line_symbol.svg/28px-JR_JA_line_symbol.svg.png"
   },
   {
-    "code": "",
+    "code": "JR-East.SaikyoKawagoe",
     "ekidata_id": "11322",
     "name_kanji": "川越線",
     "name_kana": "かわごえせん",
@@ -1237,7 +1237,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/JR_JE_line_symbol.svg/28px-JR_JE_line_symbol.svg.png"
   },
   {
-    "code": "JR-East.Narita",
+    "code": "JR-East.NaritaAirportBranch",
     "ekidata_id": "11327",
     "name_kanji": "成田線",
     "name_kana": "なりたせん",
@@ -1315,7 +1315,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.KeihinTohokuNegishi",
     "ekidata_id": "11332",
     "name_kanji": "京浜東北線",
     "name_kana": "けいひんとうほくせん",
@@ -1796,7 +1796,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Tokaido",
     "ekidata_id": "11501",
     "name_kanji": "JR東海道本線(熱海～浜松)",
     "name_kana": "",
@@ -1810,7 +1810,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Tokaido",
     "ekidata_id": "11502",
     "name_kanji": "JR東海道本線(浜松～岐阜)",
     "name_kana": "",
@@ -1826,7 +1826,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "JR-East.Tokaido",
     "ekidata_id": "11503",
     "name_kanji": "JR東海道本線(岐阜～美濃赤坂・米原)",
     "name_kana": "",
@@ -3409,7 +3409,7 @@
     "logo": ""
   },
   {
-    "code": "Tobu.Isesaki",
+    "code": "Tobu.TobuSkytreeBranch",
     "ekidata_id": "21002",
     "name_kanji": "東武伊勢崎線",
     "name_kana": "いせさきせん",
@@ -3499,7 +3499,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Tobu.Utsunomiya",
     "ekidata_id": "21008",
     "name_kanji": "東武宇都宮線",
     "name_kana": "うつのみやせん",
@@ -3812,7 +3812,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Keisei.NaritaSkyAccess",
     "ekidata_id": "23006",
     "name_kanji": "京成成田空港線",
     "name_kana": "なりたくうこうせん",
@@ -5760,7 +5760,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Toei.Oedo",
     "ekidata_id": "99301",
     "name_kanji": "都営地下鉄大江戸線",
     "name_kana": "おおえどせん",
@@ -5775,7 +5775,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Toei.Asakusa",
     "ekidata_id": "99302",
     "name_kanji": "都営地下鉄浅草線",
     "name_kana": "あさくさせん",
@@ -5790,7 +5790,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Toei.Mita",
     "ekidata_id": "99303",
     "name_kanji": "都営地下鉄三田線",
     "name_kana": "みたせん",
@@ -5805,7 +5805,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Toei.Shinjuku",
     "ekidata_id": "99304",
     "name_kanji": "都営地下鉄新宿線",
     "name_kana": "しんじゅくせん",
@@ -5821,7 +5821,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Toei.Arakawa",
     "ekidata_id": "99305",
     "name_kanji": "都電荒川線",
     "name_kana": "あらかわせん",
@@ -6105,7 +6105,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "KashimaRinkai.OaraiKashima",
     "ekidata_id": "99323",
     "name_kanji": "鹿島臨海鉄道大洗鹿島線",
     "name_kana": "おおあらいかしません",
@@ -6249,7 +6249,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "Ryutetsu.Nagareyama",
     "ekidata_id": "99333",
     "name_kanji": "流鉄流山線",
     "name_kana": "ながれやません",
@@ -6293,7 +6293,7 @@
     "logo": ""
   },
   {
-    "code": "",
+    "code": "TokyoMonorail.HanedaAirport",
     "ekidata_id": "99336",
     "name_kanji": "東京モノレール羽田空港線",
     "name_kana": "とうきょうモノレールはねだくうこうせん",
@@ -7663,7 +7663,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png"
   },
   {
-    "code": "Toei.Mita",
+    "code": "",
     "ekidata_id": "99633",
     "name_kanji": "神戸電鉄三田線",
     "name_kana": "さんだせん",

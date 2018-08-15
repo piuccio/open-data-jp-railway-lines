@@ -89,10 +89,11 @@ async function connectOpenDataLines(lines) {
   const data = openDataLines.map((line) => {
     const code = line.code;
     const name = line.name_kanji;
-    const ekicode = ekidataCode(code, name, lines);
-    if (ekicode) found += 1;
+    const ekicodes = ekidataCodes(code, name, lines);
+    if (ekicodes) found += 1;
+    const codesToCsv = (ekicodes || ['']).join('|');
 
-    return `${code},${name},${ekicode || ''}`;
+    return `${code},${name},${codesToCsv}`;
   });
   console.log(`Found ${found} open data lines out of ${openDataLines.length}`);
 
@@ -100,11 +101,46 @@ async function connectOpenDataLines(lines) {
   return util.promisify(fs.writeFile)('./input/link_code_to_opendata.csv', csvFile);
 }
 
-function ekidataCode(code, name, lines) {
-  // Try to match on the exact name
-  const exact = lines.filter((l) => l.line_name === name || l.line_name_h === name);
-  if (exact.length === 1) return exact[0].line_cd;
-  if (exact.length > 1) console.log('opendata duplicates with exact name', code, name, exact);
+function ekidataCodes(code, name, lines) {
+  // Manual map
+  const MANUAL = {
+    'JR-Central.Tokaido': ['11301'],
+    'JR-East.Tokaido': ['11501', '11502', '11503'],
+    'Tobu.TobuUrbanPark': ['21004'],
+    'JR-East.Chuo': ['11311'],
+    // trains on the Joban have different directions but all 3 have local / rapoid trains
+    'JR-East.Joban': ['11229', '11230', '11320'],
+    'JR-East.JobanLocal': ['11229', '11230', '11320'],
+    'JR-East.JobanRapid': ['11229', '11230', '11320'],
+    'JR-East.KeihinTohokuNegishi': ['11332', '11307'],
+    'JR-East.NambuBranch': ['11303'],
+    'JR-East.Kawagoe': ['11322'],
+    'JR-East.ChuoRapid': ['11312'],
+    'JR-East.ChuoSobuLocal': ['11313'],
+    'JR-East.NaritaAbikoBranch': ['11327'],
+    'JR-East.NaritaAirportBranch': ['11327'],
+    'JR-East.SaikyoKawagoe': ['11321', '11322'],
+    'JR-East.SobuRapid': ['11314'],
+    'JR-East.Ou': ['11202', '11216'],
+    'Keisei.HigashiNarita': ['23001'], // marked together as continuation of the sky access
+    'Yagan.AizuKinugawa': ['99341'],
+    'HakoneTozan.HakoneTozan': ['99339'],
+    'Aizu.Aizu': ['99216'],
+    'Chichibu.Chichibu': ['99306'],
+    'Hokuso.Hokuso': ['99340'],
+    'IzuHakone.Sunzu': ['99502'],
+    'Keisei.NaritaSkyAccess': ['23006'],
+    'Tobu.KoizumiBranch': ['21012'],
+    'TokyoMetro.MarunouchiBranch': ['28002'],
+    'JR-East.Hachiko': ['11317', '11318'],
+    'KashimaRinkai.OaraiKashima': ['99323'],
+    'Ryutetsu.Nagareyama': ['99333'],
+    'Tobu.TobuSkytree': ['21002'],
+    'Tobu.TobuSkytreeBranch': ['21002'],
+    'Toei.Arakawa': ['99305'],
+    'TokyoMonorail.HanedaAirport': ['99336'],
+  };
+  if (MANUAL[code]) return MANUAL[code];
 
   // Some operators don't have a prefix
   const operatorPrefix = {
@@ -117,33 +153,21 @@ function ekidataCode(code, name, lines) {
     'Tobu.': '東武',
     'Keisei.': '京成',
     'Odakyu.': '小田急',
+    'Toei': '都営',
   };
   for (const [operator, prefix] of Object.entries(operatorPrefix)) {
     if (code.startsWith(operator)) {
       const differentName = `${prefix}${name}`;
       const withPrefix = lines.filter((l) => l.line_name === differentName || l.line_name_h === differentName);
-      if (withPrefix.length === 1) return withPrefix[0].line_cd;
-      if (withPrefix.length > 1) console.log('wikipedia duplicates with withPrefix name', code, name, withPrefix);
+      if (withPrefix.length === 1) return [withPrefix[0].line_cd];
+      if (withPrefix.length > 1) console.log('opendata duplicates with withPrefix name', code, name, withPrefix);
     }
   }
 
-  // Manual map
-  const MANUAL = {
-    'JR-Central.Tokaido': '11301',
-    'Tobu.TobuUrbanPark': '21004',
-    'JR-East.JobanLocal': '11229',
-    'JR-East.ChuoRapid': '11312',
-    'JR-East.ChuoSobuLocal': '11313',
-    'Yagan.AizuKinugawa': '99341',
-    'HakoneTozan.HakoneTozan': '99339',
-    'Aizu.Aizu': '99216',
-    'Chichibu.Chichibu': '99306',
-    'Hokuso.Hokuso': '99340',
-    'IzuHakone.Sunzu': '99502',
-    'Tobu.KoizumiBranch': '21012',
-    'TokyoMetro.MarunouchiBranch': '28002',
-  };
-  return MANUAL[code];
+  // Try to match on the exact name
+  const exact = lines.filter((l) => l.line_name === name || l.line_name_h === name);
+  if (exact.length === 1) return [exact[0].line_cd];
+  if (exact.length > 1) console.log('opendata duplicates with exact name', code, name, exact);
 }
 
 async function generate() {
