@@ -29,6 +29,9 @@ Just grab the file `lines.json` it has a list of objects with the structure
 ```
 
 Note that two keys are used, `ekidata_id` is the unique ID in the ekidata dataset, `code` is manually generated and matches the [Open Data naming conventions](https://developer-tokyochallenge.odpt.org/en/documents#_naming_rules_for_railway_line_names).
+Due to inconsistencies between the two dataseta, the exported file does not enforce uniqueness of either of these keys, however lines are unique considering the tuple `(ekidata_id, code)`.
+
+For example the Marunouchi is considered as a single line in ekidata but it's represented as two separate branches in Open Data (Main and Honancho branch). `lines.json` contains two elements with different `code` but same `ekidata_id`.
 
 ## Contributing
 

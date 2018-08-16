@@ -43,6 +43,10 @@ array-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/array-equal/-/array-equal-1.0.0.tgz#8c2a5ef2472fd9ea742b04c77a75093ba2757c93"
 
+array-flatten@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-2.1.1.tgz#426bb9da84090c1838d812c8150af20a8331e296"
+
 asn1@~0.2.3:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/asn1/-/asn1-0.2.4.tgz#8d2475dfab553bb33e77b54e59e880bb8ce23136"
@@ -522,6 +526,8 @@ oauth-sign@~0.9.0:
 "open-data-jp-tokyo-railway-operators@github:piuccio/open-data-jp-tokyo-railway-operators":
   version "1.0.0"
   resolved "https://codeload.github.com/piuccio/open-data-jp-tokyo-railway-operators/tar.gz/8899e87b6493c39eacc1327b4a961d4b0ab2b627"
+  dependencies:
+    html-to-json-data "^1.5.1"
 
 optionator@^0.8.1:
   version "0.8.2"
@@ -780,6 +786,10 @@ whatwg-url@^6.4.0, whatwg-url@^6.4.1:
 "wikipedia-jp-railway-lines@github:piuccio/wikipedia-jp-railway-lines":
   version "1.0.0"
   resolved "https://codeload.github.com/piuccio/wikipedia-jp-railway-lines/tar.gz/250743aa3d53736dca126aba66c94163b54cb308"
+  dependencies:
+    got "^9.0.0"
+    japan-train-data "^0.6.0"
+    split-array "^1.0.1"
 
 wordwrap@~1.0.0:
   version "1.0.0"

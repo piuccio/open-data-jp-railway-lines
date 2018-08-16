@@ -11,6 +11,7 @@
   "author": "Fabio Crisci",
   "license": "MIT",
   "devDependencies": {
+    "array-flatten": "^2.1.1",
     "csv-parse": "^2.5.0",
     "open-data-jp-railway-lines-logo": "github:piuccio/open-data-jp-railway-lines-logo",
     "open-data-jp-tokyo-railway-operators": "github:piuccio/open-data-jp-tokyo-railway-operators",

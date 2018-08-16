@@ -815,6 +815,36 @@
     "logo": ""
   },
   {
+    "code": "JR-East.Joban",
+    "ekidata_id": "11229",
+    "name_kanji": "JR常磐線(取手～いわき)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "08",
+      "07"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "JR-East.JobanLocal",
+    "ekidata_id": "11229",
+    "name_kanji": "JR常磐線(取手～いわき)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "08",
+      "07"
+    ],
+    "logo": ""
+  },
+  {
     "code": "JR-East.JobanRapid",
     "ekidata_id": "11229",
     "name_kanji": "JR常磐線(取手～いわき)",
@@ -826,6 +856,36 @@
     "prefectures": [
       "08",
       "07"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "JR-East.Joban",
+    "ekidata_id": "11230",
+    "name_kanji": "JR常磐線(いわき～仙台)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "07",
+      "04"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "JR-East.JobanLocal",
+    "ekidata_id": "11230",
+    "name_kanji": "JR常磐線(いわき～仙台)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "07",
+      "04"
     ],
     "logo": ""
   },
@@ -874,6 +934,22 @@
       "13"
     ],
     "logo": ""
+  },
+  {
+    "code": "JR-East.Nambu",
+    "ekidata_id": "11303",
+    "name_kanji": "南武線",
+    "name_kana": "なんぶせん",
+    "name_romaji": "Nambu Line",
+    "alternative_names": [
+      "JR南武線",
+      "ナンブセン"
+    ],
+    "prefectures": [
+      "14",
+      "13"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JR_JN_line_symbol.svg/28px-JR_JN_line_symbol.svg.png"
   },
   {
     "code": "JR-East.NambuBranch",
@@ -1033,6 +1109,22 @@
     "logo": ""
   },
   {
+    "code": "JR-East.Sobu",
+    "ekidata_id": "11314",
+    "name_kanji": "総武本線",
+    "name_kana": "そうぶほんせん",
+    "name_romaji": "Sobu Main Line",
+    "alternative_names": [
+      "JR総武本線",
+      "ソウブホンセン"
+    ],
+    "prefectures": [
+      "13",
+      "12"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JR_JO_line_symbol.svg/28px-JR_JO_line_symbol.svg.png"
+  },
+  {
     "code": "JR-East.SobuRapid",
     "ekidata_id": "11314",
     "name_kanji": "総武本線",
@@ -1127,6 +1219,38 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JR_JU_line_symbol.svg/28px-JR_JU_line_symbol.svg.png"
   },
   {
+    "code": "JR-East.Joban",
+    "ekidata_id": "11320",
+    "name_kanji": "JR常磐線(上野～取手)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "13",
+      "12",
+      "08"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "JR-East.JobanLocal",
+    "ekidata_id": "11320",
+    "name_kanji": "JR常磐線(上野～取手)",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "ジョウバンセン"
+    ],
+    "prefectures": [
+      "13",
+      "12",
+      "08"
+    ],
+    "logo": ""
+  },
+  {
     "code": "JR-East.JobanRapid",
     "ekidata_id": "11320",
     "name_kanji": "JR常磐線(上野～取手)",
@@ -1157,6 +1281,21 @@
       "11"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/JR_JA_line_symbol.svg/28px-JR_JA_line_symbol.svg.png"
+  },
+  {
+    "code": "JR-East.Kawagoe",
+    "ekidata_id": "11322",
+    "name_kanji": "川越線",
+    "name_kana": "かわごえせん",
+    "name_romaji": "Kawagoe Line",
+    "alternative_names": [
+      "JR川越線",
+      "カワゴエセン"
+    ],
+    "prefectures": [
+      "11"
+    ],
+    "logo": ""
   },
   {
     "code": "JR-East.SaikyoKawagoe",
@@ -1235,6 +1374,36 @@
       "12"
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/JR_JE_line_symbol.svg/28px-JR_JE_line_symbol.svg.png"
+  },
+  {
+    "code": "JR-East.Narita",
+    "ekidata_id": "11327",
+    "name_kanji": "成田線",
+    "name_kana": "なりたせん",
+    "name_romaji": "Narita Line",
+    "alternative_names": [
+      "JR成田線",
+      "ナリタセン"
+    ],
+    "prefectures": [
+      "12"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "JR-East.NaritaAbikoBranch",
+    "ekidata_id": "11327",
+    "name_kanji": "成田線",
+    "name_kana": "なりたせん",
+    "name_romaji": "Narita Line",
+    "alternative_names": [
+      "JR成田線",
+      "ナリタセン"
+    ],
+    "prefectures": [
+      "12"
+    ],
+    "logo": ""
   },
   {
     "code": "JR-East.NaritaAirportBranch",
@@ -3409,6 +3578,40 @@
     "logo": ""
   },
   {
+    "code": "Tobu.Isesaki",
+    "ekidata_id": "21002",
+    "name_kanji": "東武伊勢崎線",
+    "name_kana": "いせさきせん",
+    "name_romaji": "Tobu Isesaki Line",
+    "alternative_names": [
+      "トウブイセサキセン"
+    ],
+    "prefectures": [
+      "13",
+      "11",
+      "10",
+      "09"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "Tobu.TobuSkytree",
+    "ekidata_id": "21002",
+    "name_kanji": "東武伊勢崎線",
+    "name_kana": "いせさきせん",
+    "name_romaji": "Tobu Isesaki Line",
+    "alternative_names": [
+      "トウブイセサキセン"
+    ],
+    "prefectures": [
+      "13",
+      "11",
+      "10",
+      "09"
+    ],
+    "logo": ""
+  },
+  {
     "code": "Tobu.TobuSkytreeBranch",
     "ekidata_id": "21002",
     "name_kanji": "東武伊勢崎線",
@@ -3549,6 +3752,20 @@
     "name_romaji": "Tobu Kiryu Line",
     "alternative_names": [
       "トウブキリュウセン"
+    ],
+    "prefectures": [
+      "10"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "Tobu.Koizumi",
+    "ekidata_id": "21012",
+    "name_kanji": "東武小泉線",
+    "name_kana": "こいずみせん",
+    "name_romaji": "Tobu Koizumi Line",
+    "alternative_names": [
+      "トウブコイズミセン"
     ],
     "prefectures": [
       "10"
@@ -3739,6 +3956,21 @@
       "13"
     ],
     "logo": ""
+  },
+  {
+    "code": "Keisei.HigashiNarita",
+    "ekidata_id": "23001",
+    "name_kanji": "京成本線",
+    "name_kana": "ほんせん",
+    "name_romaji": "Keisei Main Line",
+    "alternative_names": [
+      "ケイセイホンセン"
+    ],
+    "prefectures": [
+      "13",
+      "12"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG"
   },
   {
     "code": "Keisei.Main",
@@ -4166,6 +4398,20 @@
     "name_romaji": "Tokyo Metro Ginza Line",
     "alternative_names": [
       "ギンザセン"
+    ],
+    "prefectures": [
+      "13"
+    ],
+    "logo": ""
+  },
+  {
+    "code": "TokyoMetro.Marunouchi",
+    "ekidata_id": "28002",
+    "name_kanji": "東京メトロ丸ノ内線",
+    "name_kana": "まるのうちせん",
+    "name_romaji": "Tokyo Metro Marunouchi Line",
+    "alternative_names": [
+      "マルノウチセン"
     ],
     "prefectures": [
       "13"
