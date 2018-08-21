@@ -394,6 +394,10 @@ isstream@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
 
+japan-train-data@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/japan-train-data/-/japan-train-data-0.6.0.tgz#455285a7405567006bf83a09fa773bbf8467fe5f"
+
 jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
@@ -526,8 +530,6 @@ oauth-sign@~0.9.0:
 "open-data-jp-tokyo-railway-operators@github:piuccio/open-data-jp-tokyo-railway-operators":
   version "1.0.0"
   resolved "https://codeload.github.com/piuccio/open-data-jp-tokyo-railway-operators/tar.gz/8899e87b6493c39eacc1327b4a961d4b0ab2b627"
-  dependencies:
-    html-to-json-data "^1.5.1"
 
 optionator@^0.8.1:
   version "0.8.2"

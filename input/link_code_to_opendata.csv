@@ -9,7 +9,7 @@ Isumi.Isumi,いすみ線,99308
 IzuHakone.Sunzu,駿豆線,99502
 Izukyu.Izukyu,伊豆急行線,99501
 JR-Central.Gotemba,御殿場線,11505
-JR-Central.Tokaido,東海道線,11301
+JR-Central.Tokaido,東海道線,11501|11502|11503
 JR-East.Agatsuma,吾妻線,11335
 JR-East.Chuo,中央本線,11311
 JR-East.ChuoRapid,中央線快速,11312
@@ -46,7 +46,7 @@ JR-East.SobuRapid,総武快速線,11314
 JR-East.Sotobo,外房線,11324
 JR-East.Takasaki,高崎線,11323
 JR-East.Togane,東金線,11331
-JR-East.Tokaido,東海道線,11501|11502|11503
+JR-East.Tokaido,東海道線,11301
 JR-East.Tsurumi,鶴見線,11304
 JR-East.Uchibo,内房線,11325
 JR-East.Utsunomiya,宇都宮線,11319

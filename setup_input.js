@@ -104,8 +104,8 @@ async function connectOpenDataLines(lines) {
 function ekidataCodes(code, name, lines) {
   // Manual map
   const MANUAL = {
-    'JR-Central.Tokaido': ['11301'],
-    'JR-East.Tokaido': ['11501', '11502', '11503'],
+    'JR-East.Tokaido': ['11301'],
+    'JR-Central.Tokaido': ['11501', '11502', '11503'],
     'Tobu.TobuUrbanPark': ['21004'],
     'JR-East.Chuo': ['11311'],
     // trains on the Joban have different directions but all 3 have local / rapoid trains

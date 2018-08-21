@@ -905,7 +905,7 @@
     "logo": ""
   },
   {
-    "code": "JR-Central.Tokaido",
+    "code": "JR-East.Tokaido",
     "ekidata_id": "11301",
     "name_kanji": "JR東海道本線(東京～熱海)",
     "name_kana": "",
@@ -1965,7 +1965,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.Tokaido",
+    "code": "JR-Central.Tokaido",
     "ekidata_id": "11501",
     "name_kanji": "JR東海道本線(熱海～浜松)",
     "name_kana": "",
@@ -1979,7 +1979,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.Tokaido",
+    "code": "JR-Central.Tokaido",
     "ekidata_id": "11502",
     "name_kanji": "JR東海道本線(浜松～岐阜)",
     "name_kana": "",
@@ -1995,7 +1995,7 @@
     "logo": ""
   },
   {
-    "code": "JR-East.Tokaido",
+    "code": "JR-Central.Tokaido",
     "ekidata_id": "11503",
     "name_kanji": "JR東海道本線(岐阜～美濃赤坂・米原)",
     "name_kana": "",
